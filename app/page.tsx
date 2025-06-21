@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { Dashboard } from './components/Dashboard';
 import { LoginForm } from './components/LoginForm';
+import { authApi } from './lib/api';
 
 export default function Home() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -19,7 +20,10 @@ export default function Home() {
     setIsAuthenticated(true);
   };
 
-  const handleSignOut = () => {
+  const handleSignOut = async () => {
+    // Call logout endpoint to clear database
+    await authApi.logout();
+    
     // Clear all auth data
     localStorage.removeItem('auth_token');
     localStorage.removeItem('user_info');

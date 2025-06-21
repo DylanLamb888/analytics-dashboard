@@ -50,6 +50,13 @@ export const Dashboard: React.FC<DashboardProps> = ({ onSignOut }) => {
   };
 
   useEffect(() => {
+    // Reset state on mount for clean demo
+    setHasData(false);
+    setMetrics(null);
+    fetchMetrics();
+  }, []);
+
+  useEffect(() => {
     fetchMetrics();
   }, [startDate, endDate]);
 

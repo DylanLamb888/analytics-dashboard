@@ -35,6 +35,15 @@ export const authApi = {
     const response = await api.post('/api/auth/login', { email, password });
     return response.data;
   },
+
+  logout: async () => {
+    try {
+      await api.post('/api/auth/logout');
+    } catch (error) {
+      // Continue with logout even if API call fails
+      console.error('Logout API call failed:', error);
+    }
+  },
 };
 
 export const uploadApi = {

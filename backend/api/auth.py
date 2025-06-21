@@ -3,6 +3,7 @@
 from fastapi import APIRouter, HTTPException, status
 
 from core.security import authenticate_user, create_access_token
+from core.database import clear_orders
 from schemas.auth import LoginRequest, LoginResponse
 
 
@@ -21,6 +22,9 @@ async def login(credentials: LoginRequest):
             headers={"WWW-Authenticate": "Bearer"},
         )
     
+    # Clear database for fresh demo start
+    clear_orders()
+    
     # Create access token
     access_token = create_access_token(
         data={
@@ -38,3 +42,12 @@ async def login(credentials: LoginRequest):
             "role": user["role"],
         }
     )
+
+
+@router.post("/logout")
+async def logout():
+    """Logout endpoint - clears data for clean demo."""
+    # Clear all orders data
+    clear_orders()
+    
+    return {"message": "Logged out successfully"}
