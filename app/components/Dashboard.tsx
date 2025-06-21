@@ -7,6 +7,7 @@ import { MetricsCard } from './MetricsCard';
 import { SalesChart } from './charts/SalesChart';
 import { TopProductsChart } from './charts/TopProductsChart';
 import { Button } from './ui/button';
+import { UserMenu } from './UserMenu';
 import { metricsApi, exportApi } from '@/app/lib/api';
 import { subDays } from 'date-fns';
 import { 
@@ -19,7 +20,11 @@ import {
 } from 'lucide-react';
 import { motion } from 'framer-motion';
 
-export const Dashboard: React.FC = () => {
+interface DashboardProps {
+  onSignOut: () => void;
+}
+
+export const Dashboard: React.FC<DashboardProps> = ({ onSignOut }) => {
   const [loading, setLoading] = useState(true);
   const [hasData, setHasData] = useState(false);
   const [startDate, setStartDate] = useState(subDays(new Date(), 30));
@@ -127,6 +132,7 @@ export const Dashboard: React.FC = () => {
               <Download className="w-4 h-4 mr-2" />
               Export
             </Button>
+            <UserMenu onSignOut={onSignOut} />
           </div>
         </div>
 

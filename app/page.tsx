@@ -19,6 +19,13 @@ export default function Home() {
     setIsAuthenticated(true);
   };
 
+  const handleSignOut = () => {
+    // Clear all auth data
+    localStorage.removeItem('auth_token');
+    localStorage.removeItem('user_info');
+    setIsAuthenticated(false);
+  };
+
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center">
@@ -31,5 +38,5 @@ export default function Home() {
     return <LoginForm onLoginSuccess={handleLoginSuccess} />;
   }
 
-  return <Dashboard />;
+  return <Dashboard onSignOut={handleSignOut} />;
 }

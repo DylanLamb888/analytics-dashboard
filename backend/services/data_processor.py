@@ -125,8 +125,12 @@ class DataProcessor:
     def process_csv(self, file_content: bytes) -> Dict[str, Any]:
         """Process CSV file and return results."""
         try:
-            # Read CSV
-            df = pd.read_csv(io.BytesIO(file_content))
+            # Read CSV with proper handling of quoted fields
+            df = pd.read_csv(io.BytesIO(file_content), quotechar='"', skipinitialspace=True)
+            
+            # Log for debugging
+            print(f"CSV loaded with {len(df)} rows")
+            print(f"Columns: {df.columns.tolist()}")
             
             # Validate schema
             errors = self.validate_csv_schema(df)
@@ -143,53 +147,75 @@ class DataProcessor:
             
             # Process each row
             processed_rows = []
-            for _, row in df.iterrows():
-                # Parse address
-                address_parts = self.parse_address(row['address_line'])
-                
-                # Get coordinates
-                lat, lng = self.enrich_with_coordinates(address_parts['zip_code'])
-                
-                # Calculate derived fields
-                order_date = pd.to_datetime(row['order_date'])
-                order_total = float(row['quantity']) * float(row['unit_price_usd'])
-                
-                processed_row = {
-                    'order_id': str(row['order_id']),
-                    'order_date': order_date,
-                    'customer_name': row['customer_name'],
-                    'address_line': row['address_line'],
-                    'street': address_parts['street'],
-                    'city': address_parts['city'],
-                    'state': address_parts['state'],
-                    'zip_code': address_parts['zip_code'],
-                    'latitude': lat,
-                    'longitude': lng,
-                    'item_sku': row['item_sku'],
-                    'item_name': row['item_name'],
-                    'quantity': int(row['quantity']),
-                    'unit_price_usd': float(row['unit_price_usd']),
-                    'order_total': order_total,
-                    'order_day': order_date.date(),
-                    'weekday': order_date.weekday(),
-                }
-                
-                processed_rows.append(processed_row)
+            failed_rows = []
+            
+            for idx, row in df.iterrows():
+                try:
+                    # Parse address
+                    address_parts = self.parse_address(row['address_line'])
+                    
+                    # Get coordinates
+                    lat, lng = self.enrich_with_coordinates(address_parts['zip_code'])
+                    
+                    # Calculate derived fields
+                    order_date = pd.to_datetime(row['order_date'])
+                    order_total = float(row['quantity']) * float(row['unit_price_usd'])
+                    
+                    processed_row = {
+                        'order_id': str(row['order_id']),
+                        'order_date': order_date,
+                        'customer_name': row['customer_name'],
+                        'address_line': row['address_line'],
+                        'street': address_parts['street'],
+                        'city': address_parts['city'],
+                        'state': address_parts['state'],
+                        'zip_code': address_parts['zip_code'],
+                        'latitude': lat,
+                        'longitude': lng,
+                        'item_sku': row['item_sku'],
+                        'item_name': row['item_name'],
+                        'quantity': int(row['quantity']),
+                        'unit_price_usd': float(row['unit_price_usd']),
+                        'order_total': order_total,
+                        'order_day': order_date.date(),
+                        'weekday': order_date.weekday(),
+                    }
+                    
+                    processed_rows.append(processed_row)
+                except Exception as row_error:
+                    failed_rows.append({
+                        'row': idx + 2,  # +2 for header and 0-based index
+                        'order_id': row.get('order_id', 'unknown'),
+                        'error': str(row_error)
+                    })
+                    print(f"Error processing row {idx}: {row_error}")
             
             # Insert into database
             if processed_rows:
                 self._insert_orders(processed_rows)
             
-            return {
-                'success': True,
+            # Return results with details about failures
+            result = {
+                'success': len(processed_rows) > 0,
                 'rows_processed': len(processed_rows),
                 'errors': [],
             }
             
+            if failed_rows:
+                result['errors'].append(f"Failed to process {len(failed_rows)} rows")
+                if len(failed_rows) <= 5:
+                    for fail in failed_rows:
+                        result['errors'].append(f"Row {fail['row']} (Order {fail['order_id']}): {fail['error']}")
+            
+            return result
+            
         except Exception as e:
+            print(f"CSV processing error: {e}")
+            import traceback
+            traceback.print_exc()
             return {
                 'success': False,
-                'errors': [str(e)],
+                'errors': [f"CSV processing failed: {str(e)}"],
                 'rows_processed': 0,
             }
     
@@ -200,8 +226,22 @@ class DataProcessor:
         # Convert to DataFrame for bulk insert
         df = pd.DataFrame(orders)
         
-        # Insert into DuckDB
-        conn.execute("INSERT INTO orders SELECT * FROM df")
+        # Specify columns explicitly to avoid mismatch
+        columns = [
+            'order_id', 'order_date', 'customer_name', 'address_line',
+            'street', 'city', 'state', 'zip_code', 'latitude', 'longitude',
+            'item_sku', 'item_name', 'quantity', 'unit_price_usd',
+            'order_total', 'order_day', 'weekday'
+        ]
+        
+        # Create column list for SQL
+        column_list = ', '.join(columns)
+        
+        # Insert into DuckDB with explicit columns
+        conn.execute(f"""
+            INSERT INTO orders ({column_list})
+            SELECT {column_list} FROM df
+        """)
         conn.commit()
 
 

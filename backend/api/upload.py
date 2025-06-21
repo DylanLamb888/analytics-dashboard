@@ -39,12 +39,14 @@ async def upload_csv(
     result = data_processor.process_csv(contents)
     
     if not result['success']:
+        # Return a proper error structure
+        error_message = "Failed to process CSV file"
+        if result['errors']:
+            error_message = result['errors'][0] if len(result['errors']) == 1 else "Multiple errors occurred"
+        
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
-            detail={
-                "message": "Failed to process CSV file",
-                "errors": result['errors']
-            }
+            detail=error_message
         )
     
     return {
