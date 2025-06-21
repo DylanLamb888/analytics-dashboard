@@ -180,20 +180,6 @@ export const Dashboard: React.FC<DashboardProps> = ({ onSignOut }) => {
           />
         </div>
 
-        {/* Geographic Heatmap Placeholder */}
-        <Card className="w-full">
-          <CardHeader>
-            <CardTitle>Geographic Distribution</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <div className="h-[400px] bg-muted rounded-lg flex items-center justify-center">
-              <p className="text-muted-foreground">
-                Geographic heatmap visualization would be embedded here via Streamlit iframe
-              </p>
-            </div>
-          </CardContent>
-        </Card>
-
         {/* Upload Section */}
         <div className="pt-8">
           <h2 className="text-xl font-semibold mb-4">Upload New Data</h2>
@@ -203,5 +189,3 @@ export const Dashboard: React.FC<DashboardProps> = ({ onSignOut }) => {
     </div>
   );
 };
-
-import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
