@@ -39,3 +39,42 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+backend/venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database
+*.db
+analytics.db
+
+# Logs
+logs/
+*.log
+
+# Streamlit
+.streamlit/
+
+# Data files (keep dummy_orders.csv for demo)
+*.csv
+!dummy_orders.csv

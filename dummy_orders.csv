@@ -1,0 +1,1001 @@
+order_id,order_date,customer_name,address_line,item_sku,item_name,quantity,unit_price_usd
+e11a24f0-03ac-4254-8d11-52a1dfb607de,2025-06-21T23:34:41Z,Carol Garcia,"456 Sunset Blvd, Los Angeles CA 90028",SKU-G78-BLU,Laptop Sleeve,1,35.0
+1b0617e5-6641-453e-98ae-89ab141168f4,2025-06-21T21:24:12Z,Amy Anderson,"400 Pine St, Seattle WA 98101",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+14cbf9a0-00b5-4c05-8562-1dd3e638850a,2025-06-21T13:06:21Z,Susan Johnson,"222 Main St, Houston TX 77002",SKU-H89-GRN,Camera Bag,2,85.0
+142d1da1-d6c8-46af-99e2-3afaf1437826,2025-06-21T10:57:06Z,Charles Walker,"505 Beach Blvd, Jacksonville FL 32250",SKU-G78-BLU,Laptop Sleeve,1,35.0
+95bb2fdd-0a93-4e6b-a1e4-21e5c333439f,2025-06-21T02:52:42Z,Ashley Miller,"456 S Wacker Dr, Chicago IL 60606",SKU-G78-BLU,Laptop Sleeve,1,35.0
+fd5609c2-508e-4cb3-9c94-f78679c8a5e0,2025-06-21T01:21:36Z,William Brown,"200 Marietta St, Atlanta GA 30303",SKU-E56-BLK,Travel Duffel,1,95.0
+2bffba8f-d2fc-4157-acf9-90ebd8057f6a,2025-06-20T16:43:32Z,Timothy Jones,"300 Spring St, Atlanta GA 30308",SKU-H89-GRN,Camera Bag,1,85.0
+85eecd6e-c3e2-46a7-af20-03a231ec6b98,2025-06-20T14:15:40Z,Christopher Gonzalez,"234 Broadway, Denver CO 80205",SKU-F67-RED,Sports Backpack,2,55.0
+06b79e46-4014-4f5f-bfbb-1a5fc97012af,2025-06-20T10:32:29Z,Sarah Roberts,"400 Mill Ave, Tempe AZ 85281",SKU-D45-BRN,Leather Wallet,1,45.0
+2a22557f-c2cd-460a-9768-ff4b1cbd15dd,2025-06-20T01:23:33Z,Richard Ramirez,"321 Pine St, San Francisco CA 94108",SKU-F67-RED,Sports Backpack,3,55.0
+14f31f33-f95f-4449-8750-29c7b08287bd,2025-06-19T22:25:33Z,Paul Gomez,"444 Travis St, Houston TX 77002",SKU-E56-BLK,Travel Duffel,2,95.0
+9d3aeb64-a81f-4b45-aecc-01b086e9ed0e,2025-06-19T18:23:42Z,Mary Mitchell,"303 Biscayne Blvd, Miami FL 33132",SKU-E56-BLK,Travel Duffel,2,95.0
+5b8a0b52-3f3d-4ae3-a0bf-e95edc39f148,2025-06-19T10:08:19Z,Timothy Harris,"234 Broadway, Denver CO 80205",SKU-F67-RED,Sports Backpack,1,55.0
+17ea2dfd-a6b3-442a-a59b-00270ec5ff3e,2025-06-18T23:27:09Z,Charles Allen,"456 Pearl St, Boulder CO 80302",SKU-G78-BLU,Laptop Sleeve,2,35.0
+89997fad-cd66-4fcc-8478-6b479fa4bbac,2025-06-18T23:16:11Z,Ronald Hill,"456 Sunset Blvd, Los Angeles CA 90028",SKU-C34-NVY,Executive Briefcase,2,125.0
+c3624ce2-caf3-453f-a6d7-224e3f23a40c,2025-06-18T22:35:00Z,Linda Anderson,"111 Congress Ave, Austin TX 78701",SKU-E56-BLK,Travel Duffel,1,95.0
+1517c073-18da-459e-b710-9138ae6cd00f,2025-06-18T21:05:26Z,Kevin Thompson,"555 Elm St, Dallas TX 75202",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+f23d4c1a-2674-4f17-a1eb-ea7bfc64b552,2025-06-18T15:54:06Z,Sarah Brown,"200 5th Ave, New York NY 10010",SKU-G78-BLU,Laptop Sleeve,1,35.0
+efa17003-058f-4c04-88d6-a64978f39a50,2025-06-18T10:14:57Z,Lisa Jones,"100 Peachtree St, Atlanta GA 30303",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+7a369497-8e7d-456a-ba8b-13e0d8509bdb,2025-06-18T03:54:30Z,Jason Diaz,"234 W Madison St, Chicago IL 60606",SKU-A12-BLK,Transit Backpack,4,79.0
+49455f37-92f1-4d1f-9d50-abee2a47d8cb,2025-06-18T01:51:25Z,Daniel Young,"123 Maple St, Denver CO 80218",SKU-G78-BLU,Laptop Sleeve,3,35.0
+2230156c-fb94-4bfe-a84d-93c72d42b1a8,2025-06-17T22:12:04Z,Kimberly Clark,"500 Lexington Ave, New York NY 10170",SKU-A12-BLK,Transit Backpack,1,79.0
+a386b8bb-5fe3-4d39-ada4-33699b99ac67,2025-06-17T07:28:02Z,Susan Young,"100 Peachtree St, Atlanta GA 30303",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+ee71e9b4-387d-4451-acfe-3cc41cead1d9,2025-06-17T06:59:09Z,Kenneth Phillips,"300 Park Ave, New York NY 10022",SKU-D45-BRN,Leather Wallet,3,45.0
+004586cd-00a7-47ac-9933-cfde22ec5d9c,2025-06-16T22:43:45Z,Sandra Turner,"400 Atlantic Ave, Boston MA 02110",SKU-A12-BLK,Transit Backpack,1,79.0
+377070a1-b513-432c-97db-ebd5f2ce4c90,2025-06-16T14:45:36Z,Edward Thompson,"101 Ocean Dr, Miami Beach FL 33139",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+37159c73-4276-44e5-b6da-9c06b3036125,2025-06-16T13:43:40Z,Sandra Thompson,"333 Commerce St, Dallas TX 75201",SKU-G78-BLU,Laptop Sleeve,2,35.0
+5901c903-d99b-4975-b329-eafe5aea7e7a,2025-06-15T22:24:42Z,Brian Flores,"500 University Dr, Tempe AZ 85281",SKU-G78-BLU,Laptop Sleeve,2,35.0
+cda058ec-e427-4c3b-8c1e-2bc5f24771bc,2025-06-15T21:17:54Z,Laura Taylor,"555 Elm St, Dallas TX 75202",SKU-H89-GRN,Camera Bag,1,85.0
+17aeb3ab-2120-4e53-83be-b5e36c2df53c,2025-06-15T18:54:56Z,Anthony Nguyen,"303 Biscayne Blvd, Miami FL 33132",SKU-F67-RED,Sports Backpack,2,55.0
+2e9c3800-dced-4bef-b17e-3ec7e22bf482,2025-06-15T12:07:21Z,Michelle Brown,"505 Beach Blvd, Jacksonville FL 32250",SKU-D45-BRN,Leather Wallet,1,45.0
+f058633a-c0c9-48e8-a0db-0c3a33ec0f03,2025-06-15T11:19:06Z,Charles Anderson,"200 5th Ave, New York NY 10010",SKU-D45-BRN,Leather Wallet,1,45.0
+2ef613fb-3696-463d-8cf6-f09b290219cc,2025-06-15T10:02:35Z,Anthony Lee,"123 N Michigan Ave, Chicago IL 60601",SKU-C34-NVY,Executive Briefcase,2,125.0
+410332c1-d95f-4b33-ab7c-abc96085f7b7,2025-06-15T09:28:28Z,David King,"200 N Central Ave, Phoenix AZ 85004",SKU-H89-GRN,Camera Bag,4,85.0
+00673b37-2088-4c03-8ff5-883817f67fa3,2025-06-15T04:35:59Z,Sharon Anderson,"567 Canyon Blvd, Boulder CO 80302",SKU-F67-RED,Sports Backpack,1,55.0
+23b120fd-0a69-49ed-a6e5-68be5ec2132f,2025-06-15T01:45:04Z,Kimberly Hall,"300 Congress St, Boston MA 02210",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+086c1c30-765f-4db1-95b2-d83a6b0b3303,2025-06-15T00:47:48Z,Sandra Turner,"300 E Van Buren St, Phoenix AZ 85004",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+505fa963-934f-4b08-a068-3fff56dce927,2025-06-14T23:15:32Z,Nancy Thompson,"234 Broadway, Denver CO 80205",SKU-A12-BLK,Transit Backpack,1,79.0
+da6642f6-8b61-462a-91a7-7effeee000c8,2025-06-14T19:56:30Z,Angela Baker,"500 Broadway, Seattle WA 98122",SKU-F67-RED,Sports Backpack,1,55.0
+c377458f-e740-4c15-9b97-561a09b00bc0,2025-06-14T06:53:56Z,Nancy Davis,"456 S Wacker Dr, Chicago IL 60606",SKU-D45-BRN,Leather Wallet,3,45.0
+a2e8790e-b2a2-4ca3-a528-4c33a4401bbf,2025-06-14T06:36:48Z,Kevin Nguyen,"400 Atlantic Ave, Boston MA 02110",SKU-E56-BLK,Travel Duffel,2,95.0
+8a6968b7-6c4c-48f3-b055-79cd2e930d2f,2025-06-14T03:45:44Z,Matthew Mitchell,"200 State St, Boston MA 02109",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+a8d0ea07-aed2-420b-91ef-9eb81e7aab98,2025-06-14T02:01:42Z,Kenneth Phillips,"400 Atlantic Ave, Boston MA 02110",SKU-A12-BLK,Transit Backpack,1,79.0
+547931dc-ea51-48d0-8e78-862040b88978,2025-06-13T21:26:35Z,Jessica Thomas,"222 Main St, Houston TX 77002",SKU-A12-BLK,Transit Backpack,1,79.0
+4cad4a65-ffcc-4832-8540-ea36b528ea2f,2025-06-13T21:16:19Z,William Rodriguez,"100 E Washington St, Phoenix AZ 85004",SKU-F67-RED,Sports Backpack,2,55.0
+043fef2b-be18-4127-ba6a-6a1df72d47e6,2025-06-13T17:35:42Z,Anthony King,"567 Canyon Blvd, Boulder CO 80302",SKU-E56-BLK,Travel Duffel,3,95.0
+4ec3a5db-486a-4b60-9b14-dae39466beee,2025-06-13T11:45:43Z,Ashley Lopez,"100 Peachtree St, Atlanta GA 30303",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+8b645ae0-2b28-4495-8039-e3bae9ed3dc3,2025-06-13T11:38:48Z,Angela Jones,"200 5th Ave, New York NY 10010",SKU-C34-NVY,Executive Briefcase,2,125.0
+93b6bf26-6d16-4a17-b2c9-7b7010859866,2025-06-13T11:35:33Z,Sarah Lee,"300 E Van Buren St, Phoenix AZ 85004",SKU-F67-RED,Sports Backpack,2,55.0
+2988af00-afd1-4d74-964a-ff1fcb0200b7,2025-06-13T09:11:34Z,Michelle Walker,"500 University Dr, Tempe AZ 85281",SKU-E56-BLK,Travel Duffel,1,95.0
+1b23c5cb-4201-4697-8a1f-5e858d0ffbd1,2025-06-13T03:13:57Z,Donna Torres,"505 Beach Blvd, Jacksonville FL 32250",SKU-H89-GRN,Camera Bag,1,85.0
+1d90219a-f66b-457e-ac95-611a706a575b,2025-06-13T03:03:15Z,Kevin Turner,"100 Broadway, New York NY 10005",SKU-H89-GRN,Camera Bag,1,85.0
+ac8370a9-80a0-49bc-8b66-e31145fabed9,2025-06-13T02:58:38Z,Kimberly Smith,"400 Atlantic Ave, Boston MA 02110",SKU-C34-NVY,Executive Briefcase,3,125.0
+41b366aa-7121-470d-8ce0-00e72abf87ed,2025-06-12T18:32:54Z,Ronald Hill,"111 Congress Ave, Austin TX 78701",SKU-C34-NVY,Executive Briefcase,1,125.0
+d554dcad-a3fa-42eb-b89f-b7fbf1c21e00,2025-06-12T12:12:17Z,Paul Jones,"100 Summer St, Boston MA 02110",SKU-A12-BLK,Transit Backpack,1,79.0
+38e0166a-e729-484b-ab2d-ed3da91980c6,2025-06-12T00:53:39Z,Helen Perez,"300 E Van Buren St, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,2,95.0
+a091ed80-78c2-49ab-a3f7-7120648794fe,2025-06-11T13:48:52Z,Lisa Evans,"100 Pike St, Seattle WA 98101",SKU-F67-RED,Sports Backpack,2,55.0
+96a6359f-5d2c-4552-8500-8b269a6e9c8d,2025-06-11T11:02:59Z,Nancy Davis,"500 University Dr, Tempe AZ 85281",SKU-G78-BLU,Laptop Sleeve,2,35.0
+9ef56832-6ae2-4413-aadf-d1046f07e04e,2025-06-11T10:48:25Z,Mary Turner,"456 S Wacker Dr, Chicago IL 60606",SKU-G78-BLU,Laptop Sleeve,1,35.0
+8364055c-4afa-42da-96e4-0d49f2e4bcfd,2025-06-11T05:59:55Z,Sandra Diaz,"200 5th Ave, New York NY 10010",SKU-D45-BRN,Leather Wallet,3,45.0
+f0f90e61-283f-4b0d-ab33-3ad8bc4d1850,2025-06-10T23:49:19Z,Ashley Lopez,"234 Broadway, Denver CO 80205",SKU-G78-BLU,Laptop Sleeve,2,35.0
+3968d69b-d1fe-4aaa-8a28-ad3fc6156e15,2025-06-10T17:37:20Z,Richard Campbell,"200 1st Ave, Seattle WA 98104",SKU-H89-GRN,Camera Bag,2,85.0
+63219689-3a3d-4c29-b269-334a4032da21,2025-06-10T08:44:45Z,Carol Garcia,"202 Collins Ave, Miami Beach FL 33140",SKU-D45-BRN,Leather Wallet,2,45.0
+6e119329-99dd-4a4c-91d2-f02a81a014f8,2025-06-10T08:25:16Z,Robert Martin,"500 University Dr, Tempe AZ 85281",SKU-C34-NVY,Executive Briefcase,1,125.0
+2ca6ee08-5630-4320-bafe-302e87e82511,2025-06-09T23:34:49Z,Ashley Lopez,"500 Lexington Ave, New York NY 10170",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+1fcab81c-7a53-4254-b26c-aaf7fd3a24c0,2025-06-09T20:22:57Z,Ruth Jackson,"200 N Central Ave, Phoenix AZ 85004",SKU-F67-RED,Sports Backpack,1,55.0
+2b17b3cf-0a17-406f-b23c-6b1d481c25fd,2025-06-09T15:51:47Z,Jennifer Sanchez,"300 University St, Seattle WA 98101",SKU-C34-NVY,Executive Briefcase,2,125.0
+b84a69a7-f488-4d82-9d72-cabeb7bf0f73,2025-06-09T11:37:09Z,Jennifer Robinson,"300 Congress St, Boston MA 02210",SKU-G78-BLU,Laptop Sleeve,2,35.0
+968d158b-af45-4b27-881f-6dd33ab889cd,2025-06-09T04:36:51Z,Ruth Jackson,"500 Lexington Ave, New York NY 10170",SKU-G78-BLU,Laptop Sleeve,2,35.0
+0f115235-0609-44c4-bfce-1ee702bfe341,2025-06-09T00:10:04Z,Paul Jackson,"321 Pine St, San Francisco CA 94108",SKU-A12-BLK,Transit Backpack,4,79.0
+84cb98b7-fe50-42e5-aa6f-c9ccec1e17ec,2025-06-08T16:39:22Z,Susan Johnson,"456 S Wacker Dr, Chicago IL 60606",SKU-D45-BRN,Leather Wallet,1,45.0
+898b8b99-b774-47d1-bc46-74213c799253,2025-06-08T14:30:25Z,Matthew Mitchell,"789 Ocean Ave, San Diego CA 92101",SKU-E56-BLK,Travel Duffel,1,95.0
+2735ddc2-4a52-4300-9b75-1d18066765c7,2025-06-08T11:10:22Z,Kevin Lopez,"300 University St, Seattle WA 98101",SKU-C34-NVY,Executive Briefcase,3,125.0
+b34fe422-ebc1-426e-8ba9-f26b8858f0e3,2025-06-08T06:09:05Z,Robert Perez,"400 Atlantic Ave, Boston MA 02110",SKU-D45-BRN,Leather Wallet,2,45.0
+00995588-01c3-4fb1-9df1-212e11329665,2025-06-08T03:09:01Z,Michelle Lee,"123 Maple St, Denver CO 80218",SKU-E56-BLK,Travel Duffel,1,95.0
+cbbee4cb-0e84-49e4-a68a-7d6ccb9bcee5,2025-06-08T01:13:26Z,Richard Sanchez,"321 Pine St, San Francisco CA 94108",SKU-H89-GRN,Camera Bag,2,85.0
+c69204a9-01ce-44fb-b7c4-727d3c6d7120,2025-06-07T18:38:54Z,Carol Garcia,"123 Maple St, Denver CO 80218",SKU-H89-GRN,Camera Bag,1,85.0
+0251c5ab-0da8-4785-bcd5-c860a1ecebb8,2025-06-07T17:11:53Z,Emily Moore,"100 Pike St, Seattle WA 98101",SKU-G78-BLU,Laptop Sleeve,3,35.0
+b1298802-4335-4a47-a466-7df3c64164d9,2025-06-07T09:54:46Z,Robert Martin,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-F67-RED,Sports Backpack,1,55.0
+7092ba38-10bd-4469-8f76-dd4e44e5978b,2025-06-07T08:37:27Z,Kimberly Hall,"100 Peachtree St, Atlanta GA 30303",SKU-H89-GRN,Camera Bag,2,85.0
+7e5daf5e-2689-448a-9db7-bb3779e3839d,2025-06-07T05:22:38Z,Sharon Flores,"200 State St, Boston MA 02109",SKU-H89-GRN,Camera Bag,1,85.0
+4fef48cb-c241-41ae-b78c-26619040ebdc,2025-06-07T00:27:49Z,Charles Walker,"456 Pearl St, Boulder CO 80302",SKU-D45-BRN,Leather Wallet,3,45.0
+1ebcc0e2-6f80-4b9a-8ba8-6e44c9952ba1,2025-06-06T23:35:17Z,Kimberly Adams,"300 Park Ave, New York NY 10022",SKU-H89-GRN,Camera Bag,4,85.0
+223d78f8-be9b-470a-a89d-78fb1ee5004e,2025-06-06T21:10:13Z,Michelle Lee,"100 Broadway, New York NY 10005",SKU-H89-GRN,Camera Bag,3,85.0
+ce570854-f090-48b7-b41e-29afbad08d41,2025-06-06T21:02:01Z,Richard Campbell,"123 Maple St, Denver CO 80218",SKU-D45-BRN,Leather Wallet,1,45.0
+8cec2bf1-5175-4ffa-98fc-21d25f956a52,2025-06-06T19:14:58Z,Daniel Anderson,"456 S Wacker Dr, Chicago IL 60606",SKU-H89-GRN,Camera Bag,1,85.0
+e2e711f6-a228-4d0b-80b9-eebda36bfe0e,2025-06-06T19:07:54Z,Mary Mitchell,"303 Biscayne Blvd, Miami FL 33132",SKU-A12-BLK,Transit Backpack,1,79.0
+a0e851c3-7d87-44c2-8ddf-206f8d1b9453,2025-06-06T16:31:41Z,Kenneth Phillips,"345 Lincoln St, Denver CO 80203",SKU-C34-NVY,Executive Briefcase,1,125.0
+52c933a8-d839-439b-b3c1-fe19aec6b71d,2025-06-06T13:04:15Z,James Roberts,"333 Commerce St, Dallas TX 75201",SKU-F67-RED,Sports Backpack,2,55.0
+e39a4410-b8f7-4fc9-b9e6-42df92cf191e,2025-06-06T08:45:36Z,Daniel Anderson,"345 Lincoln St, Denver CO 80203",SKU-A12-BLK,Transit Backpack,1,79.0
+515a5fed-acac-41c2-b957-dc68659fa1df,2025-06-06T08:18:29Z,Daniel Hill,"400 Mill Ave, Tempe AZ 85281",SKU-E56-BLK,Travel Duffel,1,95.0
+de6bc149-246f-4181-b2bd-9253975ffd25,2025-06-06T06:36:47Z,Kimberly Garcia,"123 Maple St, Denver CO 80218",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+f6386daf-fdca-447d-b2ac-f29396d53545,2025-06-06T03:22:40Z,Joshua Thomas,"123 Maple St, Denver CO 80218",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+b4be2fb6-2493-4214-9f9b-cc1bffd45505,2025-06-05T18:31:26Z,Patricia Wright,"321 Pine St, San Francisco CA 94108",SKU-H89-GRN,Camera Bag,1,85.0
+afb6918b-72b6-4b46-a7dc-3c6f2045e8f0,2025-06-05T16:06:55Z,Jason Diaz,"400 Pine St, Seattle WA 98101",SKU-E56-BLK,Travel Duffel,2,95.0
+9d4c75f3-eaa6-4a72-a9e5-0da76e6cbff2,2025-06-05T15:46:08Z,Timothy Mitchell,"200 State St, Boston MA 02109",SKU-C34-NVY,Executive Briefcase,3,125.0
+1150b5f7-403e-46f4-a213-0cc0e9eef103,2025-06-05T13:32:24Z,Kenneth Perez,"321 Pine St, San Francisco CA 94108",SKU-G78-BLU,Laptop Sleeve,1,35.0
+2d47f882-525c-4ec4-a77f-302469dc23dd,2025-06-05T09:18:10Z,Emily Moore,"333 Commerce St, Dallas TX 75201",SKU-D45-BRN,Leather Wallet,1,45.0
+b9190266-4f8d-4298-a722-25e3e251306c,2025-06-05T06:49:29Z,Laura Perez,"300 Park Ave, New York NY 10022",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+0b208de1-b858-42c5-9208-193574563a73,2025-06-05T00:33:43Z,Kimberly Smith,"222 Main St, Houston TX 77002",SKU-H89-GRN,Camera Bag,1,85.0
+4da9368b-08d9-4b22-811a-f576b63da45a,2025-06-05T00:07:49Z,George Smith,"500 Broadway, Seattle WA 98122",SKU-H89-GRN,Camera Bag,2,85.0
+40f29a82-8607-44a6-8a01-9b765412b2bc,2025-06-04T18:06:20Z,Elizabeth Rodriguez,"303 Biscayne Blvd, Miami FL 33132",SKU-H89-GRN,Camera Bag,1,85.0
+0e71a698-1577-4bc5-857c-7a2dee1caedb,2025-06-04T10:15:54Z,Charles Brown,"123 Maple St, Denver CO 80218",SKU-C34-NVY,Executive Briefcase,1,125.0
+95d10d4d-1525-4e6f-8583-42510874e2f5,2025-06-04T09:26:22Z,Susan Martinez,"200 N Central Ave, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,1,95.0
+b883fcc5-6a40-4fbf-96c9-d5d38356e183,2025-06-04T00:43:17Z,Michael Smith,"500 North Ave, Atlanta GA 30308",SKU-E56-BLK,Travel Duffel,1,95.0
+82c93d5f-1ea1-4cd1-8a6d-c2c689c8284d,2025-06-03T23:55:53Z,Daniel Harris,"222 Main St, Houston TX 77002",SKU-F67-RED,Sports Backpack,3,55.0
+6d1c79f4-c9ab-4246-80f5-a4748291fe2f,2025-06-03T22:49:08Z,William Brown,"100 Peachtree St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,2,79.0
+e9cd1cf6-4251-4172-98e4-47d2f4907be9,2025-06-03T22:06:40Z,Donna Torres,"500 Lexington Ave, New York NY 10170",SKU-F67-RED,Sports Backpack,4,55.0
+d758c2a5-5579-41c5-856a-4cee3e39ceb2,2025-06-03T20:50:28Z,Helen Perez,"500 North Ave, Atlanta GA 30308",SKU-E56-BLK,Travel Duffel,1,95.0
+61548045-2264-43e8-b5d2-1583c22181aa,2025-06-03T19:50:34Z,Jennifer Sanchez,"234 Broadway, Denver CO 80205",SKU-A12-BLK,Transit Backpack,1,79.0
+38afbef2-a55a-46a6-8fbb-45f195d6df72,2025-06-03T19:45:48Z,Daniel Ramirez,"321 Pine St, San Francisco CA 94108",SKU-A12-BLK,Transit Backpack,1,79.0
+ba647e09-cc28-439a-9858-31c69c6cc230,2025-06-03T19:13:42Z,Richard Nguyen,"100 Broadway, New York NY 10005",SKU-B23-GRY,Urban Messenger Bag,4,65.0
+c2174a00-062f-4872-8393-b2dd58d62ecb,2025-06-03T16:15:28Z,James Turner,"404 Orange Ave, Orlando FL 32801",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+b9deaf8d-ad03-4e3b-93cd-93058fe35dc6,2025-06-03T08:11:07Z,George Anderson,"300 E Van Buren St, Phoenix AZ 85004",SKU-A12-BLK,Transit Backpack,1,79.0
+ab2eaf08-14c1-4fa8-80e1-1d12e773a2e4,2025-06-03T05:22:03Z,Angela Baker,"500 Boylston St, Boston MA 02116",SKU-D45-BRN,Leather Wallet,1,45.0
+1ab1d996-e211-424f-90d1-0bc19c025d19,2025-06-03T01:08:05Z,Anthony Nguyen,"100 Summer St, Boston MA 02110",SKU-E56-BLK,Travel Duffel,2,95.0
+44fd3289-9392-422c-a119-72789f0c44ea,2025-06-02T23:45:26Z,Kevin Smith,"345 N State St, Chicago IL 60654",SKU-E56-BLK,Travel Duffel,4,95.0
+5498d042-9070-458c-b767-d1e1513f831a,2025-06-02T17:57:49Z,Sharon Hall,"400 Pine St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,1,85.0
+f34a3b60-fec9-42ea-9dcc-3ca65c539ca2,2025-06-02T16:55:45Z,Helen Nelson,"123 Maple St, Denver CO 80218",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+478e64e9-0fc2-44a9-8f8a-d8bf73313243,2025-06-02T10:41:28Z,Anthony King,"400 Piedmont Ave, Atlanta GA 30308",SKU-H89-GRN,Camera Bag,1,85.0
+88fc46f5-3515-48c7-b918-6e4bd9ad879b,2025-06-02T06:16:15Z,Sarah Roberts,"222 Main St, Houston TX 77002",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+9d6cb746-4a08-46a3-b4cf-ec62d055711c,2025-06-01T22:47:34Z,Matthew Thomas,"400 Madison Ave, New York NY 10017",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+a7816c7b-5b88-4f62-928f-e8e6237aaae7,2025-06-01T21:46:57Z,Timothy Clark,"505 Beach Blvd, Jacksonville FL 32250",SKU-D45-BRN,Leather Wallet,1,45.0
+c27b2cb1-67f0-4bac-8ae2-701fcd14b37f,2025-06-01T19:58:06Z,Linda Anderson,"456 Sunset Blvd, Los Angeles CA 90028",SKU-F67-RED,Sports Backpack,1,55.0
+2402f9e9-35f7-47a1-8f9d-f625f462b3be,2025-06-01T17:50:20Z,Kevin Smith,"200 1st Ave, Seattle WA 98104",SKU-C34-NVY,Executive Briefcase,1,125.0
+a7af0c75-8639-4425-a2ee-4faa71fbfcfb,2025-06-01T12:26:49Z,Sharon Anderson,"200 State St, Boston MA 02109",SKU-C34-NVY,Executive Briefcase,3,125.0
+78270155-f2f8-4f50-9697-6b98174c1a54,2025-06-01T05:19:49Z,Kevin Thompson,"100 Broadway, New York NY 10005",SKU-D45-BRN,Leather Wallet,1,45.0
+bb40f55e-dedc-491e-b79d-56145b257d6b,2025-05-31T19:19:25Z,Kevin Williams,"111 Congress Ave, Austin TX 78701",SKU-G78-BLU,Laptop Sleeve,1,35.0
+5de9a278-b4b5-4b26-8a5a-fe1c814ecc8d,2025-05-31T09:49:11Z,Laura Sanchez,"100 E Washington St, Phoenix AZ 85004",SKU-G78-BLU,Laptop Sleeve,1,35.0
+60413699-10db-4a81-a100-b1ea446f5404,2025-05-30T13:12:52Z,Timothy Mitchell,"505 Beach Blvd, Jacksonville FL 32250",SKU-G78-BLU,Laptop Sleeve,1,35.0
+10f01889-4a18-44cb-9ac7-6c0f3f1e8e69,2025-05-30T05:45:17Z,Nancy Miller,"500 Boylston St, Boston MA 02116",SKU-A12-BLK,Transit Backpack,1,79.0
+b9aaa94f-bf81-4dc1-8bba-24e60bd067f8,2025-05-30T02:15:52Z,James Harris,"321 Pine St, San Francisco CA 94108",SKU-E56-BLK,Travel Duffel,3,95.0
+d00064de-9b49-4f2f-bf3a-5ee1b0f9fdfd,2025-05-29T19:01:19Z,Matthew Davis,"300 Park Ave, New York NY 10022",SKU-H89-GRN,Camera Bag,2,85.0
+29124302-9a05-45c1-bb5e-2275dc021511,2025-05-29T16:10:46Z,Mary Phillips,"456 S Wacker Dr, Chicago IL 60606",SKU-A12-BLK,Transit Backpack,1,79.0
+c8c8f90d-49c2-4355-8123-2b83de13316f,2025-05-29T13:56:01Z,Joshua Campbell,"505 Beach Blvd, Jacksonville FL 32250",SKU-F67-RED,Sports Backpack,1,55.0
+7a4154c8-1e23-40ea-b7e2-78da3f977ba6,2025-05-29T05:09:36Z,Timothy Brown,"100 Broadway, New York NY 10005",SKU-D45-BRN,Leather Wallet,2,45.0
+4c247c63-a9d4-4477-879f-bec45927a63f,2025-05-28T23:33:46Z,James Williams,"400 Mill Ave, Tempe AZ 85281",SKU-E56-BLK,Travel Duffel,3,95.0
+54c78129-6f98-434e-8fe3-ba440fdeed2a,2025-05-28T20:37:09Z,Susan Johnson,"300 Congress St, Boston MA 02210",SKU-C34-NVY,Executive Briefcase,1,125.0
+21684ca5-0ed5-4618-bfe1-444545b0d4ed,2025-05-28T15:40:29Z,Sandra Turner,"123 N Michigan Ave, Chicago IL 60601",SKU-A12-BLK,Transit Backpack,2,79.0
+9b839d8c-a31b-4411-a0c1-36fd8bb2b643,2025-05-28T07:39:00Z,Laura Perez,"300 E Van Buren St, Phoenix AZ 85004",SKU-A12-BLK,Transit Backpack,1,79.0
+b1ac6c0c-7716-4776-bf2a-61d0f61fb540,2025-05-28T04:44:43Z,Robert Martin,"100 E Washington St, Phoenix AZ 85004",SKU-H89-GRN,Camera Bag,2,85.0
+5b9fb49e-8700-40a7-826a-c95fecb642bd,2025-05-28T01:48:30Z,John Thompson,"300 Spring St, Atlanta GA 30308",SKU-D45-BRN,Leather Wallet,1,45.0
+b56fda8d-e9ea-445f-99ef-a42a80d59eff,2025-05-27T23:19:58Z,Daniel Anderson,"500 Boylston St, Boston MA 02116",SKU-D45-BRN,Leather Wallet,1,45.0
+f358b5a9-7660-4a88-b9a1-12f23b5a3efe,2025-05-27T20:21:24Z,Nancy Davis,"400 Mill Ave, Tempe AZ 85281",SKU-C34-NVY,Executive Briefcase,1,125.0
+1b0e2625-21c5-47af-802c-15c5e4961250,2025-05-27T14:06:47Z,Jason Hernandez,"789 Ocean Ave, San Diego CA 92101",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+3b92915a-c7c5-474f-906a-32f2b2a2807d,2025-05-27T03:16:40Z,Michelle Lee,"100 Peachtree St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,1,79.0
+af449a9b-47fe-4ae0-9111-2b2f0dc77429,2025-05-27T02:59:20Z,Jason Thomas,"400 Atlantic Ave, Boston MA 02110",SKU-H89-GRN,Camera Bag,1,85.0
+2bc7d30e-214f-484b-965b-abfe9f25bdcd,2025-05-26T21:12:30Z,Richard Martinez,"400 Pine St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,1,79.0
+ccb784db-8a92-46a6-aa1b-d0c3843034f7,2025-05-26T08:42:30Z,Daniel Hill,"222 Main St, Houston TX 77002",SKU-E56-BLK,Travel Duffel,2,95.0
+040dd8b3-9fd8-4e03-81f5-13da92792a05,2025-05-26T06:36:45Z,John King,"505 Beach Blvd, Jacksonville FL 32250",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+4a696eeb-75cb-4bb1-b487-b0ef7247dce4,2025-05-26T05:16:33Z,Lisa Lee,"200 N Central Ave, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,3,95.0
+3545d041-be02-4376-90db-d03561356712,2025-05-26T03:07:31Z,Charles Adams,"567 E Grand Ave, Chicago IL 60611",SKU-D45-BRN,Leather Wallet,1,45.0
+02a97918-23ca-4742-96aa-195d87641239,2025-05-25T12:53:37Z,Thomas Nelson,"345 N State St, Chicago IL 60654",SKU-E56-BLK,Travel Duffel,4,95.0
+d041b58f-1709-4fc8-96fa-cf4e3a569696,2025-05-25T04:56:57Z,David Clark,"505 Beach Blvd, Jacksonville FL 32250",SKU-E56-BLK,Travel Duffel,1,95.0
+4382359f-51ce-4990-9f33-247cbf40c70b,2025-05-24T22:34:11Z,Amy Anderson,"456 S Wacker Dr, Chicago IL 60606",SKU-C34-NVY,Executive Briefcase,1,125.0
+8e83dd1b-9303-41b9-9eab-2308da36284d,2025-05-24T18:52:50Z,Thomas Nelson,"789 Ocean Ave, San Diego CA 92101",SKU-C34-NVY,Executive Briefcase,1,125.0
+8e0b9cde-302a-4d45-aa5e-c22d1a448d2a,2025-05-24T14:02:09Z,Daniel Phillips,"100 Peachtree St, Atlanta GA 30303",SKU-F67-RED,Sports Backpack,1,55.0
+9a27d5ea-c5fb-46c6-9561-8a3312e7dea0,2025-05-24T12:04:35Z,Matthew Thomas,"300 University St, Seattle WA 98101",SKU-C34-NVY,Executive Briefcase,1,125.0
+8ac19fcb-6d59-4db4-9719-c7f856093f84,2025-05-24T10:40:37Z,Helen Gonzalez,"101 Ocean Dr, Miami Beach FL 33139",SKU-E56-BLK,Travel Duffel,1,95.0
+93685cf6-4142-468f-8d35-ac9f4f6db1a8,2025-05-24T04:59:10Z,Jason Hernandez,"123 Market St, San Francisco CA 94103",SKU-E56-BLK,Travel Duffel,1,95.0
+e911b7b9-b596-4458-aba0-a503032ee713,2025-05-23T15:51:19Z,Angela Baker,"400 Piedmont Ave, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,1,35.0
+b980b29b-fd90-48b5-9d5d-d15f97c627f7,2025-05-23T07:53:07Z,Carol Green,"200 5th Ave, New York NY 10010",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+d188e9f8-af07-4907-828a-685f66fcff85,2025-05-22T17:38:41Z,Charles Adams,"400 Atlantic Ave, Boston MA 02110",SKU-E56-BLK,Travel Duffel,1,95.0
+dd525cda-018f-43c0-8e5e-cb8e89c4bd99,2025-05-22T14:43:41Z,Edward Nguyen,"456 Sunset Blvd, Los Angeles CA 90028",SKU-E56-BLK,Travel Duffel,1,95.0
+eff71237-0fe0-47a4-91a2-1261da08fe96,2025-05-22T14:29:52Z,Kenneth Jackson,"100 Peachtree St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,2,79.0
+64d11f21-9989-45b1-98fe-dd77dfb34f1f,2025-05-22T08:34:16Z,Edward Wilson,"202 Collins Ave, Miami Beach FL 33140",SKU-D45-BRN,Leather Wallet,2,45.0
+6ebb36cf-1e27-43a3-ba28-8fef9f376788,2025-05-22T07:40:48Z,Emily Martinez,"202 Collins Ave, Miami Beach FL 33140",SKU-E56-BLK,Travel Duffel,2,95.0
+286115bc-1cce-4425-8f47-74e39780de27,2025-05-22T02:26:02Z,Paul Jones,"222 Main St, Houston TX 77002",SKU-E56-BLK,Travel Duffel,1,95.0
+fc3ca973-1356-4c26-89b9-83c09dba55b6,2025-05-21T22:16:15Z,Lisa Evans,"100 Peachtree St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,1,79.0
+1b3f51bf-fef3-4164-ad7a-25195cf4e387,2025-05-21T15:59:28Z,Matthew Mitchell,"123 Market St, San Francisco CA 94103",SKU-D45-BRN,Leather Wallet,4,45.0
+ab59ad14-f020-4472-8080-66b5e6425949,2025-05-21T09:49:34Z,Richard Martinez,"567 E Grand Ave, Chicago IL 60611",SKU-A12-BLK,Transit Backpack,2,79.0
+828a852f-c1df-4c33-96cb-cb720dd90110,2025-05-20T21:33:38Z,Michelle Walker,"789 Ocean Ave, San Diego CA 92101",SKU-A12-BLK,Transit Backpack,2,79.0
+e50d2f22-9e2e-4196-b4f5-611d7f8b696e,2025-05-20T19:19:02Z,Daniel Phillips,"100 E Washington St, Phoenix AZ 85004",SKU-F67-RED,Sports Backpack,1,55.0
+9a888c58-fcc5-45ad-abd3-6afb4375c682,2025-05-20T18:40:28Z,Michelle Lee,"404 Orange Ave, Orlando FL 32801",SKU-G78-BLU,Laptop Sleeve,1,35.0
+96028f3f-9e05-415f-b847-da83689a9000,2025-05-20T15:36:26Z,William Roberts,"123 Maple St, Denver CO 80218",SKU-A12-BLK,Transit Backpack,1,79.0
+fa525fbf-9fc5-4890-81bc-f3d6073856d2,2025-05-20T15:08:25Z,Ruth Harris,"345 Lincoln St, Denver CO 80203",SKU-D45-BRN,Leather Wallet,2,45.0
+758a8aa2-dc7c-4673-9dbf-a1040cc1a38e,2025-05-20T15:03:25Z,Joshua Campbell,"404 Orange Ave, Orlando FL 32801",SKU-C34-NVY,Executive Briefcase,1,125.0
+a1f03558-8909-4cf6-bd11-0c7429ade6dc,2025-05-20T04:36:20Z,Christopher Nelson,"123 Maple St, Denver CO 80218",SKU-H89-GRN,Camera Bag,1,85.0
+ffbd4191-68ed-4dfb-aadd-2b374f9dfc90,2025-05-19T23:56:49Z,Kimberly Clark,"456 Sunset Blvd, Los Angeles CA 90028",SKU-H89-GRN,Camera Bag,2,85.0
+69313891-dbda-4178-9191-428866aac811,2025-05-19T18:31:52Z,Joshua Thomas,"555 Elm St, Dallas TX 75202",SKU-C34-NVY,Executive Briefcase,1,125.0
+954ce26b-6ef7-490e-82c3-18ed15768a35,2025-05-19T11:33:52Z,Ronald Clark,"200 State St, Boston MA 02109",SKU-A12-BLK,Transit Backpack,1,79.0
+1e35eb19-bcb2-43d3-a974-f78c53b4aefb,2025-05-19T08:12:00Z,Mark Young,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-E56-BLK,Travel Duffel,1,95.0
+fe6186e5-6d6a-4114-aca3-e3c5e10e6acc,2025-05-19T05:13:56Z,Charles Walker,"400 Piedmont Ave, Atlanta GA 30308",SKU-C34-NVY,Executive Briefcase,1,125.0
+9e3c5731-5232-449b-83ef-5d2f51e4c8da,2025-05-19T03:57:26Z,Ashley Miller,"100 Pike St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,1,79.0
+72e5a752-9778-440f-84e7-a1001c160fc6,2025-05-18T17:47:47Z,Lisa Jones,"200 N Central Ave, Phoenix AZ 85004",SKU-G78-BLU,Laptop Sleeve,1,35.0
+fd674e7f-badd-4e3e-9428-c3195d57c996,2025-05-18T16:23:49Z,Ruth Harris,"400 Piedmont Ave, Atlanta GA 30308",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+0bc4400f-76b7-4b85-bb79-ae0bde40e2d2,2025-05-18T07:46:12Z,Robert Adams,"500 Broadway, Seattle WA 98122",SKU-C34-NVY,Executive Briefcase,3,125.0
+d98fa27c-09e4-4f9b-85bb-acf1883783e3,2025-05-17T19:06:51Z,Christopher Gonzalez,"456 Sunset Blvd, Los Angeles CA 90028",SKU-H89-GRN,Camera Bag,1,85.0
+4a34a580-cfbb-44c1-bb07-f3d451ed6486,2025-05-17T11:38:00Z,James Williams,"500 Boylston St, Boston MA 02116",SKU-C34-NVY,Executive Briefcase,1,125.0
+5813db0b-0fc8-4d9d-a21b-53ad495fc228,2025-05-17T09:34:45Z,Robert Martin,"303 Biscayne Blvd, Miami FL 33132",SKU-G78-BLU,Laptop Sleeve,1,35.0
+f53ad2b3-1a99-45f1-a408-ff0bbafa3d8a,2025-05-17T02:44:04Z,Ruth Harris,"400 Madison Ave, New York NY 10017",SKU-D45-BRN,Leather Wallet,2,45.0
+d8f7f55d-6adb-43c3-ad55-58609d31de8b,2025-05-16T19:48:41Z,James Lewis,"404 Orange Ave, Orlando FL 32801",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+65690221-c94c-45ad-9c9b-9fc1b00391e7,2025-05-16T18:28:42Z,Kevin Nguyen,"234 W Madison St, Chicago IL 60606",SKU-E56-BLK,Travel Duffel,1,95.0
+29800eea-cfc9-4dc1-88f7-27f7df8ecb7f,2025-05-16T13:39:22Z,Donna Torres,"100 E Washington St, Phoenix AZ 85004",SKU-G78-BLU,Laptop Sleeve,3,35.0
+d3a10956-b1c5-47b2-9e4a-17fca9c0d985,2025-05-16T09:23:23Z,Ronald Clark,"123 Market St, San Francisco CA 94103",SKU-E56-BLK,Travel Duffel,1,95.0
+0ad1c563-b990-4497-9abf-94118690a8a1,2025-05-16T05:09:34Z,Paul Brown,"200 Marietta St, Atlanta GA 30303",SKU-F67-RED,Sports Backpack,1,55.0
+f3bc2949-4763-49d3-a4de-f86ae3bf8c03,2025-05-16T03:27:50Z,Donna Torres,"100 Summer St, Boston MA 02110",SKU-C34-NVY,Executive Briefcase,1,125.0
+38c3d40b-28f0-464d-bfeb-ad137caecb85,2025-05-15T19:14:50Z,Robert Perez,"300 Spring St, Atlanta GA 30308",SKU-E56-BLK,Travel Duffel,1,95.0
+5deb0a4d-cf60-4741-aed6-9a125eff8b36,2025-05-15T14:42:11Z,Michelle Lee,"200 State St, Boston MA 02109",SKU-E56-BLK,Travel Duffel,1,95.0
+cc85d148-9712-4661-86cd-7eabde29b209,2025-05-15T12:48:29Z,Paul Rivera,"200 Marietta St, Atlanta GA 30303",SKU-F67-RED,Sports Backpack,4,55.0
+ddadf220-78ff-4fdd-a9c2-08af826b418d,2025-05-15T08:26:13Z,Jennifer Sanchez,"200 Marietta St, Atlanta GA 30303",SKU-C34-NVY,Executive Briefcase,2,125.0
+71d31c37-a9b6-4a23-a931-eb98b46bf4ad,2025-05-15T04:06:52Z,Mary Mitchell,"300 Park Ave, New York NY 10022",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+92f26870-4b69-43ea-8ecb-e0b6a1403be9,2025-05-14T23:50:02Z,Anthony Lee,"500 Broadway, Seattle WA 98122",SKU-C34-NVY,Executive Briefcase,1,125.0
+ff2163e7-1bcd-41a9-b30f-3c9f8d3dc06e,2025-05-14T16:53:03Z,David Miller,"123 N Michigan Ave, Chicago IL 60601",SKU-E56-BLK,Travel Duffel,1,95.0
+bba947dc-6939-4563-98af-bd55e0bb4977,2025-05-14T10:31:38Z,Joshua Thomas,"200 Marietta St, Atlanta GA 30303",SKU-D45-BRN,Leather Wallet,1,45.0
+60a0ae0c-9610-430e-9b15-65f3ff0d4e50,2025-05-14T08:46:29Z,Angela Baker,"555 Elm St, Dallas TX 75202",SKU-F67-RED,Sports Backpack,4,55.0
+ce96876e-aa1e-425b-8d17-62dcaeda82b3,2025-05-13T22:20:51Z,Daniel Ramirez,"456 Pearl St, Boulder CO 80302",SKU-F67-RED,Sports Backpack,1,55.0
+2c27e73b-8d6f-4cf4-908e-24bf7c652743,2025-05-13T21:52:28Z,Daniel Phillips,"444 Travis St, Houston TX 77002",SKU-H89-GRN,Camera Bag,3,85.0
+c156090a-a135-4f33-a6b6-c6b9addb1053,2025-05-13T19:43:42Z,Kimberly Clark,"400 Pine St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,1,45.0
+acc958f2-7ce7-4159-97ea-3366675c8d6a,2025-05-13T16:23:35Z,Kimberly Thomas,"500 Broadway, Seattle WA 98122",SKU-G78-BLU,Laptop Sleeve,1,35.0
+58f4f79b-29e9-4bb1-9d20-b28d9a022c88,2025-05-13T10:21:28Z,Kenneth Jackson,"300 Spring St, Atlanta GA 30308",SKU-F67-RED,Sports Backpack,1,55.0
+4bbc01a2-880d-41b3-a75f-2da14baf479a,2025-05-12T21:45:34Z,Carol Green,"456 S Wacker Dr, Chicago IL 60606",SKU-E56-BLK,Travel Duffel,1,95.0
+e0f9d2b1-416c-4177-a07e-95e57d8b2fbb,2025-05-12T20:08:49Z,Carol Martin,"200 1st Ave, Seattle WA 98104",SKU-A12-BLK,Transit Backpack,2,79.0
+5623ac2a-6cea-41c5-a297-544c43c3d41d,2025-05-12T10:31:35Z,Charles Adams,"321 Pine St, San Francisco CA 94108",SKU-E56-BLK,Travel Duffel,1,95.0
+5fe5f71e-e8b0-4de2-962b-d5b3fb64ad32,2025-05-12T04:37:52Z,William Wright,"123 N Michigan Ave, Chicago IL 60601",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+c8a4a32a-736a-4461-a5c9-dce7cd0c87ef,2025-05-12T02:27:25Z,Kevin Williams,"123 Market St, San Francisco CA 94103",SKU-C34-NVY,Executive Briefcase,1,125.0
+d24051ca-f828-42b9-9550-ded9eacc3ccd,2025-05-12T00:49:37Z,Susan Martinez,"789 Ocean Ave, San Diego CA 92101",SKU-G78-BLU,Laptop Sleeve,1,35.0
+f11f1237-1a59-44ee-9d1b-5ac11f595808,2025-05-12T00:17:58Z,Jennifer Gonzalez,"300 University St, Seattle WA 98101",SKU-G78-BLU,Laptop Sleeve,1,35.0
+6ef67d2c-d66f-4f03-8805-f73f15e22008,2025-05-11T20:15:56Z,Laura Thompson,"404 Orange Ave, Orlando FL 32801",SKU-H89-GRN,Camera Bag,3,85.0
+68c31a80-937f-40e1-8397-8358c25867b7,2025-05-11T17:24:47Z,James Harris,"300 University St, Seattle WA 98101",SKU-F67-RED,Sports Backpack,1,55.0
+e05978dd-290f-4dd2-b16c-637d3381047b,2025-05-11T15:54:26Z,Lisa Harris,"404 Orange Ave, Orlando FL 32801",SKU-A12-BLK,Transit Backpack,3,79.0
+573e6a4c-2599-4bb3-a79f-3c3b2cd510d1,2025-05-11T15:41:47Z,Mark Phillips,"555 Elm St, Dallas TX 75202",SKU-F67-RED,Sports Backpack,1,55.0
+4cfcf9d7-6c8d-4542-bea0-f3655b726ae3,2025-05-11T15:41:39Z,Sharon Hall,"456 S Wacker Dr, Chicago IL 60606",SKU-E56-BLK,Travel Duffel,1,95.0
+72997836-2dc7-4cb9-a07d-dd4362828f8a,2025-05-11T13:40:06Z,Lisa Evans,"234 Broadway, Denver CO 80205",SKU-H89-GRN,Camera Bag,1,85.0
+6590d6db-9d55-4265-a4af-292c2b559987,2025-05-11T05:49:52Z,Charles Taylor,"505 Beach Blvd, Jacksonville FL 32250",SKU-F67-RED,Sports Backpack,3,55.0
+3a910202-b535-4ef6-8ad0-8946a6b3f92e,2025-05-11T05:03:24Z,Paul Rivera,"100 Pike St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,2,79.0
+55bb1655-3254-4a55-8632-2ee3c0dc8ff4,2025-05-10T23:14:49Z,William Gomez,"234 Broadway, Denver CO 80205",SKU-C34-NVY,Executive Briefcase,1,125.0
+064777f3-0c58-4da5-96df-61819811193f,2025-05-10T18:14:42Z,Matthew Wilson,"100 Pike St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,2,85.0
+9f4c14fe-b24a-41ce-953b-8dbf31e15f0b,2025-05-10T17:38:13Z,Sharon Flores,"200 State St, Boston MA 02109",SKU-C34-NVY,Executive Briefcase,2,125.0
+d01f2094-8c1a-43d4-9f17-8f33b0b9cb4e,2025-05-10T14:01:56Z,Sarah Nguyen,"123 Maple St, Denver CO 80218",SKU-A12-BLK,Transit Backpack,1,79.0
+dc7f73ae-208a-4b51-a524-330edf9af116,2025-05-10T09:24:34Z,Anthony Adams,"500 Boylston St, Boston MA 02116",SKU-G78-BLU,Laptop Sleeve,1,35.0
+c7d8a79f-3387-45ee-a0f2-0ee7cc263fa6,2025-05-10T07:50:45Z,Emily Martinez,"100 Summer St, Boston MA 02110",SKU-A12-BLK,Transit Backpack,3,79.0
+2c0d8128-3377-48ef-9faa-97f4c2565687,2025-05-10T01:55:50Z,Lisa Taylor,"123 Maple St, Denver CO 80218",SKU-E56-BLK,Travel Duffel,1,95.0
+72d559e2-36ac-44b0-9a68-27590ab11ca4,2025-05-09T22:06:32Z,Michelle Turner,"456 S Wacker Dr, Chicago IL 60606",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+9dffbb03-cd78-43b7-a71f-c7b5851db274,2025-05-09T20:27:18Z,Paul Jackson,"234 W Madison St, Chicago IL 60606",SKU-G78-BLU,Laptop Sleeve,2,35.0
+a090eea2-4176-4296-b4e7-ea2be12c53ae,2025-05-09T18:43:20Z,Matthew Thomas,"567 E Grand Ave, Chicago IL 60611",SKU-G78-BLU,Laptop Sleeve,1,35.0
+8f668498-f06d-42fc-914c-604b576d725c,2025-05-09T15:53:47Z,Donald Lopez,"100 Pike St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,2,85.0
+3482826a-5ccf-4c3e-a739-f8f8b4174d89,2025-05-09T15:35:09Z,Anthony Lee,"100 E Washington St, Phoenix AZ 85004",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+c0722640-e565-4c73-b1b0-4d113ffdf8ac,2025-05-09T14:49:43Z,Karen Clark,"300 Congress St, Boston MA 02210",SKU-A12-BLK,Transit Backpack,2,79.0
+2fcef1e1-ba47-46f3-b9a2-51e3f1685242,2025-05-09T12:26:06Z,James White,"300 University St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,1,79.0
+003df0ed-0047-4c00-a49f-8b2141880749,2025-05-09T10:34:03Z,Anthony Lee,"500 University Dr, Tempe AZ 85281",SKU-H89-GRN,Camera Bag,2,85.0
+773f9686-1779-4093-8470-3c2daad63635,2025-05-09T07:21:21Z,Karen Clark,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+b41a91d0-f956-4784-956e-31ea52d86cae,2025-05-09T04:02:29Z,Paul Rivera,"100 E Washington St, Phoenix AZ 85004",SKU-G78-BLU,Laptop Sleeve,1,35.0
+fe7ccb19-832d-4477-a63b-daa3bd53c5ea,2025-05-08T23:41:37Z,Jennifer Gonzalez,"100 Peachtree St, Atlanta GA 30303",SKU-C34-NVY,Executive Briefcase,1,125.0
+e0108555-6330-4eb2-91b9-9a06b8b5bfe6,2025-05-08T12:05:43Z,Kenneth Jackson,"100 Pike St, Seattle WA 98101",SKU-C34-NVY,Executive Briefcase,3,125.0
+41f96480-6ca4-475b-87cc-d0ae57f3f8a5,2025-05-08T10:48:21Z,David King,"555 Elm St, Dallas TX 75202",SKU-E56-BLK,Travel Duffel,2,95.0
+be052d5e-b6ea-4906-ab6d-e86e6d052fe0,2025-05-08T02:26:18Z,Daniel Young,"300 E Van Buren St, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,1,95.0
+d2b4b4b7-e632-40aa-bb4a-f43e32669638,2025-05-08T01:24:30Z,Ruth Harris,"400 Piedmont Ave, Atlanta GA 30308",SKU-F67-RED,Sports Backpack,1,55.0
+c3f9ca49-b6f9-4e87-9862-25f3531d94e3,2025-05-07T19:01:44Z,Mary Phillips,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-E56-BLK,Travel Duffel,1,95.0
+1fae6bbf-3842-4008-8d36-5640b8cc7a68,2025-05-07T14:17:43Z,Charles Taylor,"321 Pine St, San Francisco CA 94108",SKU-G78-BLU,Laptop Sleeve,1,35.0
+c09730b8-f3f1-4522-96c4-b40a5f0a5d95,2025-05-07T13:45:10Z,Dorothy Adams,"300 E Van Buren St, Phoenix AZ 85004",SKU-A12-BLK,Transit Backpack,2,79.0
+23583789-190f-4f9e-8c1f-9a39fccd08b1,2025-05-07T11:08:09Z,Paul Brown,"200 State St, Boston MA 02109",SKU-F67-RED,Sports Backpack,1,55.0
+53d32920-804e-4169-9981-d6e08dcf31ea,2025-05-07T08:25:20Z,Kenneth Perez,"100 Peachtree St, Atlanta GA 30303",SKU-C34-NVY,Executive Briefcase,1,125.0
+c68ae501-551f-42ee-bc2d-9ebd1ae7999e,2025-05-07T02:32:18Z,Ashley Harris,"444 Travis St, Houston TX 77002",SKU-H89-GRN,Camera Bag,2,85.0
+7f1b1167-9042-47a8-aedf-4e39dbaea6f6,2025-05-06T11:25:12Z,Linda Jackson,"200 5th Ave, New York NY 10010",SKU-F67-RED,Sports Backpack,4,55.0
+e4d265df-e2d6-4096-a4b0-453fcdb3884b,2025-05-06T07:54:25Z,Nancy Thompson,"100 Broadway, New York NY 10005",SKU-A12-BLK,Transit Backpack,4,79.0
+285599a6-a3a6-47c4-af37-1adf29fdd837,2025-05-06T00:14:33Z,Ruth Green,"123 Maple St, Denver CO 80218",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+6bdb3bac-95d5-40a3-a060-1931ed3f304a,2025-05-05T23:14:31Z,Nancy Davis,"123 Maple St, Denver CO 80218",SKU-F67-RED,Sports Backpack,1,55.0
+95d6c1f5-53ba-49ed-8eac-32bd1bd1f4c4,2025-05-05T22:37:23Z,Kevin Thompson,"567 Canyon Blvd, Boulder CO 80302",SKU-H89-GRN,Camera Bag,2,85.0
+cb18d828-5b3d-4ee1-bca3-eed9145c5553,2025-05-05T15:32:05Z,Joshua Perez,"456 Pearl St, Boulder CO 80302",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+70941413-8c5b-4850-b29e-e1f0f5d0aa4d,2025-05-05T14:39:28Z,James Harris,"333 Commerce St, Dallas TX 75201",SKU-E56-BLK,Travel Duffel,1,95.0
+41707414-350d-4ed4-84f4-a019bc4bc793,2025-05-05T11:36:55Z,Ruth Jackson,"321 Pine St, San Francisco CA 94108",SKU-G78-BLU,Laptop Sleeve,1,35.0
+d606a087-a85c-4480-9406-846144c67509,2025-05-05T10:26:06Z,Charles Flores,"123 Maple St, Denver CO 80218",SKU-E56-BLK,Travel Duffel,1,95.0
+65aefa67-3fe4-44aa-971a-ff53ec95c000,2025-05-04T23:47:50Z,Jennifer White,"202 Collins Ave, Miami Beach FL 33140",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+c5a7cab8-5fe5-4894-a592-4cff6c76f518,2025-05-04T16:57:31Z,Richard Ramirez,"789 Ocean Ave, San Diego CA 92101",SKU-H89-GRN,Camera Bag,3,85.0
+8104990a-828c-4cbd-8060-4ee936f01b42,2025-05-04T10:42:45Z,Sandra Diaz,"123 N Michigan Ave, Chicago IL 60601",SKU-H89-GRN,Camera Bag,1,85.0
+b2689243-da77-4805-aeb7-53e9b8680550,2025-05-03T18:46:04Z,Angela Turner,"222 Main St, Houston TX 77002",SKU-H89-GRN,Camera Bag,1,85.0
+fb02e253-d733-482d-8e44-dd2dcb0859df,2025-05-03T14:15:10Z,Mary Turner,"100 Pike St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,2,45.0
+3e3ef134-dffa-4a14-bdcb-926b7a3d582a,2025-05-03T07:51:53Z,Ruth Green,"444 Travis St, Houston TX 77002",SKU-G78-BLU,Laptop Sleeve,3,35.0
+ff541df0-1058-47e0-9275-92b42fdfcdb0,2025-05-02T23:31:29Z,Angela Jones,"100 Peachtree St, Atlanta GA 30303",SKU-D45-BRN,Leather Wallet,3,45.0
+7bca2bbd-ab34-4c53-9e70-531587766ff4,2025-05-02T22:51:53Z,Sarah Roberts,"456 Pearl St, Boulder CO 80302",SKU-A12-BLK,Transit Backpack,2,79.0
+1b50a67c-dd8a-4cff-9b5a-2e3e21bb699c,2025-05-02T19:18:20Z,Angela Baker,"500 Lexington Ave, New York NY 10170",SKU-H89-GRN,Camera Bag,1,85.0
+25454196-7f00-4f44-bd5a-8965bbff5186,2025-05-02T16:15:04Z,Helen Gonzalez,"400 Atlantic Ave, Boston MA 02110",SKU-E56-BLK,Travel Duffel,2,95.0
+d13755ee-b961-4d7c-923c-b2fdc90f55cf,2025-05-02T15:16:32Z,Mark Rivera,"333 Commerce St, Dallas TX 75201",SKU-A12-BLK,Transit Backpack,3,79.0
+b2df64ec-8bab-4b5e-9208-0484b6476523,2025-05-02T09:18:24Z,Laura Sanchez,"100 Summer St, Boston MA 02110",SKU-E56-BLK,Travel Duffel,1,95.0
+82e4bb15-84df-4ced-af23-8b7fb4c6ff1d,2025-05-02T03:21:55Z,Angela Baker,"500 Broadway, Seattle WA 98122",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+6c515d7f-9b41-4cd3-a92c-11f6ba1beb8a,2025-05-01T23:03:26Z,Ruth Harris,"200 1st Ave, Seattle WA 98104",SKU-G78-BLU,Laptop Sleeve,1,35.0
+3a0ec0b9-1456-44d0-abd1-a029ce9877aa,2025-05-01T22:57:07Z,Daniel Hill,"200 1st Ave, Seattle WA 98104",SKU-C34-NVY,Executive Briefcase,1,125.0
+a4c0cb8b-feea-4f7b-8c3d-ef325d334f4c,2025-05-01T21:48:48Z,Charles Anderson,"400 Piedmont Ave, Atlanta GA 30308",SKU-A12-BLK,Transit Backpack,2,79.0
+b268c091-88c4-405b-9ed4-2834b6db007e,2025-05-01T19:43:44Z,Jason Harris,"300 Park Ave, New York NY 10022",SKU-F67-RED,Sports Backpack,1,55.0
+0e1187e4-59aa-475b-9a3f-45134ddbb6d8,2025-05-01T12:36:27Z,Helen Perez,"303 Biscayne Blvd, Miami FL 33132",SKU-D45-BRN,Leather Wallet,2,45.0
+5f2e3036-5f79-4884-8e11-bb0288c99569,2025-05-01T11:03:35Z,Charles Brown,"400 Atlantic Ave, Boston MA 02110",SKU-C34-NVY,Executive Briefcase,2,125.0
+6371874e-1aad-43ea-be9e-e6f6dc7d930c,2025-04-30T21:38:36Z,Kevin Jackson,"123 N Michigan Ave, Chicago IL 60601",SKU-F67-RED,Sports Backpack,1,55.0
+3d3b0a9f-392b-4051-913f-aed3e05c5e5b,2025-04-30T20:00:28Z,Charles Adams,"400 Pine St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,1,79.0
+ad49ec49-1210-4a92-889e-7e2ae2b989dc,2025-04-30T17:24:04Z,Lisa Lewis,"400 Pine St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,1,85.0
+ecf8b1ec-0c70-4d65-b3b8-61d6f69778ec,2025-04-30T16:35:53Z,Carol Martin,"456 Sunset Blvd, Los Angeles CA 90028",SKU-A12-BLK,Transit Backpack,3,79.0
+bb2c0ef3-5be8-4490-93d0-40f0574aaee8,2025-04-30T10:02:48Z,Richard Nguyen,"101 Ocean Dr, Miami Beach FL 33139",SKU-E56-BLK,Travel Duffel,4,95.0
+63aa81b0-92e1-4cc7-8582-cb6eb6c5b012,2025-04-29T21:46:09Z,William Rodriguez,"200 Marietta St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,1,79.0
+7ddcecb0-de2d-4062-9c64-268e276413c1,2025-04-29T18:24:59Z,Helen Gonzalez,"400 Mill Ave, Tempe AZ 85281",SKU-D45-BRN,Leather Wallet,2,45.0
+3911e527-a14d-406b-84f2-8dd9148c2d5d,2025-04-29T08:04:11Z,Charles Walker,"234 Broadway, Denver CO 80205",SKU-F67-RED,Sports Backpack,1,55.0
+c7e94c3c-686d-4e1f-b1b3-b13988f570cb,2025-04-29T07:40:35Z,Susan Young,"202 Collins Ave, Miami Beach FL 33140",SKU-H89-GRN,Camera Bag,1,85.0
+2b6879fa-c71d-45fa-933a-43c3632201ae,2025-04-28T00:38:09Z,Lisa Taylor,"200 State St, Boston MA 02109",SKU-C34-NVY,Executive Briefcase,1,125.0
+0e76a7df-a33d-42ee-b04c-90cfe5f99827,2025-04-27T19:26:51Z,Sharon Anderson,"101 Ocean Dr, Miami Beach FL 33139",SKU-D45-BRN,Leather Wallet,4,45.0
+dc6508d2-4ff4-4a64-9ea3-fafd76d22858,2025-04-27T19:15:48Z,Kimberly Clark,"111 Congress Ave, Austin TX 78701",SKU-A12-BLK,Transit Backpack,2,79.0
+3e7b5832-767f-45bc-875c-e6e83dd13390,2025-04-27T14:07:33Z,Lisa Lewis,"444 Travis St, Houston TX 77002",SKU-D45-BRN,Leather Wallet,1,45.0
+6b4091ad-ac71-4cdf-af78-e3e6a32ef69e,2025-04-27T03:08:39Z,Kevin Williams,"456 Sunset Blvd, Los Angeles CA 90028",SKU-H89-GRN,Camera Bag,1,85.0
+9357ff29-0430-4dc9-8393-abc9302c6c54,2025-04-26T20:54:20Z,John Robinson,"200 5th Ave, New York NY 10010",SKU-G78-BLU,Laptop Sleeve,2,35.0
+fdee4c0d-4e28-4b3f-9a89-e7eea634a361,2025-04-26T11:21:52Z,Timothy Harris,"100 Broadway, New York NY 10005",SKU-D45-BRN,Leather Wallet,2,45.0
+4e1beda7-55d4-4af0-92c9-1bf079d7cd23,2025-04-26T06:10:27Z,James Turner,"400 Atlantic Ave, Boston MA 02110",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+14d16a14-3b45-4ee8-9ce5-65f7df3103bf,2025-04-26T04:14:11Z,Anthony Lee,"101 Ocean Dr, Miami Beach FL 33139",SKU-E56-BLK,Travel Duffel,1,95.0
+d3bb899b-f15c-4905-9e09-eb3c73cf4bc8,2025-04-26T03:21:25Z,James Turner,"200 1st Ave, Seattle WA 98104",SKU-G78-BLU,Laptop Sleeve,2,35.0
+d48665c8-e846-4b00-9cbd-1cfb9f7420b7,2025-04-26T02:15:38Z,Andrew Perez,"456 Sunset Blvd, Los Angeles CA 90028",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+0555b316-d92f-4ab8-9159-c50445549a4d,2025-04-26T01:43:21Z,Donna Martinez,"500 Lexington Ave, New York NY 10170",SKU-F67-RED,Sports Backpack,3,55.0
+368cb162-58fd-4f9d-b018-8cc559874567,2025-04-25T21:04:38Z,Jason Diaz,"111 Congress Ave, Austin TX 78701",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+47ddf08c-7981-436e-94d6-1ce85baec2c9,2025-04-25T20:15:54Z,Carol Garcia,"222 Main St, Houston TX 77002",SKU-G78-BLU,Laptop Sleeve,1,35.0
+189789a8-6d87-4153-9dc7-a99e806deeeb,2025-04-25T16:37:05Z,Paul Gomez,"123 Market St, San Francisco CA 94103",SKU-A12-BLK,Transit Backpack,1,79.0
+53eafca6-d677-4553-b24b-df232d8b321a,2025-04-25T14:40:50Z,Angela Turner,"505 Beach Blvd, Jacksonville FL 32250",SKU-H89-GRN,Camera Bag,1,85.0
+cbf5c8ea-099c-45d3-89d1-9fd0bd7e7547,2025-04-25T12:05:20Z,Paul Gomez,"234 W Madison St, Chicago IL 60606",SKU-F67-RED,Sports Backpack,1,55.0
+a3b05e95-ca96-49e8-856e-af41b0692f21,2025-04-25T11:29:14Z,Timothy Clark,"234 Broadway, Denver CO 80205",SKU-A12-BLK,Transit Backpack,1,79.0
+f605dc53-3555-4716-bc88-660082837964,2025-04-25T11:03:49Z,Kevin Lopez,"404 Orange Ave, Orlando FL 32801",SKU-H89-GRN,Camera Bag,1,85.0
+5f5d9617-9040-47ce-b8db-5728e7d20567,2025-04-25T09:37:55Z,David Clark,"456 Sunset Blvd, Los Angeles CA 90028",SKU-G78-BLU,Laptop Sleeve,1,35.0
+4163e771-1503-49ef-b0f6-5ba0c116c9fb,2025-04-25T07:21:54Z,Jason Hernandez,"567 Canyon Blvd, Boulder CO 80302",SKU-D45-BRN,Leather Wallet,2,45.0
+aa650506-6409-4dcf-b070-674fa323a6b0,2025-04-25T07:02:10Z,Charles Taylor,"111 Congress Ave, Austin TX 78701",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+94ab5efe-ff4e-4725-9570-2edd2ebce07b,2025-04-25T06:24:42Z,Kevin Turner,"321 Pine St, San Francisco CA 94108",SKU-C34-NVY,Executive Briefcase,1,125.0
+394d2ebc-4bc5-4bc5-9061-7a837758c017,2025-04-25T05:25:14Z,Linda Jackson,"300 Spring St, Atlanta GA 30308",SKU-E56-BLK,Travel Duffel,2,95.0
+bef9f549-7487-40c2-8961-a90d2e42fdfc,2025-04-25T02:27:07Z,Kenneth Perez,"300 Congress St, Boston MA 02210",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+85554a91-20b6-4955-a967-8cfd8a281747,2025-04-24T23:21:02Z,Matthew Allen,"111 Congress Ave, Austin TX 78701",SKU-G78-BLU,Laptop Sleeve,1,35.0
+4ef8e420-e328-4a6d-9289-23d3cb58bd97,2025-04-24T18:58:20Z,Paul Jackson,"789 Ocean Ave, San Diego CA 92101",SKU-E56-BLK,Travel Duffel,3,95.0
+44e65531-d81d-4df7-bec4-fb3881fc6881,2025-04-24T17:32:30Z,Jessica Moore,"123 Maple St, Denver CO 80218",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+319c6b8a-332f-47c4-bc0a-2a90f0e698a5,2025-04-24T14:37:03Z,Charles Evans,"567 E Grand Ave, Chicago IL 60611",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+e031f056-fa91-4a02-b438-f1321d52459e,2025-04-24T14:28:10Z,Jennifer Sanchez,"400 Piedmont Ave, Atlanta GA 30308",SKU-C34-NVY,Executive Briefcase,3,125.0
+072d742c-18d7-4887-a17b-08bb86db5e0f,2025-04-24T14:05:11Z,Kimberly Garcia,"400 Atlantic Ave, Boston MA 02110",SKU-G78-BLU,Laptop Sleeve,1,35.0
+9c48269f-5426-44a1-95c4-1c283769179f,2025-04-24T11:40:55Z,Laura Perez,"100 Peachtree St, Atlanta GA 30303",SKU-F67-RED,Sports Backpack,1,55.0
+a1e0776a-d829-42ea-8f4b-8deee641949f,2025-04-24T06:03:17Z,Kevin Smith,"123 Maple St, Denver CO 80218",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+023b5031-146a-40c2-b09e-1029029194bb,2025-04-24T05:21:19Z,Sandra Turner,"100 E Washington St, Phoenix AZ 85004",SKU-A12-BLK,Transit Backpack,1,79.0
+4834e62a-0daf-4473-8be4-8c48fe615ca8,2025-04-24T02:16:46Z,William Wright,"100 Pike St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,2,45.0
+50dfd6de-7b61-4683-be2f-242c5457e6e0,2025-04-23T23:12:05Z,Donald Lopez,"404 Orange Ave, Orlando FL 32801",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+e03c2dd9-dbcc-45b5-9d98-d0583fc100b5,2025-04-23T16:17:28Z,Dorothy Adams,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-F67-RED,Sports Backpack,1,55.0
+b6430d11-3541-4d36-962d-64ab9909b7c8,2025-04-23T10:25:22Z,Lisa Adams,"567 E Grand Ave, Chicago IL 60611",SKU-C34-NVY,Executive Briefcase,2,125.0
+45ed81b8-81c2-4fd9-a1a8-c229dd7f4c3e,2025-04-23T07:48:11Z,Charles Evans,"400 Madison Ave, New York NY 10017",SKU-C34-NVY,Executive Briefcase,1,125.0
+445aa05b-48da-4561-a996-0263bf7cef8f,2025-04-23T03:12:17Z,Ronald Hill,"500 Broadway, Seattle WA 98122",SKU-F67-RED,Sports Backpack,2,55.0
+e4ec8452-52b4-4f3d-bb81-e63722b01e70,2025-04-23T01:40:57Z,Jennifer Robinson,"202 Collins Ave, Miami Beach FL 33140",SKU-F67-RED,Sports Backpack,2,55.0
+43d32d18-9d2b-421a-9c3c-a86f8546ad73,2025-04-22T09:59:03Z,Lisa Lee,"321 Pine St, San Francisco CA 94108",SKU-D45-BRN,Leather Wallet,2,45.0
+409aad75-d903-44b2-bf29-63baccebda11,2025-04-21T20:59:59Z,Kevin Thompson,"101 Ocean Dr, Miami Beach FL 33139",SKU-E56-BLK,Travel Duffel,3,95.0
+6ef1ab16-3275-4699-83b2-63ed77957aa0,2025-04-21T14:54:53Z,Laura Jackson,"100 Summer St, Boston MA 02110",SKU-C34-NVY,Executive Briefcase,3,125.0
+49e11be8-3aab-4b1d-9c35-43df9f571ef4,2025-04-21T14:31:29Z,Kevin Williams,"404 Orange Ave, Orlando FL 32801",SKU-C34-NVY,Executive Briefcase,2,125.0
+2897295e-767c-47e7-9079-6328881770a4,2025-04-21T08:07:26Z,Thomas Walker,"456 Pearl St, Boulder CO 80302",SKU-H89-GRN,Camera Bag,1,85.0
+9cebc6a6-e59f-4fc5-aa8d-0a9a2a1dcd54,2025-04-20T20:56:12Z,Richard Nguyen,"234 Broadway, Denver CO 80205",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+45f98ce0-0621-435d-a7dd-024a61c4248f,2025-04-20T12:35:53Z,Sarah Lee,"444 Travis St, Houston TX 77002",SKU-E56-BLK,Travel Duffel,1,95.0
+4e0710c3-a665-4592-a5a0-cf9fdf85fec2,2025-04-20T10:03:21Z,Sarah Lee,"303 Biscayne Blvd, Miami FL 33132",SKU-E56-BLK,Travel Duffel,1,95.0
+96e6883b-111e-4408-bdc4-4df820c61415,2025-04-20T09:33:08Z,Ronald Clark,"300 E Van Buren St, Phoenix AZ 85004",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+6b098a9b-8873-48e0-945c-e3bc1e822011,2025-04-20T03:17:30Z,Daniel Ramirez,"567 E Grand Ave, Chicago IL 60611",SKU-B23-GRY,Urban Messenger Bag,4,65.0
+45727c4c-34ae-4f13-9c88-f24a99b1f111,2025-04-19T22:53:41Z,Anthony White,"456 Pearl St, Boulder CO 80302",SKU-G78-BLU,Laptop Sleeve,3,35.0
+10dbca37-3463-4650-8473-ca9c87e2011c,2025-04-19T20:56:24Z,Jennifer Sanchez,"303 Biscayne Blvd, Miami FL 33132",SKU-A12-BLK,Transit Backpack,1,79.0
+490ec6d3-c9b6-47ba-b5f8-be11a4998c38,2025-04-19T17:03:53Z,Sharon Hall,"234 Broadway, Denver CO 80205",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+2ed28f61-f81e-4340-b991-482637ec74ff,2025-04-19T12:05:29Z,Angela Miller,"100 E Washington St, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,2,95.0
+9476aa46-4e71-4287-bfb8-1932cf14e04c,2025-04-19T08:04:56Z,Emily Moore,"111 Congress Ave, Austin TX 78701",SKU-E56-BLK,Travel Duffel,2,95.0
+a3ebd1e3-dbb0-4cb8-bd2f-3932ac5fb6c0,2025-04-19T08:04:50Z,Helen Nelson,"400 Atlantic Ave, Boston MA 02110",SKU-E56-BLK,Travel Duffel,1,95.0
+717854c2-e4e2-4efb-ac95-8f11c963865d,2025-04-19T06:47:59Z,Barbara Martinez,"303 Biscayne Blvd, Miami FL 33132",SKU-A12-BLK,Transit Backpack,1,79.0
+09ae8286-c6a5-41f7-8cd9-2398624d0a79,2025-04-19T05:43:13Z,Dorothy Lopez,"100 Summer St, Boston MA 02110",SKU-D45-BRN,Leather Wallet,1,45.0
+e9de9fd0-0f24-441b-bc64-24146defaf0b,2025-04-19T02:48:53Z,Christopher Gonzalez,"200 1st Ave, Seattle WA 98104",SKU-D45-BRN,Leather Wallet,1,45.0
+38a034b0-1740-4ba2-ab4a-51ea34dfb161,2025-04-18T23:42:51Z,Matthew Thomas,"202 Collins Ave, Miami Beach FL 33140",SKU-C34-NVY,Executive Briefcase,4,125.0
+07e15460-c358-4d07-ba22-64c67bca4efa,2025-04-18T21:26:20Z,Timothy Harris,"444 Travis St, Houston TX 77002",SKU-D45-BRN,Leather Wallet,1,45.0
+31fad79c-7c09-45ce-9f3e-0900b4c31243,2025-04-18T19:20:22Z,Carol Garcia,"300 University St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,1,85.0
+4724ccae-ad4c-4d86-acf1-5da7ce5ac5f9,2025-04-18T10:25:17Z,Paul Gomez,"100 E Washington St, Phoenix AZ 85004",SKU-H89-GRN,Camera Bag,1,85.0
+a327eff0-8f9c-4785-8ce2-7a635a9ba00d,2025-04-18T09:51:22Z,Helen Perez,"400 Pine St, Seattle WA 98101",SKU-C34-NVY,Executive Briefcase,1,125.0
+894ea9d7-aab0-43c8-9c6f-d2ac37ed134d,2025-04-18T06:48:14Z,Richard Martinez,"111 Congress Ave, Austin TX 78701",SKU-C34-NVY,Executive Briefcase,2,125.0
+01f2ab2b-0e1d-4f74-a09f-2fdae02b7cd2,2025-04-18T00:28:57Z,Kenneth Perez,"111 Congress Ave, Austin TX 78701",SKU-D45-BRN,Leather Wallet,1,45.0
+7e1f0eb4-6e54-4fc2-971d-d4f4738dcd20,2025-04-17T19:09:42Z,Brian Flores,"321 Pine St, San Francisco CA 94108",SKU-D45-BRN,Leather Wallet,2,45.0
+a30f4c5d-09c1-4ff3-8ac4-c3f51f992563,2025-04-17T12:50:18Z,Michelle Turner,"400 Atlantic Ave, Boston MA 02110",SKU-A12-BLK,Transit Backpack,2,79.0
+8af108e3-cbc2-460f-ad13-3e5e771bb663,2025-04-17T11:48:30Z,Daniel Phillips,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-E56-BLK,Travel Duffel,1,95.0
+773f6bfe-837c-4143-a6cd-27710a28a3ad,2025-04-17T07:06:17Z,Jessica Johnson,"456 S Wacker Dr, Chicago IL 60606",SKU-E56-BLK,Travel Duffel,1,95.0
+0f601b5d-8c8f-4f26-b527-cf5cc75d00a1,2025-04-17T05:27:55Z,Jennifer Williams,"123 Market St, San Francisco CA 94103",SKU-H89-GRN,Camera Bag,4,85.0
+4ae30c82-57dd-4db1-bd3f-77b7305c837d,2025-04-16T23:51:58Z,Donna Evans,"111 Congress Ave, Austin TX 78701",SKU-F67-RED,Sports Backpack,1,55.0
+b0c7b5f9-51f2-4e57-8580-331d877821e2,2025-04-16T21:10:50Z,Paul Brown,"300 Spring St, Atlanta GA 30308",SKU-C34-NVY,Executive Briefcase,3,125.0
+31301ccd-8832-431c-9fe5-af35317e9256,2025-04-16T18:54:21Z,Paul Gomez,"100 Summer St, Boston MA 02110",SKU-G78-BLU,Laptop Sleeve,1,35.0
+beed8383-88dc-4d9a-8a5e-70c81870e6cc,2025-04-16T18:22:55Z,Kevin Nguyen,"555 Elm St, Dallas TX 75202",SKU-D45-BRN,Leather Wallet,4,45.0
+7a591e51-9e59-4e19-bc46-ab2699884062,2025-04-16T17:02:25Z,Richard Ramirez,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-A12-BLK,Transit Backpack,2,79.0
+781af78c-fb5c-4dd2-9bab-bba833fc144f,2025-04-16T16:47:25Z,Laura Thompson,"456 S Wacker Dr, Chicago IL 60606",SKU-D45-BRN,Leather Wallet,2,45.0
+8df5225e-e796-4b7b-a404-52c07e411916,2025-04-16T15:58:33Z,David Miller,"200 5th Ave, New York NY 10010",SKU-F67-RED,Sports Backpack,2,55.0
+12eba666-2f48-4121-9eeb-af5aff7e05d4,2025-04-16T10:35:12Z,Daniel Harris,"234 Broadway, Denver CO 80205",SKU-C34-NVY,Executive Briefcase,2,125.0
+9c089d9a-bef4-49c4-a727-032f422cddc5,2025-04-16T09:20:02Z,Charles Brown,"500 Lexington Ave, New York NY 10170",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+e6365c27-d2f8-441d-b47d-f8f448c47a81,2025-04-16T08:30:28Z,Andrew Perez,"500 Broadway, Seattle WA 98122",SKU-C34-NVY,Executive Briefcase,1,125.0
+3476c386-c415-4909-9838-f906525c5eb6,2025-04-16T01:08:25Z,Laura Jackson,"200 1st Ave, Seattle WA 98104",SKU-D45-BRN,Leather Wallet,4,45.0
+3faa5b36-7b94-43d2-9322-0d6b76a08c1f,2025-04-15T05:40:55Z,Paul Rivera,"200 5th Ave, New York NY 10010",SKU-F67-RED,Sports Backpack,1,55.0
+c8a56bac-ffbb-470e-8d5d-9e3cc66e9a7d,2025-04-15T05:34:40Z,James White,"100 Summer St, Boston MA 02110",SKU-G78-BLU,Laptop Sleeve,1,35.0
+96bf3517-6987-4c32-8511-9c25b2a1e309,2025-04-15T02:39:59Z,John King,"400 Piedmont Ave, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,2,35.0
+d245fc8d-f643-4993-988a-334271b0e014,2025-04-15T01:30:03Z,Betty Martinez,"789 Ocean Ave, San Diego CA 92101",SKU-G78-BLU,Laptop Sleeve,2,35.0
+ad1109cf-fd8a-494f-aeac-1aeae7bec150,2025-04-15T00:28:28Z,Laura Sanchez,"300 Park Ave, New York NY 10022",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+916941b6-6f63-4117-a64c-13a36d710f8b,2025-04-14T04:28:48Z,Ashley Lopez,"202 Collins Ave, Miami Beach FL 33140",SKU-E56-BLK,Travel Duffel,1,95.0
+dac05a1e-158e-4785-beb5-944cfcdf2284,2025-04-14T04:25:27Z,Lisa Adams,"345 Lincoln St, Denver CO 80203",SKU-G78-BLU,Laptop Sleeve,1,35.0
+462d6a11-5505-4477-bc3c-a7c5954a4607,2025-04-14T04:05:49Z,Kevin Gonzalez,"300 Spring St, Atlanta GA 30308",SKU-H89-GRN,Camera Bag,1,85.0
+29059a45-8f69-4a8d-bd0e-435ff8a0c1b8,2025-04-14T01:32:22Z,Richard Martinez,"456 S Wacker Dr, Chicago IL 60606",SKU-D45-BRN,Leather Wallet,1,45.0
+5fc90949-09c9-4c22-92fd-66356ea26b00,2025-04-14T00:52:49Z,Sandra Thompson,"400 Madison Ave, New York NY 10017",SKU-E56-BLK,Travel Duffel,1,95.0
+4e47af66-0088-4556-b8c7-2ba776e85105,2025-04-14T00:18:33Z,Nancy Miller,"555 Elm St, Dallas TX 75202",SKU-F67-RED,Sports Backpack,1,55.0
+c4ef0b7a-09e6-4ef3-943e-1a2cd8df5c44,2025-04-13T23:13:30Z,Daniel Ramirez,"333 Commerce St, Dallas TX 75201",SKU-A12-BLK,Transit Backpack,1,79.0
+a756c7a3-a82c-4f18-94c5-ad27461fa7b7,2025-04-13T19:13:14Z,John Thompson,"404 Orange Ave, Orlando FL 32801",SKU-H89-GRN,Camera Bag,3,85.0
+9822d0ef-8c1d-40b3-8f06-4796e3652db4,2025-04-13T15:42:35Z,Kimberly Hall,"300 Park Ave, New York NY 10022",SKU-A12-BLK,Transit Backpack,2,79.0
+15becd57-0df3-4686-97b9-3d82cf4955a6,2025-04-13T03:07:59Z,Angela Jones,"234 Broadway, Denver CO 80205",SKU-D45-BRN,Leather Wallet,1,45.0
+9c719044-4562-4edf-bd11-8f1584842c8e,2025-04-12T18:38:00Z,Carol Martin,"202 Collins Ave, Miami Beach FL 33140",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+498d2034-1c07-4604-9bf8-94ab0620d540,2025-04-12T13:27:45Z,Paul Rivera,"222 Main St, Houston TX 77002",SKU-A12-BLK,Transit Backpack,1,79.0
+c2ab7ae1-253a-49ef-8408-6ac5542b9722,2025-04-12T07:34:32Z,Kenneth Phillips,"345 Lincoln St, Denver CO 80203",SKU-H89-GRN,Camera Bag,1,85.0
+2b7994c8-92e4-419b-a827-d4d4552fa726,2025-04-12T05:39:10Z,Emily Martinez,"111 Congress Ave, Austin TX 78701",SKU-A12-BLK,Transit Backpack,2,79.0
+f743e99f-0a71-4174-acfd-132d69cc8157,2025-04-12T04:08:59Z,Angela Baker,"123 Maple St, Denver CO 80218",SKU-H89-GRN,Camera Bag,1,85.0
+8da5ea96-e521-4bc2-81f8-b1f9cacb3715,2025-04-11T23:24:44Z,Matthew Thomas,"100 Broadway, New York NY 10005",SKU-D45-BRN,Leather Wallet,1,45.0
+ab0523a9-bfaa-4f51-8166-989df9e454be,2025-04-11T20:23:06Z,Joshua Campbell,"500 Broadway, Seattle WA 98122",SKU-C34-NVY,Executive Briefcase,3,125.0
+f9b9f2e4-4028-4143-b4a1-d7d3022042ea,2025-04-11T20:07:22Z,Jason Thomas,"123 Market St, San Francisco CA 94103",SKU-G78-BLU,Laptop Sleeve,1,35.0
+35bed8e5-a74a-4eca-8d1f-bfe8b4930e64,2025-04-11T18:27:20Z,Matthew Allen,"500 Boylston St, Boston MA 02116",SKU-D45-BRN,Leather Wallet,1,45.0
+5892c57b-4834-4647-aa90-605b5d7c339d,2025-04-11T16:55:53Z,Donna Torres,"100 E Washington St, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,1,95.0
+8dfba4a5-1905-4751-9a4b-2291a0b85070,2025-04-11T15:02:28Z,Andrew Carter,"100 Broadway, New York NY 10005",SKU-D45-BRN,Leather Wallet,2,45.0
+75b404e7-d1b8-48ef-8323-0e60f58905c0,2025-04-11T12:39:50Z,Lisa Adams,"400 Madison Ave, New York NY 10017",SKU-A12-BLK,Transit Backpack,1,79.0
+1f91a83f-bbc6-4f39-9ebf-2294156befb3,2025-04-11T11:34:47Z,Jennifer Williams,"400 Piedmont Ave, Atlanta GA 30308",SKU-A12-BLK,Transit Backpack,1,79.0
+39181d8e-9e5b-4266-b718-9eb0c484327d,2025-04-11T10:47:38Z,Sarah Brown,"500 Boylston St, Boston MA 02116",SKU-H89-GRN,Camera Bag,2,85.0
+8e0d8cd6-6c13-4ff2-bcc2-0e865f2205cb,2025-04-11T09:07:31Z,Carol Martin,"100 Broadway, New York NY 10005",SKU-C34-NVY,Executive Briefcase,1,125.0
+2e7c12c0-177c-4ba8-94a8-168b3a3349aa,2025-04-11T04:44:41Z,Jason Diaz,"400 Madison Ave, New York NY 10017",SKU-A12-BLK,Transit Backpack,1,79.0
+cd9050f6-fca0-434d-8b74-e2b591cacd86,2025-04-10T20:32:01Z,David Clark,"500 Lexington Ave, New York NY 10170",SKU-G78-BLU,Laptop Sleeve,1,35.0
+96c618ad-cf2e-40da-a993-7fa010df70d0,2025-04-10T17:21:09Z,Michelle Brown,"400 Mill Ave, Tempe AZ 85281",SKU-C34-NVY,Executive Briefcase,1,125.0
+77f52638-1ec9-4996-b7e5-1ef9d173f5ff,2025-04-10T10:32:11Z,Edward Nguyen,"303 Biscayne Blvd, Miami FL 33132",SKU-A12-BLK,Transit Backpack,1,79.0
+d30b3db2-fccd-41f7-90d4-2df9aeb9f6f0,2025-04-10T02:56:56Z,Edward Nguyen,"500 North Ave, Atlanta GA 30308",SKU-H89-GRN,Camera Bag,1,85.0
+0855065b-edf2-44d4-90e1-0ae1f4d3da26,2025-04-10T01:10:14Z,Jennifer Robinson,"123 N Michigan Ave, Chicago IL 60601",SKU-E56-BLK,Travel Duffel,1,95.0
+c3211992-0604-4e46-9e81-ab7a7a85e6bf,2025-04-09T07:40:48Z,Michael Roberts,"505 Beach Blvd, Jacksonville FL 32250",SKU-A12-BLK,Transit Backpack,1,79.0
+3dd55478-6c63-41de-b219-99b702b87b14,2025-04-09T05:40:15Z,Matthew Mitchell,"300 Congress St, Boston MA 02210",SKU-C34-NVY,Executive Briefcase,1,125.0
+87b5aa79-0514-4ce9-9dde-fa2cf6e776eb,2025-04-08T23:30:35Z,Christopher Gonzalez,"400 Pine St, Seattle WA 98101",SKU-C34-NVY,Executive Briefcase,2,125.0
+435bc0ee-bc60-48d0-bb07-32c97c6d18e4,2025-04-08T16:56:23Z,Daniel Young,"100 Peachtree St, Atlanta GA 30303",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+2bdd7795-4a26-49d6-a5fd-c51e2a407ccf,2025-04-08T11:50:57Z,Ruth Harris,"123 Maple St, Denver CO 80218",SKU-A12-BLK,Transit Backpack,2,79.0
+0c667edb-1102-4b40-addb-0990384b6114,2025-04-08T11:32:47Z,Jason Hernandez,"500 University Dr, Tempe AZ 85281",SKU-G78-BLU,Laptop Sleeve,4,35.0
+e1095bfe-677a-449b-ac78-00540124ef3a,2025-04-08T09:17:53Z,Richard Sanchez,"300 University St, Seattle WA 98101",SKU-C34-NVY,Executive Briefcase,3,125.0
+fb29fcc0-6122-450f-859b-cb1a9b87f1bf,2025-04-08T04:00:03Z,Paul Jackson,"400 Atlantic Ave, Boston MA 02110",SKU-D45-BRN,Leather Wallet,2,45.0
+bc0dc4e6-05a6-4415-9c67-9361085f90d3,2025-04-08T03:31:52Z,Kenneth Wilson,"303 Biscayne Blvd, Miami FL 33132",SKU-G78-BLU,Laptop Sleeve,1,35.0
+e7a33b7e-d1cf-4d28-89e0-ed404d14e60d,2025-04-08T01:47:38Z,Helen Perez,"100 Peachtree St, Atlanta GA 30303",SKU-H89-GRN,Camera Bag,1,85.0
+3e58a71b-32f6-4049-8ac9-085d3f676e5a,2025-04-07T21:36:01Z,Timothy Mitchell,"123 N Michigan Ave, Chicago IL 60601",SKU-C34-NVY,Executive Briefcase,3,125.0
+c829a07b-af2e-4cf9-a18f-8cb5d0c95005,2025-04-07T18:07:12Z,Michelle Turner,"200 1st Ave, Seattle WA 98104",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+3fb5e985-7ba6-4a33-992b-449ef834823b,2025-04-07T15:13:09Z,Lisa Lewis,"345 Lincoln St, Denver CO 80203",SKU-E56-BLK,Travel Duffel,2,95.0
+ff86b3e1-7def-4cb8-8f75-279d98f23411,2025-04-07T09:11:56Z,Timothy Brown,"300 Park Ave, New York NY 10022",SKU-F67-RED,Sports Backpack,1,55.0
+e0c91af9-ff8b-49cc-ba71-083374895afe,2025-04-07T08:50:23Z,Sharon Jackson,"333 Commerce St, Dallas TX 75201",SKU-D45-BRN,Leather Wallet,1,45.0
+1b134c7b-0ebc-42ca-a28a-c6f865796500,2025-04-07T00:02:42Z,William Wright,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-C34-NVY,Executive Briefcase,2,125.0
+87707960-2234-4c4a-b66d-4084bf98bda9,2025-04-06T21:20:10Z,Kevin Thompson,"200 5th Ave, New York NY 10010",SKU-E56-BLK,Travel Duffel,1,95.0
+e504ce48-24e1-474a-824c-9086264235a9,2025-04-06T20:00:59Z,Paul Rivera,"500 University Dr, Tempe AZ 85281",SKU-D45-BRN,Leather Wallet,1,45.0
+8ebb09c9-94ad-473e-92a5-1dfa7461e026,2025-04-06T18:24:22Z,Ronald Clark,"321 Pine St, San Francisco CA 94108",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+3896948c-9ece-455a-acc9-9eb8abfe8795,2025-04-06T18:02:59Z,Nancy Miller,"500 Broadway, Seattle WA 98122",SKU-F67-RED,Sports Backpack,1,55.0
+81d21113-c4dd-45fe-83a3-ef17ef2e0bd9,2025-04-06T14:54:23Z,Ruth Harris,"345 Lincoln St, Denver CO 80203",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+1d51d357-00a1-4731-9b8d-6a1d3078dff1,2025-04-06T11:31:40Z,Charles Adams,"111 Congress Ave, Austin TX 78701",SKU-G78-BLU,Laptop Sleeve,2,35.0
+3f9a29c5-7062-482d-8264-d7130ac2a241,2025-04-06T08:54:19Z,Matthew Turner,"303 Biscayne Blvd, Miami FL 33132",SKU-F67-RED,Sports Backpack,2,55.0
+013afb04-0001-498c-8c46-7e579565f1b8,2025-04-05T23:32:58Z,Joshua Thomas,"456 Sunset Blvd, Los Angeles CA 90028",SKU-A12-BLK,Transit Backpack,1,79.0
+474b106d-7098-4150-80fb-3fff3f0680d7,2025-04-05T22:52:56Z,Michelle Walker,"202 Collins Ave, Miami Beach FL 33140",SKU-C34-NVY,Executive Briefcase,2,125.0
+6d1133e5-51c3-4aa0-86cf-f8b693c6c2f4,2025-04-05T10:17:48Z,Jason Harris,"500 North Ave, Atlanta GA 30308",SKU-E56-BLK,Travel Duffel,2,95.0
+89d8096e-e875-4be3-b1b2-e9ba4ff15683,2025-04-05T08:40:52Z,Brian Scott,"100 E Washington St, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,1,95.0
+e5705443-c660-4a9f-b760-3217f921241b,2025-04-05T07:14:53Z,David Adams,"333 Commerce St, Dallas TX 75201",SKU-A12-BLK,Transit Backpack,2,79.0
+00c58c85-2ae9-4a9b-928f-8a70de9b6734,2025-04-04T18:46:58Z,Brian Flores,"123 N Michigan Ave, Chicago IL 60601",SKU-F67-RED,Sports Backpack,2,55.0
+b537b0e2-b48f-49e3-a618-99d9e34fd163,2025-04-04T15:07:18Z,Laura Thompson,"400 Piedmont Ave, Atlanta GA 30308",SKU-H89-GRN,Camera Bag,1,85.0
+4ac85b67-93db-4dc3-aa64-3f6fcce7c2fc,2025-04-04T12:57:53Z,Anthony Nguyen,"300 University St, Seattle WA 98101",SKU-F67-RED,Sports Backpack,1,55.0
+e9db3841-170d-48a2-b1a9-bb6f1abd53d0,2025-04-04T11:20:31Z,Anthony Adams,"100 Summer St, Boston MA 02110",SKU-E56-BLK,Travel Duffel,2,95.0
+195ba1aa-8722-4021-94ce-7013e69d7534,2025-04-04T06:43:19Z,Jason Thomas,"456 S Wacker Dr, Chicago IL 60606",SKU-D45-BRN,Leather Wallet,1,45.0
+dc2a9b80-8fb9-4143-ac25-5b1b641a1dcb,2025-04-04T02:18:55Z,Paul Gomez,"456 S Wacker Dr, Chicago IL 60606",SKU-E56-BLK,Travel Duffel,1,95.0
+e01ddc1e-f981-4899-b560-b1cac18a6a2c,2025-04-04T00:01:29Z,John Robinson,"500 North Ave, Atlanta GA 30308",SKU-D45-BRN,Leather Wallet,2,45.0
+ce5e4620-74d6-4f88-b7be-d0c9e7145f80,2025-04-03T18:58:23Z,Charles Evans,"567 Canyon Blvd, Boulder CO 80302",SKU-A12-BLK,Transit Backpack,2,79.0
+a93de31e-7a2e-403f-b54c-5d8e0cc0006f,2025-04-03T14:15:32Z,Kenneth Phillips,"456 Sunset Blvd, Los Angeles CA 90028",SKU-A12-BLK,Transit Backpack,1,79.0
+4f551470-28ae-41bd-8500-f970f64888ca,2025-04-03T13:42:44Z,James Turner,"400 Atlantic Ave, Boston MA 02110",SKU-D45-BRN,Leather Wallet,4,45.0
+dedc35c1-5fc3-4a0a-bc5e-fa634b6d7828,2025-04-03T05:47:21Z,Richard Campbell,"400 Madison Ave, New York NY 10017",SKU-D45-BRN,Leather Wallet,1,45.0
+0f54c286-e4f8-4ea5-a54c-8b16ec5462dc,2025-04-02T17:19:26Z,Andrew Perez,"567 E Grand Ave, Chicago IL 60611",SKU-G78-BLU,Laptop Sleeve,2,35.0
+63d92398-14b0-4164-86e5-f8392838f2c4,2025-04-02T09:20:38Z,Laura Taylor,"100 Summer St, Boston MA 02110",SKU-E56-BLK,Travel Duffel,1,95.0
+910af789-5ff9-43ed-af8a-80bf349a5162,2025-04-02T07:30:36Z,Kevin Thompson,"123 Maple St, Denver CO 80218",SKU-D45-BRN,Leather Wallet,2,45.0
+cd3dda51-62cc-45b9-8107-23dffc9ac0f9,2025-04-02T06:47:45Z,Jessica Moore,"100 Summer St, Boston MA 02110",SKU-G78-BLU,Laptop Sleeve,1,35.0
+672b8f88-8240-448e-9a15-13be2a34fdc3,2025-04-02T00:24:27Z,Michelle Lee,"111 Congress Ave, Austin TX 78701",SKU-D45-BRN,Leather Wallet,1,45.0
+cfa5b610-7851-43f7-a49c-6eb87202ef61,2025-04-01T17:43:00Z,Helen Nelson,"404 Orange Ave, Orlando FL 32801",SKU-G78-BLU,Laptop Sleeve,1,35.0
+1c2e9072-2458-4d2c-8e5d-4ef2caba9008,2025-04-01T11:24:04Z,Anthony Nguyen,"404 Orange Ave, Orlando FL 32801",SKU-F67-RED,Sports Backpack,1,55.0
+3e7ac2cd-5a02-4cdc-8ea5-04e6952e62b7,2025-03-31T21:07:03Z,Daniel Anderson,"400 Atlantic Ave, Boston MA 02110",SKU-H89-GRN,Camera Bag,1,85.0
+6c69e9dc-05a5-443b-bb03-0a9906974572,2025-03-31T19:46:07Z,Betty Martinez,"456 Sunset Blvd, Los Angeles CA 90028",SKU-C34-NVY,Executive Briefcase,2,125.0
+044e8dde-a7eb-4206-8f88-f2c1a95cfbf2,2025-03-31T19:33:51Z,Jason Hernandez,"100 Summer St, Boston MA 02110",SKU-H89-GRN,Camera Bag,2,85.0
+90738a12-a022-4635-a668-8afb75cb3b6b,2025-03-31T04:19:31Z,Daniel Phillips,"100 Peachtree St, Atlanta GA 30303",SKU-C34-NVY,Executive Briefcase,3,125.0
+da1230b5-a31d-4e3b-8cf2-2c442e2cb97d,2025-03-31T03:02:03Z,Barbara Gomez,"321 Pine St, San Francisco CA 94108",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+baee194e-e0a0-4670-aed4-8bfbcc53e5af,2025-03-30T21:09:55Z,Michelle Walker,"500 Boylston St, Boston MA 02116",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+35e42552-7197-4a7d-86b7-2997d618391c,2025-03-30T03:18:55Z,James Lewis,"500 Lexington Ave, New York NY 10170",SKU-C34-NVY,Executive Briefcase,2,125.0
+0a8cf278-b042-4850-8b1f-db6631c14d95,2025-03-29T23:50:00Z,Kevin Thompson,"456 Pearl St, Boulder CO 80302",SKU-F67-RED,Sports Backpack,2,55.0
+9aa57849-37e5-43e8-ad94-f582a67e15e8,2025-03-29T19:51:11Z,Kenneth Gonzalez,"300 E Van Buren St, Phoenix AZ 85004",SKU-H89-GRN,Camera Bag,1,85.0
+1a2f3e00-63a0-432c-a674-3e9e4b156646,2025-03-29T11:10:29Z,Angela Baker,"400 Madison Ave, New York NY 10017",SKU-D45-BRN,Leather Wallet,1,45.0
+1ee3c456-9ece-4137-af92-155f16386bee,2025-03-29T09:41:46Z,Jessica Thomas,"123 Maple St, Denver CO 80218",SKU-C34-NVY,Executive Briefcase,1,125.0
+78928b99-3ec3-4f35-8931-efcc76b150e3,2025-03-29T06:36:51Z,Mary Wright,"456 S Wacker Dr, Chicago IL 60606",SKU-D45-BRN,Leather Wallet,1,45.0
+ec2f4703-14e4-4cc4-a38d-edfd46e5e89d,2025-03-29T01:19:10Z,Kimberly Garcia,"500 Boylston St, Boston MA 02116",SKU-G78-BLU,Laptop Sleeve,1,35.0
+ddceab16-92af-4980-9bcd-fa1ccbcebee8,2025-03-28T17:20:25Z,Paul Jones,"400 Piedmont Ave, Atlanta GA 30308",SKU-D45-BRN,Leather Wallet,1,45.0
+7604ed81-c989-4cde-a4af-a5d94147de84,2025-03-28T16:18:56Z,Laura Thompson,"500 University Dr, Tempe AZ 85281",SKU-E56-BLK,Travel Duffel,2,95.0
+4490dc88-1049-433e-9993-630248780f40,2025-03-28T10:59:21Z,Kimberly Thomas,"200 N Central Ave, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,1,95.0
+6e96ec02-8486-4f53-b81c-a79c6fd1e290,2025-03-28T10:12:45Z,Jessica Thomas,"200 5th Ave, New York NY 10010",SKU-F67-RED,Sports Backpack,2,55.0
+69954168-c012-4804-98de-e47d0266f3f2,2025-03-28T08:56:10Z,Kimberly Adams,"500 Lexington Ave, New York NY 10170",SKU-C34-NVY,Executive Briefcase,1,125.0
+3646b05c-40be-4c33-b8fa-8159e32b18d9,2025-03-28T03:23:33Z,Nancy Miller,"500 Boylston St, Boston MA 02116",SKU-F67-RED,Sports Backpack,1,55.0
+17b1b01e-d68e-4c3f-bb9c-2b7ec73c8522,2025-03-28T03:02:09Z,Anthony Nguyen,"222 Main St, Houston TX 77002",SKU-D45-BRN,Leather Wallet,1,45.0
+243ba652-c91e-4070-ac8a-e30da4a4b3c7,2025-03-28T01:08:25Z,Kevin Lopez,"567 Canyon Blvd, Boulder CO 80302",SKU-G78-BLU,Laptop Sleeve,2,35.0
+574251d9-5a1a-400e-b548-e1db60bba0df,2025-03-27T12:26:00Z,Kimberly Thomas,"100 E Washington St, Phoenix AZ 85004",SKU-F67-RED,Sports Backpack,1,55.0
+650aee43-f7f4-40b5-ba76-ef47c1318c1a,2025-03-27T11:13:06Z,Timothy Mitchell,"500 Boylston St, Boston MA 02116",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+88b108fb-635d-47af-a969-7e66fc2234ca,2025-03-27T09:08:48Z,Kimberly Hall,"505 Beach Blvd, Jacksonville FL 32250",SKU-D45-BRN,Leather Wallet,3,45.0
+f29667fa-0150-4eda-b0f3-2265365314f6,2025-03-27T08:03:11Z,Sandra Thompson,"234 Broadway, Denver CO 80205",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+977ffdd6-90a6-4664-8d49-46e04187a51a,2025-03-27T06:58:19Z,Mark Phillips,"444 Travis St, Houston TX 77002",SKU-H89-GRN,Camera Bag,1,85.0
+219cdc99-516b-42cd-9476-604fba8068f7,2025-03-26T17:17:31Z,Betty Martinez,"567 E Grand Ave, Chicago IL 60611",SKU-F67-RED,Sports Backpack,1,55.0
+00761da0-3028-4c9d-9f30-e82b51a19c47,2025-03-26T11:17:35Z,Daniel Harris,"505 Beach Blvd, Jacksonville FL 32250",SKU-F67-RED,Sports Backpack,1,55.0
+193dd1dc-068f-494d-9b0c-c30b368f12ef,2025-03-26T10:29:07Z,Michelle Turner,"500 Boylston St, Boston MA 02116",SKU-F67-RED,Sports Backpack,2,55.0
+7f93a140-e69f-4d4f-b261-c85a5a93b76c,2025-03-26T02:49:16Z,Jennifer Robinson,"555 Elm St, Dallas TX 75202",SKU-G78-BLU,Laptop Sleeve,1,35.0
+2f93a9b1-a46a-4122-8142-dd5da13199fd,2025-03-25T13:15:54Z,Charles Brown,"400 Pine St, Seattle WA 98101",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+3e7fa486-76db-45c3-a859-837704689639,2025-03-25T06:17:11Z,Daniel Ramirez,"101 Ocean Dr, Miami Beach FL 33139",SKU-A12-BLK,Transit Backpack,4,79.0
+de9c3c9a-b73b-4fe0-bbc7-3cddf056f1a5,2025-03-25T05:02:16Z,Sharon Jackson,"300 Spring St, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,1,35.0
+0541d30c-2901-445b-a973-40ff8387874c,2025-03-25T05:00:28Z,Susan Young,"404 Orange Ave, Orlando FL 32801",SKU-D45-BRN,Leather Wallet,1,45.0
+a9f85a74-751f-4a4f-bb70-6e3cd4bcb40d,2025-03-24T23:59:03Z,Laura Young,"123 N Michigan Ave, Chicago IL 60601",SKU-H89-GRN,Camera Bag,2,85.0
+41514b50-ba61-4dd3-8e53-2990319eba94,2025-03-24T23:42:19Z,David Clark,"300 Congress St, Boston MA 02210",SKU-D45-BRN,Leather Wallet,1,45.0
+13e1d772-dc1c-4cee-b2d3-b4f70e073d34,2025-03-24T21:58:43Z,Michelle Lee,"300 Park Ave, New York NY 10022",SKU-H89-GRN,Camera Bag,2,85.0
+975f995d-6f07-4a55-8308-7fc6dd7afe3e,2025-03-24T21:17:01Z,Carol Garcia,"400 Pine St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,1,45.0
+130e2ec5-20fc-4142-b726-a9ba988150e3,2025-03-24T10:10:23Z,Richard Martinez,"500 North Ave, Atlanta GA 30308",SKU-H89-GRN,Camera Bag,2,85.0
+ce36ee61-7a00-4df7-b500-986cc79302ba,2025-03-24T04:06:53Z,Andrew Perez,"300 Spring St, Atlanta GA 30308",SKU-F67-RED,Sports Backpack,1,55.0
+f0b23cba-5dd5-4eba-8c71-8ff88687f334,2025-03-24T03:03:04Z,Paul Brown,"100 Peachtree St, Atlanta GA 30303",SKU-C34-NVY,Executive Briefcase,2,125.0
+4e0de218-4e50-4cbb-b29c-a182c67c7385,2025-03-24T02:17:16Z,Richard Campbell,"404 Orange Ave, Orlando FL 32801",SKU-D45-BRN,Leather Wallet,2,45.0
+3ef2a816-5587-4a7c-873e-306bb7158577,2025-03-24T02:11:35Z,Andrew Perez,"505 Beach Blvd, Jacksonville FL 32250",SKU-F67-RED,Sports Backpack,1,55.0
+e3d35b4d-af6e-48cf-adf8-dfe74f062be2,2025-03-24T00:36:35Z,Timothy Lewis,"303 Biscayne Blvd, Miami FL 33132",SKU-A12-BLK,Transit Backpack,3,79.0
+206d7e80-4c17-464e-bb09-c7fae10402ad,2025-03-23T23:36:19Z,Kenneth Moore,"234 W Madison St, Chicago IL 60606",SKU-D45-BRN,Leather Wallet,1,45.0
+5c5c5d79-c11f-4032-b2b7-1bbf4974c9ba,2025-03-23T15:43:45Z,Sharon Hall,"100 Summer St, Boston MA 02110",SKU-D45-BRN,Leather Wallet,1,45.0
+1e931d3f-12da-4b06-a728-cdbfd2cfcd69,2025-03-23T13:52:14Z,Christopher Nelson,"567 Canyon Blvd, Boulder CO 80302",SKU-C34-NVY,Executive Briefcase,1,125.0
+c096f337-11db-4d24-9fd7-f911f1f1e744,2025-03-23T10:05:46Z,Charles Evans,"101 Ocean Dr, Miami Beach FL 33139",SKU-H89-GRN,Camera Bag,2,85.0
+db03740d-8568-4b82-8712-2ff016030c14,2025-03-23T06:34:16Z,Robert Adams,"200 N Central Ave, Phoenix AZ 85004",SKU-G78-BLU,Laptop Sleeve,1,35.0
+1afdac08-7fcc-4095-8958-2fb618f60f84,2025-03-22T19:03:19Z,Charles Taylor,"500 Boylston St, Boston MA 02116",SKU-E56-BLK,Travel Duffel,1,95.0
+ad91c5a6-6861-4f7d-bfee-1013b3af3f39,2025-03-22T15:38:15Z,Jason Diaz,"345 Lincoln St, Denver CO 80203",SKU-G78-BLU,Laptop Sleeve,1,35.0
+0d4f6cc4-21d4-4f80-8253-75402a2b5867,2025-03-22T14:04:07Z,Barbara Gomez,"500 North Ave, Atlanta GA 30308",SKU-E56-BLK,Travel Duffel,1,95.0
+287174ae-8c0d-4a95-8233-a3a3ac1ecc16,2025-03-22T11:06:32Z,Kenneth Moore,"444 Travis St, Houston TX 77002",SKU-A12-BLK,Transit Backpack,1,79.0
+f0d7d73d-aba3-48e5-89fe-5ee3781a24c8,2025-03-22T08:54:40Z,Brian Flores,"555 Elm St, Dallas TX 75202",SKU-G78-BLU,Laptop Sleeve,2,35.0
+33aafeb5-1c0d-4a42-b9e4-33dd98ee24e0,2025-03-22T04:21:44Z,Angela Miller,"123 Maple St, Denver CO 80218",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+62d722e9-61ee-4006-8b02-6b4640e43f91,2025-03-22T02:53:04Z,Charles Walker,"500 Lexington Ave, New York NY 10170",SKU-H89-GRN,Camera Bag,1,85.0
+941109aa-5b5a-476f-8a85-a98d4403534a,2025-03-22T01:53:26Z,Mark Rivera,"234 W Madison St, Chicago IL 60606",SKU-H89-GRN,Camera Bag,1,85.0
+ccf31502-c0cd-403f-afeb-2a47b0bfd284,2025-03-21T19:04:52Z,Ashley Miller,"111 Congress Ave, Austin TX 78701",SKU-D45-BRN,Leather Wallet,1,45.0
+99a71a1c-6e31-48c5-a742-34570f12a415,2025-03-21T13:32:12Z,Kevin Lopez,"500 University Dr, Tempe AZ 85281",SKU-H89-GRN,Camera Bag,1,85.0
+43842248-3a7d-46f6-9e54-7e2f0b79db5a,2025-03-21T05:36:35Z,Matthew Turner,"444 Travis St, Houston TX 77002",SKU-H89-GRN,Camera Bag,1,85.0
+5ca673af-f1c6-41e7-8adf-66ad6c1293d8,2025-03-21T00:02:40Z,William Jones,"300 Congress St, Boston MA 02210",SKU-D45-BRN,Leather Wallet,2,45.0
+61de46c7-797b-4f41-99c4-09fd69df6079,2025-03-20T21:36:45Z,Anthony Adams,"200 Marietta St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,1,79.0
+e19e4c26-8244-42ba-88a1-48b235440e9c,2025-03-20T19:47:41Z,William Roberts,"202 Collins Ave, Miami Beach FL 33140",SKU-H89-GRN,Camera Bag,2,85.0
+204d4c1c-825f-401a-b6ca-d973e71f7688,2025-03-20T13:56:15Z,Carol Garcia,"345 Lincoln St, Denver CO 80203",SKU-A12-BLK,Transit Backpack,2,79.0
+fbf3b64e-2f41-41d0-9991-1796bafe1ed1,2025-03-20T13:35:38Z,Sarah Roberts,"100 E Washington St, Phoenix AZ 85004",SKU-C34-NVY,Executive Briefcase,1,125.0
+64ee3eab-40bb-4a54-8a96-3401fdd2ba79,2025-03-20T09:20:18Z,Brian Scott,"444 Travis St, Houston TX 77002",SKU-H89-GRN,Camera Bag,1,85.0
+1c2cd6e1-ec13-4f0d-acf9-e8a713e08fa4,2025-03-20T07:39:15Z,Barbara Martinez,"400 Pine St, Seattle WA 98101",SKU-G78-BLU,Laptop Sleeve,3,35.0
+ecab4325-51e6-4364-939f-c2da2952d6ef,2025-03-20T06:53:59Z,Ashley Miller,"100 Peachtree St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,3,79.0
+fa68b01f-e1b9-4066-bcd7-55a5b344f617,2025-03-20T02:09:08Z,Patricia Wright,"300 Congress St, Boston MA 02210",SKU-H89-GRN,Camera Bag,1,85.0
+65c661b3-50df-4f8f-b8cc-8f91f12c90a1,2025-03-19T22:04:27Z,Joshua Thomas,"202 Collins Ave, Miami Beach FL 33140",SKU-H89-GRN,Camera Bag,2,85.0
+14dc2c5c-265c-413e-9247-e21b2e2be862,2025-03-19T17:18:03Z,Sarah Brown,"555 Elm St, Dallas TX 75202",SKU-E56-BLK,Travel Duffel,1,95.0
+7681d291-1e55-41d3-a9f8-5aadd861ec30,2025-03-19T15:27:27Z,Donna Martinez,"123 Maple St, Denver CO 80218",SKU-G78-BLU,Laptop Sleeve,1,35.0
+21617fcb-c992-4c22-9f7e-da38e7b8898f,2025-03-19T14:30:48Z,Charles Brown,"101 Ocean Dr, Miami Beach FL 33139",SKU-H89-GRN,Camera Bag,1,85.0
+cf047ad0-7af8-43db-aa77-8b2b805ba355,2025-03-19T13:27:34Z,Donna Torres,"456 S Wacker Dr, Chicago IL 60606",SKU-G78-BLU,Laptop Sleeve,1,35.0
+d440d626-b5ce-4dee-8b82-d3a3fb00287e,2025-03-19T09:38:01Z,Michelle Turner,"100 Broadway, New York NY 10005",SKU-A12-BLK,Transit Backpack,1,79.0
+6688a8a4-a526-4806-b055-c7515cf0c2e3,2025-03-19T08:38:44Z,Donna Evans,"456 S Wacker Dr, Chicago IL 60606",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+ddeee635-90c5-48b9-99e4-4e99b53bf022,2025-03-19T04:39:53Z,Matthew Turner,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-D45-BRN,Leather Wallet,4,45.0
+d49bdc58-cfe3-4936-b745-6862f2067dc5,2025-03-19T03:46:14Z,Jason Hernandez,"400 Piedmont Ave, Atlanta GA 30308",SKU-C34-NVY,Executive Briefcase,3,125.0
+89ca6539-137b-4064-b3cc-e7729ed87bdf,2025-03-19T01:52:29Z,Charles Taylor,"500 Broadway, Seattle WA 98122",SKU-G78-BLU,Laptop Sleeve,1,35.0
+50a95602-96aa-4097-aef2-f90c39430422,2025-03-18T21:33:48Z,John King,"200 Marietta St, Atlanta GA 30303",SKU-G78-BLU,Laptop Sleeve,1,35.0
+600b0ee1-9852-4651-8ea4-ba882bf23fb3,2025-03-18T17:11:26Z,James Mitchell,"400 Madison Ave, New York NY 10017",SKU-C34-NVY,Executive Briefcase,1,125.0
+423dff33-2392-4f70-8377-05e8567215b7,2025-03-18T15:45:44Z,Kenneth Moore,"500 University Dr, Tempe AZ 85281",SKU-A12-BLK,Transit Backpack,1,79.0
+34be6cee-1cae-4541-b4db-d8cdc3a68a19,2025-03-18T06:04:15Z,William Rodriguez,"500 University Dr, Tempe AZ 85281",SKU-F67-RED,Sports Backpack,2,55.0
+b3910c44-0a1f-43a6-ac46-60147f3110fb,2025-03-18T04:29:35Z,Donna Evans,"200 N Central Ave, Phoenix AZ 85004",SKU-G78-BLU,Laptop Sleeve,2,35.0
+0d7098c5-d1de-45d6-979f-0af9a33598ad,2025-03-17T23:59:01Z,Matthew Wilson,"300 Spring St, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,1,35.0
+488b4a2a-b334-4790-b0e3-a633cb4d4e59,2025-03-17T22:58:13Z,Lisa Adams,"789 Ocean Ave, San Diego CA 92101",SKU-G78-BLU,Laptop Sleeve,1,35.0
+aba4e3de-860a-42bb-8401-b224400c84a3,2025-03-17T22:43:54Z,Andrew Carter,"234 Broadway, Denver CO 80205",SKU-D45-BRN,Leather Wallet,1,45.0
+dbfba682-9dda-4b46-a489-6155e9141718,2025-03-17T15:31:35Z,Mary Phillips,"400 Atlantic Ave, Boston MA 02110",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+fbc2565c-4b71-4725-9ce0-e841e9cb22bf,2025-03-16T19:58:51Z,Amy Anderson,"456 Sunset Blvd, Los Angeles CA 90028",SKU-A12-BLK,Transit Backpack,1,79.0
+b9b46193-1fa9-43f2-bef0-486953480888,2025-03-16T10:18:48Z,Susan Young,"100 Summer St, Boston MA 02110",SKU-G78-BLU,Laptop Sleeve,1,35.0
+2dbbc166-5aef-49d4-a199-61abcfd5113d,2025-03-15T09:26:08Z,Laura Young,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-A12-BLK,Transit Backpack,1,79.0
+855eadc6-8367-4c4d-97b7-a6a766dd78ec,2025-03-15T06:29:34Z,Daniel Hill,"500 Broadway, Seattle WA 98122",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+4d1103fd-78fd-443a-ada0-60be1172a2dc,2025-03-15T03:39:14Z,Linda Anderson,"300 University St, Seattle WA 98101",SKU-E56-BLK,Travel Duffel,2,95.0
+4c7b0ccd-1fc9-4a79-9347-4a52a5c11d8a,2025-03-15T01:21:31Z,Donald Lopez,"123 Market St, San Francisco CA 94103",SKU-C34-NVY,Executive Briefcase,3,125.0
+d3e22fbf-b168-4a6d-a50b-c82a356ebb8d,2025-03-14T22:05:48Z,John Thompson,"500 University Dr, Tempe AZ 85281",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+73fd5188-003d-42b4-9f9c-a98c835fc675,2025-03-14T21:55:15Z,Timothy Brown,"111 Congress Ave, Austin TX 78701",SKU-D45-BRN,Leather Wallet,2,45.0
+c766df9a-0239-4c5c-9674-47ca5e2754f0,2025-03-14T21:18:57Z,Anthony Lee,"567 E Grand Ave, Chicago IL 60611",SKU-F67-RED,Sports Backpack,2,55.0
+c7bd1a27-cebd-4072-9884-f5fb10d84114,2025-03-14T17:02:19Z,Kenneth Perez,"300 University St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,1,85.0
+1d8fd3cc-ac3a-48fd-ac30-b4be1e4d84cf,2025-03-14T12:49:02Z,Susan Martinez,"300 Park Ave, New York NY 10022",SKU-E56-BLK,Travel Duffel,3,95.0
+4cf01f52-6209-4bb6-9901-327afbf40786,2025-03-13T22:21:43Z,Charles Adams,"555 Elm St, Dallas TX 75202",SKU-E56-BLK,Travel Duffel,1,95.0
+b0d15f3e-596c-4e5f-bfb0-9b87f52723ee,2025-03-13T15:41:28Z,Paul Brown,"500 Boylston St, Boston MA 02116",SKU-H89-GRN,Camera Bag,1,85.0
+c862a671-a9c4-44f2-9f2a-ff31d16fd83a,2025-03-13T12:30:17Z,Mark Young,"100 E Washington St, Phoenix AZ 85004",SKU-F67-RED,Sports Backpack,4,55.0
+277bf479-a31c-40fb-9394-e7b0bca09fd3,2025-03-13T11:30:57Z,Richard Ramirez,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+1c3eb0ba-3278-46a9-ab62-8ca6e4d86ae0,2025-03-13T02:56:00Z,Sharon Jackson,"321 Pine St, San Francisco CA 94108",SKU-G78-BLU,Laptop Sleeve,1,35.0
+60582319-56fd-4cdf-9674-a8075d450be6,2025-03-12T05:50:40Z,Dorothy Adams,"500 Lexington Ave, New York NY 10170",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+268f38c3-c705-40fe-b435-53424c0712c4,2025-03-11T22:41:40Z,Mary Turner,"200 State St, Boston MA 02109",SKU-G78-BLU,Laptop Sleeve,1,35.0
+6803ccb7-13ba-45ec-b6e9-e50702b152d3,2025-03-11T20:35:10Z,Charles Allen,"500 North Ave, Atlanta GA 30308",SKU-F67-RED,Sports Backpack,3,55.0
+1172923d-38c1-49e8-9576-f51e2754501c,2025-03-11T19:55:27Z,Angela Miller,"500 Lexington Ave, New York NY 10170",SKU-D45-BRN,Leather Wallet,3,45.0
+874b9a2a-4a23-4ec8-a316-b4a4f8b77970,2025-03-11T19:29:02Z,Susan Johnson,"123 Market St, San Francisco CA 94103",SKU-D45-BRN,Leather Wallet,1,45.0
+323d6a0c-bc72-4cbc-97f3-6f4421183b5f,2025-03-11T18:35:05Z,Matthew Davis,"333 Commerce St, Dallas TX 75201",SKU-H89-GRN,Camera Bag,1,85.0
+c61c78d9-1ff7-42fc-8de8-5e3999ded4d7,2025-03-11T18:14:39Z,Nancy Miller,"555 Elm St, Dallas TX 75202",SKU-C34-NVY,Executive Briefcase,3,125.0
+1fe5c4a9-b16f-4ab6-86b9-df9666177247,2025-03-11T08:27:46Z,William Jones,"456 Sunset Blvd, Los Angeles CA 90028",SKU-C34-NVY,Executive Briefcase,2,125.0
+372516c2-6cc3-4561-b934-0cb3abc6419b,2025-03-11T08:19:41Z,Timothy Lewis,"500 University Dr, Tempe AZ 85281",SKU-E56-BLK,Travel Duffel,1,95.0
+61bfe91c-ff68-4d89-bbc9-bc2c4c87e2db,2025-03-11T04:22:37Z,Kevin Gonzalez,"300 University St, Seattle WA 98101",SKU-G78-BLU,Laptop Sleeve,1,35.0
+d0573f84-de36-495f-ac77-91ca691f9f59,2025-03-11T01:29:04Z,Lisa Harris,"222 Main St, Houston TX 77002",SKU-A12-BLK,Transit Backpack,2,79.0
+9dec6ec6-52e8-4c60-978f-86f91bb4c45a,2025-03-10T22:14:22Z,William Brown,"123 Market St, San Francisco CA 94103",SKU-A12-BLK,Transit Backpack,1,79.0
+9a1c992d-5976-490f-802e-d7ee0fbbb074,2025-03-10T21:45:26Z,Anthony White,"300 Park Ave, New York NY 10022",SKU-E56-BLK,Travel Duffel,1,95.0
+8c07607c-e807-48bc-85b6-4920caf48ec8,2025-03-10T17:56:55Z,Michelle Turner,"400 Madison Ave, New York NY 10017",SKU-A12-BLK,Transit Backpack,1,79.0
+655514fc-c5ba-4482-a52b-d34e20189847,2025-03-10T14:28:34Z,Barbara Martinez,"400 Mill Ave, Tempe AZ 85281",SKU-G78-BLU,Laptop Sleeve,3,35.0
+df804f95-7792-42c9-8922-b5358208a9a4,2025-03-10T10:29:38Z,Charles Allen,"100 Pike St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,2,45.0
+471f31cb-5cfe-468b-9390-4e9ba805a890,2025-03-10T10:08:30Z,Anthony Lee,"300 Park Ave, New York NY 10022",SKU-F67-RED,Sports Backpack,1,55.0
+3001400d-2a34-44ef-b5ba-f6f79f6c5987,2025-03-10T07:54:00Z,Lisa Harris,"456 S Wacker Dr, Chicago IL 60606",SKU-H89-GRN,Camera Bag,2,85.0
+144c983f-9817-46ed-9bc1-7358456017db,2025-03-10T06:48:54Z,Timothy Brown,"500 Broadway, Seattle WA 98122",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+5dd818d6-1791-4de6-8c91-d4c5024e0a73,2025-03-09T07:19:29Z,Matthew Allen,"100 Peachtree St, Atlanta GA 30303",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+261d8d73-6883-4a87-8d59-d3763e81b88a,2025-03-09T06:07:36Z,Timothy Brown,"300 E Van Buren St, Phoenix AZ 85004",SKU-D45-BRN,Leather Wallet,1,45.0
+a6efa6c6-f6ee-463c-abba-e74f85116516,2025-03-09T01:13:53Z,David Adams,"400 Pine St, Seattle WA 98101",SKU-F67-RED,Sports Backpack,1,55.0
+ce6ffab2-ab2b-4f0b-bb02-07fc074adbb2,2025-03-09T00:33:08Z,Jason Thomas,"202 Collins Ave, Miami Beach FL 33140",SKU-E56-BLK,Travel Duffel,1,95.0
+11dfe19c-b575-4cf6-a93c-6ec35e1bfc79,2025-03-08T22:28:08Z,Andrew Perez,"567 E Grand Ave, Chicago IL 60611",SKU-G78-BLU,Laptop Sleeve,3,35.0
+2bc0e6dc-dc7b-47cb-889e-acba63095c49,2025-03-08T16:27:02Z,Michael Smith,"456 S Wacker Dr, Chicago IL 60606",SKU-A12-BLK,Transit Backpack,1,79.0
+d30b833f-a463-401d-89d9-2f19749cae4d,2025-03-08T13:39:19Z,Kimberly Young,"300 E Van Buren St, Phoenix AZ 85004",SKU-D45-BRN,Leather Wallet,1,45.0
+07a4fdbc-50dc-4f09-9e17-8a84194b1ac3,2025-03-08T11:25:56Z,Helen Perez,"456 S Wacker Dr, Chicago IL 60606",SKU-H89-GRN,Camera Bag,1,85.0
+aaa40fe8-33fd-4d75-8123-c1163c0f4c9f,2025-03-08T10:31:44Z,Kevin Turner,"400 Mill Ave, Tempe AZ 85281",SKU-D45-BRN,Leather Wallet,4,45.0
+aa08a6fc-a262-475e-92f9-9bc975399993,2025-03-08T05:17:51Z,Emily Moore,"200 Marietta St, Atlanta GA 30303",SKU-C34-NVY,Executive Briefcase,1,125.0
+bc7f315b-25f2-4875-958f-a6d5e1ceb2be,2025-03-08T01:42:52Z,Laura Sanchez,"500 Broadway, Seattle WA 98122",SKU-D45-BRN,Leather Wallet,2,45.0
+a36d278f-4c00-4f1e-817f-ca6b627de4cd,2025-03-08T01:01:43Z,Sharon Jackson,"123 Market St, San Francisco CA 94103",SKU-A12-BLK,Transit Backpack,1,79.0
+a177deee-96a7-47db-b761-60aff5955f21,2025-03-07T23:42:05Z,Matthew Wilson,"400 Atlantic Ave, Boston MA 02110",SKU-G78-BLU,Laptop Sleeve,2,35.0
+a1b6be3e-e9d6-448b-9bdc-624259078cf3,2025-03-07T20:25:11Z,Helen Nelson,"100 Pike St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,1,79.0
+6142acc9-726c-4f10-b361-4191a1765e4d,2025-03-07T15:32:28Z,Laura Sanchez,"456 Pearl St, Boulder CO 80302",SKU-G78-BLU,Laptop Sleeve,1,35.0
+894fad2d-731a-4a56-ab74-362b5ead6188,2025-03-07T13:03:47Z,Joshua Campbell,"456 S Wacker Dr, Chicago IL 60606",SKU-G78-BLU,Laptop Sleeve,3,35.0
+cd959e2b-aa48-4135-b093-188f8a1f7fbb,2025-03-07T07:10:43Z,Sandra Diaz,"123 N Michigan Ave, Chicago IL 60601",SKU-G78-BLU,Laptop Sleeve,2,35.0
+66622c5c-b452-4d31-953b-f90255cb2919,2025-03-07T06:52:40Z,James Roberts,"345 N State St, Chicago IL 60654",SKU-E56-BLK,Travel Duffel,3,95.0
+239ec3a2-6add-46ac-b7bb-a130e4997740,2025-03-07T03:05:40Z,Angela Miller,"101 Ocean Dr, Miami Beach FL 33139",SKU-H89-GRN,Camera Bag,2,85.0
+d679e304-018f-4e69-a089-de03c5a1602f,2025-03-07T01:20:19Z,Lisa Taylor,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-G78-BLU,Laptop Sleeve,4,35.0
+3b754ac1-12ce-4152-8ce8-bceb34748855,2025-03-06T23:31:49Z,Laura Taylor,"500 Boylston St, Boston MA 02116",SKU-C34-NVY,Executive Briefcase,3,125.0
+2dfa39e2-c9a8-45eb-8430-191a23f2a4c0,2025-03-06T20:10:52Z,John Thompson,"400 Madison Ave, New York NY 10017",SKU-A12-BLK,Transit Backpack,1,79.0
+74b6f055-e5c8-4ad3-96db-43e692df4aa6,2025-03-06T16:39:01Z,Carol Green,"200 N Central Ave, Phoenix AZ 85004",SKU-C34-NVY,Executive Briefcase,2,125.0
+fdfa9247-2129-4553-9c55-04281cfb437f,2025-03-06T16:31:48Z,Carol Garcia,"100 Broadway, New York NY 10005",SKU-G78-BLU,Laptop Sleeve,3,35.0
+299a9e92-6449-458c-b4d7-06f2acb18c01,2025-03-06T10:48:32Z,William Brown,"303 Biscayne Blvd, Miami FL 33132",SKU-E56-BLK,Travel Duffel,1,95.0
+f56a1fd4-c14c-4e02-91b8-5cf3be5e82b5,2025-03-06T10:43:01Z,Joshua Thomas,"400 Piedmont Ave, Atlanta GA 30308",SKU-D45-BRN,Leather Wallet,2,45.0
+431201ec-8aa7-45cc-9987-4868532d4242,2025-03-05T19:08:31Z,Timothy Clark,"500 Lexington Ave, New York NY 10170",SKU-C34-NVY,Executive Briefcase,3,125.0
+80509fe7-d214-40e3-bbdf-6d74737f0830,2025-03-05T12:02:19Z,Sarah Allen,"404 Orange Ave, Orlando FL 32801",SKU-E56-BLK,Travel Duffel,1,95.0
+e888345a-0fe2-4ebc-bcc9-bed1595e680c,2025-03-05T04:57:13Z,John Robinson,"400 Pine St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,1,85.0
+1925c0e8-5194-4d29-be2c-580e066d9e8d,2025-03-05T03:12:07Z,Ashley Miller,"123 Market St, San Francisco CA 94103",SKU-A12-BLK,Transit Backpack,2,79.0
+1bea4ee0-a257-4898-87fa-bd9b817a6b1d,2025-03-04T21:03:44Z,Sharon Anderson,"555 Elm St, Dallas TX 75202",SKU-F67-RED,Sports Backpack,1,55.0
+45a759d6-6940-4a4b-9027-0ad8399c1862,2025-03-04T14:02:14Z,Sandra Turner,"456 Sunset Blvd, Los Angeles CA 90028",SKU-H89-GRN,Camera Bag,1,85.0
+36807a88-5eba-4149-b97f-518bd2e81cab,2025-03-04T13:46:49Z,Charles Walker,"500 Lexington Ave, New York NY 10170",SKU-G78-BLU,Laptop Sleeve,2,35.0
+2f4f861d-cc46-4630-ae32-539b1b8f1b37,2025-03-04T11:05:15Z,Kimberly Adams,"222 Main St, Houston TX 77002",SKU-A12-BLK,Transit Backpack,1,79.0
+d15cb47f-10d2-44e2-a1b3-e60d770947bc,2025-03-03T23:58:54Z,Thomas Walker,"400 Piedmont Ave, Atlanta GA 30308",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+861b7b0a-1a75-4ff3-b05e-a136f6bedd60,2025-03-03T22:58:00Z,Mary Mitchell,"100 Peachtree St, Atlanta GA 30303",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+8cfc454e-ba1c-4234-ad79-003ec5c5d8da,2025-03-03T20:48:36Z,Mary Phillips,"303 Biscayne Blvd, Miami FL 33132",SKU-E56-BLK,Travel Duffel,1,95.0
+053b4e42-bc7c-4816-8a15-ce8ea26ed4d0,2025-03-03T10:03:33Z,Lisa Lee,"222 Main St, Houston TX 77002",SKU-H89-GRN,Camera Bag,1,85.0
+9261760f-6931-4d45-acdd-c2de2c1b9b9d,2025-03-03T07:21:47Z,Sarah Lee,"234 W Madison St, Chicago IL 60606",SKU-A12-BLK,Transit Backpack,3,79.0
+c2538ef7-1c8d-45ac-9c35-60cd041b9a27,2025-03-03T05:26:47Z,Timothy Jones,"100 Peachtree St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,1,79.0
+cd5d79f0-e3d7-4af3-88af-a44353ba3803,2025-03-03T04:36:31Z,Richard Sanchez,"300 Spring St, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,1,35.0
+74d435c7-1614-4c92-9be1-af3ed4f0f222,2025-03-03T03:39:27Z,James Turner,"200 5th Ave, New York NY 10010",SKU-G78-BLU,Laptop Sleeve,1,35.0
+af63cf81-60e8-4783-9916-8e9defb7882f,2025-03-03T03:31:51Z,Matthew Mitchell,"400 Pine St, Seattle WA 98101",SKU-G78-BLU,Laptop Sleeve,1,35.0
+01f95e58-b4de-4cd9-ba00-c153b8bffa9a,2025-03-03T02:08:16Z,Christopher Nelson,"456 Sunset Blvd, Los Angeles CA 90028",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+68ff15a6-1697-4512-a928-58b1e97603c3,2025-03-02T23:35:12Z,Kevin Thompson,"123 N Michigan Ave, Chicago IL 60601",SKU-H89-GRN,Camera Bag,1,85.0
+304ebbc6-a4bb-4abd-b8e9-12848711b7ef,2025-03-02T17:21:23Z,Christopher Gonzalez,"400 Atlantic Ave, Boston MA 02110",SKU-F67-RED,Sports Backpack,2,55.0
+3bbb81d2-1489-409f-b1d3-c398117973d3,2025-03-02T08:32:24Z,Lisa Lewis,"300 University St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,1,45.0
+f1b46b4d-d97c-459a-a4ae-c6840ee33355,2025-03-01T23:20:47Z,Nancy Davis,"300 Park Ave, New York NY 10022",SKU-A12-BLK,Transit Backpack,1,79.0
+3169b678-ec64-4644-b011-44d8c785ca89,2025-03-01T19:36:10Z,Kenneth Gonzalez,"200 N Central Ave, Phoenix AZ 85004",SKU-D45-BRN,Leather Wallet,1,45.0
+36fca6ef-6baf-47e6-b437-de32b3b2ed5d,2025-03-01T16:57:10Z,Sarah Brown,"222 Main St, Houston TX 77002",SKU-A12-BLK,Transit Backpack,1,79.0
+493448e9-442e-4484-9d7f-8c5562100212,2025-03-01T09:06:15Z,Laura Sanchez,"100 Summer St, Boston MA 02110",SKU-C34-NVY,Executive Briefcase,1,125.0
+6aa60d7d-907c-44dd-8f95-dd140a45e875,2025-03-01T07:03:47Z,William Rodriguez,"321 Pine St, San Francisco CA 94108",SKU-F67-RED,Sports Backpack,1,55.0
+d5b80f0f-b291-4352-9a84-48f261c34612,2025-03-01T05:52:02Z,Paul Gomez,"333 Commerce St, Dallas TX 75201",SKU-A12-BLK,Transit Backpack,2,79.0
+03e296da-de31-4b6d-b976-e96bdc2cd3ad,2025-03-01T04:38:45Z,Kimberly Smith,"555 Elm St, Dallas TX 75202",SKU-C34-NVY,Executive Briefcase,1,125.0
+f845a9af-869a-4ff4-bc73-658c14a3a817,2025-03-01T01:25:28Z,Sarah Roberts,"456 Pearl St, Boulder CO 80302",SKU-C34-NVY,Executive Briefcase,1,125.0
+d19ef141-6a82-4c7a-b6c2-e2aabf0f0a47,2025-02-28T22:27:46Z,Daniel Harris,"222 Main St, Houston TX 77002",SKU-G78-BLU,Laptop Sleeve,2,35.0
+20e53209-0b15-47f3-bdd6-0ba0ef28b2c4,2025-02-28T21:56:42Z,Matthew Thomas,"505 Beach Blvd, Jacksonville FL 32250",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+d8bc34ee-dd57-4362-8c4b-13115dfa80cb,2025-02-28T15:13:44Z,Linda Jackson,"202 Collins Ave, Miami Beach FL 33140",SKU-E56-BLK,Travel Duffel,2,95.0
+55491671-1d2d-4f5c-af18-5f8925bfd33e,2025-02-28T05:00:34Z,Emily Moore,"400 Madison Ave, New York NY 10017",SKU-F67-RED,Sports Backpack,1,55.0
+547a7d04-2658-4fb0-8271-8ff25586c490,2025-02-28T04:22:57Z,Laura Taylor,"444 Travis St, Houston TX 77002",SKU-A12-BLK,Transit Backpack,1,79.0
+c7e7889d-55f9-4328-b1f6-01adac9e2141,2025-02-28T03:33:28Z,Angela Turner,"400 Atlantic Ave, Boston MA 02110",SKU-H89-GRN,Camera Bag,1,85.0
+dd37662b-8401-4dd6-a8cc-f445e08761a8,2025-02-28T02:37:07Z,Timothy Lewis,"202 Collins Ave, Miami Beach FL 33140",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+534f7ea4-0fbe-4945-ab26-07b70cae84d2,2025-02-27T15:55:01Z,Charles Walker,"345 N State St, Chicago IL 60654",SKU-A12-BLK,Transit Backpack,1,79.0
+ae8c8972-d76f-4576-988b-a06f070e770b,2025-02-27T14:29:18Z,Daniel Ramirez,"123 Market St, San Francisco CA 94103",SKU-A12-BLK,Transit Backpack,3,79.0
+81708704-d403-45c0-87d8-6e76929bb051,2025-02-27T08:36:52Z,Kimberly Thomas,"234 W Madison St, Chicago IL 60606",SKU-F67-RED,Sports Backpack,1,55.0
+a24a3f4c-230f-4398-a0a3-6d8ef70f00e8,2025-02-27T05:50:58Z,Emily Martinez,"500 Broadway, Seattle WA 98122",SKU-C34-NVY,Executive Briefcase,2,125.0
+bc845b65-d142-4d08-9bbc-f75b2c9764da,2025-02-27T04:25:08Z,Kevin Turner,"555 Elm St, Dallas TX 75202",SKU-C34-NVY,Executive Briefcase,1,125.0
+87bf66b1-1b2b-44af-8309-06ec22c7e62c,2025-02-27T04:09:21Z,Jason Thomas,"789 Ocean Ave, San Diego CA 92101",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+bf8b7c34-3351-444e-bf93-68a38b66676b,2025-02-26T19:37:47Z,Linda Anderson,"345 Lincoln St, Denver CO 80203",SKU-C34-NVY,Executive Briefcase,1,125.0
+2cdc52ff-9cee-4766-b22a-d36a31b8a0ff,2025-02-26T17:42:31Z,Susan Young,"567 Canyon Blvd, Boulder CO 80302",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+013cd856-1fed-4cfa-95e6-89a2ac3f539c,2025-02-26T16:21:57Z,Andrew Perez,"400 Madison Ave, New York NY 10017",SKU-G78-BLU,Laptop Sleeve,1,35.0
+3b3f4fbe-e954-4ce5-9a03-6f7d315ec8f8,2025-02-26T16:16:18Z,Lisa Evans,"300 Congress St, Boston MA 02210",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+1b116df7-a505-435c-ad96-21048bf8a130,2025-02-26T14:31:07Z,Kimberly Smith,"111 Congress Ave, Austin TX 78701",SKU-G78-BLU,Laptop Sleeve,2,35.0
+eb6e15ac-7ef1-4eb2-9422-c4b4083c4290,2025-02-26T14:13:19Z,Nancy Miller,"234 Broadway, Denver CO 80205",SKU-F67-RED,Sports Backpack,1,55.0
+38bed216-ca0d-4ea4-bd82-c05043187dee,2025-02-25T23:22:29Z,Dorothy Adams,"500 Broadway, Seattle WA 98122",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+5cd7c4e1-d163-4a60-aa26-19d47847e113,2025-02-25T22:32:38Z,Jason Diaz,"100 Pike St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,1,85.0
+dc120cf9-8eb1-4bb9-9270-72bb049bec52,2025-02-25T19:17:45Z,Laura Perez,"500 University Dr, Tempe AZ 85281",SKU-C34-NVY,Executive Briefcase,1,125.0
+8688aef1-4b2c-4bf5-ab68-046d44aaec0c,2025-02-25T17:48:11Z,Sharon Scott,"400 Pine St, Seattle WA 98101",SKU-E56-BLK,Travel Duffel,1,95.0
+ccc72d4e-b73e-4f87-9c68-a076422043a1,2025-02-25T16:46:08Z,Laura Perez,"789 Ocean Ave, San Diego CA 92101",SKU-H89-GRN,Camera Bag,1,85.0
+d4a8ef4a-21b4-47a5-87f8-56a44b21b390,2025-02-25T10:39:46Z,John Thompson,"345 N State St, Chicago IL 60654",SKU-F67-RED,Sports Backpack,1,55.0
+cd2b1236-c85f-4460-97d3-ce1313581937,2025-02-25T07:59:55Z,Daniel Ramirez,"100 Peachtree St, Atlanta GA 30303",SKU-G78-BLU,Laptop Sleeve,2,35.0
+f1ddc21a-4215-4e9e-8db9-1fea6082b66b,2025-02-25T03:33:59Z,Charles Brown,"500 North Ave, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,2,35.0
+9b4e1324-0f49-45f1-b232-31642b45b3b8,2025-02-24T18:37:48Z,Anthony White,"456 Sunset Blvd, Los Angeles CA 90028",SKU-G78-BLU,Laptop Sleeve,1,35.0
+975a0570-be31-43c5-9f5f-5c6b2065f579,2025-02-24T13:10:20Z,Michelle Brown,"567 Canyon Blvd, Boulder CO 80302",SKU-F67-RED,Sports Backpack,1,55.0
+561d132b-3004-4fd5-a543-99bfcec14cfe,2025-02-24T07:43:02Z,Joshua Perez,"111 Congress Ave, Austin TX 78701",SKU-H89-GRN,Camera Bag,2,85.0
+f3b85375-6647-4f8d-a9ee-fb2e63772127,2025-02-24T03:19:06Z,Charles Evans,"200 5th Ave, New York NY 10010",SKU-C34-NVY,Executive Briefcase,1,125.0
+23d6831f-5b61-4d15-8262-e3f57365f19a,2025-02-23T19:19:17Z,Jennifer Williams,"345 Lincoln St, Denver CO 80203",SKU-F67-RED,Sports Backpack,2,55.0
+09eb5f94-9448-4326-830d-9165d11bf7cf,2025-02-23T17:13:01Z,Amy Anderson,"400 Mill Ave, Tempe AZ 85281",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+856ddf5e-2186-436c-9218-9ddfd89b260e,2025-02-23T05:00:50Z,Jessica Johnson,"333 Commerce St, Dallas TX 75201",SKU-D45-BRN,Leather Wallet,1,45.0
+7a435312-3a4c-4a8a-a3ca-60c7c88d0431,2025-02-23T02:43:33Z,Kevin Nguyen,"300 Spring St, Atlanta GA 30308",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+2251ef98-71fe-4bdb-982b-338464bf99f4,2025-02-22T19:26:40Z,Angela Turner,"200 State St, Boston MA 02109",SKU-E56-BLK,Travel Duffel,1,95.0
+bc69c4a5-b5c9-4999-832f-6698b2ef6160,2025-02-22T06:25:46Z,Matthew Mitchell,"300 Park Ave, New York NY 10022",SKU-F67-RED,Sports Backpack,1,55.0
+76667128-7f1c-4f27-a0e2-b82e4f12190b,2025-02-22T05:16:24Z,Matthew Davis,"100 Summer St, Boston MA 02110",SKU-A12-BLK,Transit Backpack,2,79.0
+cc8799f1-37fc-428b-9307-7a926ae33aca,2025-02-22T02:02:39Z,John Robinson,"404 Orange Ave, Orlando FL 32801",SKU-F67-RED,Sports Backpack,1,55.0
+4098a172-6576-40ec-9994-ef25140a3439,2025-02-21T23:18:55Z,Mark Phillips,"567 E Grand Ave, Chicago IL 60611",SKU-H89-GRN,Camera Bag,1,85.0
+0d7d9e73-fb31-42c3-9d3d-eecb8f694e7e,2025-02-21T08:57:53Z,Daniel Hill,"234 W Madison St, Chicago IL 60606",SKU-C34-NVY,Executive Briefcase,1,125.0
+1720da4a-30d9-4200-92a3-20de71cdd261,2025-02-21T05:24:04Z,Donna King,"100 Pike St, Seattle WA 98101",SKU-G78-BLU,Laptop Sleeve,1,35.0
+7ed9e2fb-042e-4b4c-953c-7e681321df8f,2025-02-20T11:11:50Z,Lisa Lee,"123 Maple St, Denver CO 80218",SKU-C34-NVY,Executive Briefcase,1,125.0
+cc661711-a4aa-4e77-bcbe-e6e77d50cb28,2025-02-20T09:15:18Z,Linda Jackson,"101 Ocean Dr, Miami Beach FL 33139",SKU-B23-GRY,Urban Messenger Bag,4,65.0
+beccd519-9f3c-4092-aea0-5d613f1e9f36,2025-02-20T08:37:52Z,Susan Johnson,"300 Park Ave, New York NY 10022",SKU-C34-NVY,Executive Briefcase,2,125.0
+021d13c5-d962-4ff6-a1b0-760579b80a62,2025-02-20T00:14:22Z,Sharon Scott,"234 Broadway, Denver CO 80205",SKU-A12-BLK,Transit Backpack,1,79.0
+2cdedc71-f52c-44f6-b097-0d053c1fc966,2025-02-19T22:14:42Z,Daniel Hill,"404 Orange Ave, Orlando FL 32801",SKU-G78-BLU,Laptop Sleeve,1,35.0
+401e5ea8-95c3-4a74-9c67-ba75edc09432,2025-02-19T15:30:33Z,James Williams,"100 Summer St, Boston MA 02110",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+3b5c8fcb-0fc5-49a9-bfdd-5a21b705bb8f,2025-02-19T15:10:43Z,Helen Gonzalez,"400 Madison Ave, New York NY 10017",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+42eb8347-ac25-42c5-8db0-91ccfbc253dd,2025-02-19T13:54:54Z,Timothy Mitchell,"400 Piedmont Ave, Atlanta GA 30308",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+e820382f-9564-44d8-832c-3b6d285bb6f7,2025-02-19T11:13:35Z,James Lewis,"303 Biscayne Blvd, Miami FL 33132",SKU-A12-BLK,Transit Backpack,2,79.0
+0945f46f-f24e-4668-bca1-d8e616fa9b25,2025-02-19T07:07:29Z,James Williams,"100 Pike St, Seattle WA 98101",SKU-C34-NVY,Executive Briefcase,2,125.0
+e5334587-b09b-43c6-bfda-a5a76bb80280,2025-02-18T09:58:06Z,Helen Gonzalez,"456 Sunset Blvd, Los Angeles CA 90028",SKU-H89-GRN,Camera Bag,2,85.0
+406b1ec2-5bb7-42ce-9d01-4bfccbecae32,2025-02-18T08:18:40Z,Mary Mitchell,"200 N Central Ave, Phoenix AZ 85004",SKU-D45-BRN,Leather Wallet,2,45.0
+364f32ab-2e69-4348-b7b1-c53e1d1bfddf,2025-02-18T06:12:57Z,Kenneth Perez,"400 Pine St, Seattle WA 98101",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+53ed411d-b3ba-4504-91ca-1aa03295960d,2025-02-18T00:40:09Z,Ronald Hill,"300 University St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,1,79.0
+6779f8cc-1e2b-4ef2-941e-97acad627d35,2025-02-17T15:47:21Z,Sandra Diaz,"300 University St, Seattle WA 98101",SKU-F67-RED,Sports Backpack,2,55.0
+1d64c11a-b5bc-4db1-b3b4-3515d98343a2,2025-02-17T08:58:55Z,Kenneth Wilson,"222 Main St, Houston TX 77002",SKU-C34-NVY,Executive Briefcase,1,125.0
+c341ad70-838e-4923-ae1a-04976e50ee47,2025-02-17T03:34:09Z,Matthew Davis,"555 Elm St, Dallas TX 75202",SKU-E56-BLK,Travel Duffel,1,95.0
+b8781642-c6b8-4607-9f7d-d3947c139905,2025-02-17T02:33:04Z,David Miller,"789 Ocean Ave, San Diego CA 92101",SKU-F67-RED,Sports Backpack,1,55.0
+fc9d5097-212b-47ac-8f28-6a1c39d688aa,2025-02-16T21:13:23Z,Karen Clark,"202 Collins Ave, Miami Beach FL 33140",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+a320cfd9-780b-468d-a7a2-f14f1137369d,2025-02-16T20:58:44Z,Michelle Lee,"300 Congress St, Boston MA 02210",SKU-H89-GRN,Camera Bag,1,85.0
+0f53082b-e70f-4c9d-8f50-90004f2cdfa4,2025-02-16T17:44:22Z,Thomas Walker,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+4ddf0ac8-e97d-403c-adc9-a26c869d0ff9,2025-02-16T14:20:50Z,Sarah Nguyen,"100 Peachtree St, Atlanta GA 30303",SKU-F67-RED,Sports Backpack,1,55.0
+8fe87260-a55e-437b-a14e-5a8c872b264b,2025-02-16T14:18:48Z,Mark Young,"500 North Ave, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,1,35.0
+7343b7ff-6ade-4e4e-9442-7c7b56152375,2025-02-16T09:27:55Z,Kevin Thompson,"222 Main St, Houston TX 77002",SKU-G78-BLU,Laptop Sleeve,1,35.0
+d3c7a350-6639-4096-835e-dd5e46c0e3f6,2025-02-16T05:25:33Z,George Smith,"300 University St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,2,85.0
+2ea4b205-2d2d-48ae-9719-3302eae7b2b0,2025-02-15T23:50:00Z,Daniel Hill,"500 Broadway, Seattle WA 98122",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+63bf5d6e-e876-44ec-bd66-8799d1ffa854,2025-02-15T17:24:13Z,Charles Walker,"200 5th Ave, New York NY 10010",SKU-G78-BLU,Laptop Sleeve,1,35.0
+5ad55fc3-1714-426f-805c-7452d593a5fc,2025-02-15T14:06:55Z,William Jones,"333 Commerce St, Dallas TX 75201",SKU-A12-BLK,Transit Backpack,1,79.0
+e636c004-63b8-47d6-980a-d23804fe266d,2025-02-15T13:57:08Z,James Williams,"400 Piedmont Ave, Atlanta GA 30308",SKU-C34-NVY,Executive Briefcase,1,125.0
+b6dc4680-7c05-46f6-a5ca-7f32d7345b60,2025-02-15T12:11:18Z,David King,"100 Pike St, Seattle WA 98101",SKU-E56-BLK,Travel Duffel,1,95.0
+6c7039ea-db60-4a0a-aa52-3e8f8915d58a,2025-02-15T06:38:37Z,Timothy Harris,"100 Pike St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,2,45.0
+c16ff356-b729-4d94-b099-eb4383a73137,2025-02-15T05:17:29Z,Matthew Allen,"345 N State St, Chicago IL 60654",SKU-D45-BRN,Leather Wallet,2,45.0
+c0869a97-4cd7-4a6a-8994-287b99e51611,2025-02-15T03:52:40Z,Daniel Hill,"202 Collins Ave, Miami Beach FL 33140",SKU-C34-NVY,Executive Briefcase,1,125.0
+bb99966c-22c3-45a0-a242-2c38f33b7512,2025-02-15T03:03:00Z,Thomas Walker,"456 Sunset Blvd, Los Angeles CA 90028",SKU-H89-GRN,Camera Bag,1,85.0
+0f0c3c41-d8bc-4464-bcfe-82d1fb11e241,2025-02-14T22:20:29Z,Paul Brown,"111 Congress Ave, Austin TX 78701",SKU-H89-GRN,Camera Bag,1,85.0
+c51a43ae-323e-4622-a9e4-7a2ba6562e2b,2025-02-14T21:43:49Z,Ronald Hill,"200 Marietta St, Atlanta GA 30303",SKU-D45-BRN,Leather Wallet,1,45.0
+951d34bb-b170-456b-9ffa-0d8b9ef3fa7d,2025-02-14T12:53:22Z,James Turner,"202 Collins Ave, Miami Beach FL 33140",SKU-E56-BLK,Travel Duffel,3,95.0
+6610d8e0-e80e-4739-a3f6-8949c69b71dd,2025-02-14T05:56:18Z,Charles Taylor,"200 N Central Ave, Phoenix AZ 85004",SKU-B23-GRY,Urban Messenger Bag,4,65.0
+7c5bc2ae-41fc-4e32-a102-b8d274114269,2025-02-14T03:27:44Z,Elizabeth Rodriguez,"456 Sunset Blvd, Los Angeles CA 90028",SKU-A12-BLK,Transit Backpack,1,79.0
+9deb0f55-cca6-4dda-b39d-e32f5a855612,2025-02-13T23:23:15Z,William Wright,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-H89-GRN,Camera Bag,2,85.0
+1ad4bc3e-3797-4db9-9188-58e1b08e9cb0,2025-02-13T11:48:09Z,Lisa Taylor,"300 University St, Seattle WA 98101",SKU-E56-BLK,Travel Duffel,3,95.0
+52c4faba-0774-479d-bef5-5d302c3d2b9f,2025-02-13T10:14:06Z,Andrew Perez,"234 Broadway, Denver CO 80205",SKU-E56-BLK,Travel Duffel,1,95.0
+2e296a72-3d71-4f96-9e70-6187103cfac8,2025-02-13T04:07:27Z,Kenneth Gonzalez,"200 5th Ave, New York NY 10010",SKU-A12-BLK,Transit Backpack,2,79.0
+ffd787e9-a68c-4c01-ab6e-e1413b72c2de,2025-02-13T00:26:38Z,Angela Jones,"101 Ocean Dr, Miami Beach FL 33139",SKU-D45-BRN,Leather Wallet,1,45.0
+51cc1a62-76ea-46dc-8743-66e10e8329b8,2025-02-12T20:33:59Z,Timothy Mitchell,"100 E Washington St, Phoenix AZ 85004",SKU-A12-BLK,Transit Backpack,1,79.0
+b802e67d-d7a2-49bd-a5e0-355c4617d9b7,2025-02-12T11:57:10Z,Charles Taylor,"300 E Van Buren St, Phoenix AZ 85004",SKU-D45-BRN,Leather Wallet,1,45.0
+cfdab95b-ac3c-42b9-b5f5-56d1e94d0492,2025-02-12T07:06:31Z,Kevin Thompson,"400 Piedmont Ave, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,1,35.0
+99182361-1b61-4379-abae-298d3b289aa8,2025-02-12T04:59:18Z,Sarah Brown,"100 Broadway, New York NY 10005",SKU-A12-BLK,Transit Backpack,1,79.0
+e46a67b7-0ffc-4a86-9cdd-4cc41a8a43f3,2025-02-11T23:34:32Z,Richard Ramirez,"567 Canyon Blvd, Boulder CO 80302",SKU-G78-BLU,Laptop Sleeve,1,35.0
+2617b7ae-f1d2-41bf-8c28-a15e83f1e0d9,2025-02-11T20:40:41Z,Sarah Nguyen,"100 Peachtree St, Atlanta GA 30303",SKU-D45-BRN,Leather Wallet,2,45.0
+765e9a87-37a8-4558-a0e3-3dfe4186ab6d,2025-02-11T19:01:28Z,Timothy Lewis,"444 Travis St, Houston TX 77002",SKU-E56-BLK,Travel Duffel,1,95.0
+f9e9f42d-6e88-4afe-a0cf-7c0f30704536,2025-02-11T17:12:59Z,Patricia Wright,"234 Broadway, Denver CO 80205",SKU-D45-BRN,Leather Wallet,4,45.0
+3bba051f-c660-4039-9054-4b2e0134ee25,2025-02-11T16:57:23Z,Richard Nguyen,"456 S Wacker Dr, Chicago IL 60606",SKU-H89-GRN,Camera Bag,1,85.0
+05e784ed-c74b-460e-baa6-bced502835ec,2025-02-11T12:48:31Z,Angela Miller,"505 Beach Blvd, Jacksonville FL 32250",SKU-G78-BLU,Laptop Sleeve,3,35.0
+bdda0557-f2c7-4e69-bfcd-0497538bb0e9,2025-02-11T12:08:41Z,Matthew Thomas,"404 Orange Ave, Orlando FL 32801",SKU-H89-GRN,Camera Bag,1,85.0
+0684428a-c1b7-47c1-a83c-60cace203503,2025-02-11T12:07:19Z,Lisa Evans,"500 University Dr, Tempe AZ 85281",SKU-D45-BRN,Leather Wallet,1,45.0
+ad40352a-0d4b-4d5e-be1e-595147177ec9,2025-02-10T21:38:05Z,Angela Jones,"303 Biscayne Blvd, Miami FL 33132",SKU-A12-BLK,Transit Backpack,1,79.0
+784a20f9-0367-483f-b836-67e50a5f2518,2025-02-10T12:18:14Z,James Williams,"400 Atlantic Ave, Boston MA 02110",SKU-G78-BLU,Laptop Sleeve,1,35.0
+fa9747e4-2c03-400e-8d21-6a29b98685c2,2025-02-10T11:43:49Z,Paul Jones,"500 Boylston St, Boston MA 02116",SKU-H89-GRN,Camera Bag,2,85.0
+ca0da6d4-a991-4366-a6b9-976272e666ee,2025-02-10T02:05:52Z,Paul Rivera,"123 Maple St, Denver CO 80218",SKU-E56-BLK,Travel Duffel,1,95.0
+300f34cf-b9a8-43c5-b389-66a7e188122f,2025-02-09T20:20:22Z,Matthew Turner,"500 Broadway, Seattle WA 98122",SKU-E56-BLK,Travel Duffel,3,95.0
+768c9c4f-54e5-405e-aab3-46874008aacb,2025-02-09T19:04:31Z,Ruth Green,"400 Atlantic Ave, Boston MA 02110",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+82813863-f3da-42eb-9fa9-1f21ad0d115d,2025-02-09T17:14:18Z,Anthony White,"345 N State St, Chicago IL 60654",SKU-C34-NVY,Executive Briefcase,4,125.0
+58b6bb1c-ccd5-4096-bde8-2fccf99d5689,2025-02-09T16:13:10Z,Kimberly Clark,"234 W Madison St, Chicago IL 60606",SKU-E56-BLK,Travel Duffel,1,95.0
+703d69f5-7fbc-4e5b-8373-42293be0e6a5,2025-02-08T17:59:24Z,George Anderson,"200 1st Ave, Seattle WA 98104",SKU-E56-BLK,Travel Duffel,2,95.0
+06b46911-1120-48ec-bb31-6c3964cb5c9b,2025-02-08T17:53:38Z,Sarah Lee,"200 1st Ave, Seattle WA 98104",SKU-G78-BLU,Laptop Sleeve,1,35.0
+0d86be19-b452-43eb-aba1-705c6d52ec37,2025-02-08T11:54:11Z,Laura Thompson,"456 Pearl St, Boulder CO 80302",SKU-F67-RED,Sports Backpack,2,55.0
+08eb0cdc-5684-4950-b309-52ed40ac1e58,2025-02-08T07:51:49Z,Mark Phillips,"100 Peachtree St, Atlanta GA 30303",SKU-F67-RED,Sports Backpack,1,55.0
+c0302ac5-9cb7-4f98-9ffa-7267857787f2,2025-02-08T07:22:38Z,Jennifer Sanchez,"100 Peachtree St, Atlanta GA 30303",SKU-C34-NVY,Executive Briefcase,1,125.0
+cd6af138-789e-4491-97db-80fbc26ee799,2025-02-07T23:03:39Z,Robert Martin,"400 Madison Ave, New York NY 10017",SKU-D45-BRN,Leather Wallet,2,45.0
+587041e5-d0c8-407a-9897-b627e41d4432,2025-02-07T20:45:39Z,Ruth Jackson,"222 Main St, Houston TX 77002",SKU-F67-RED,Sports Backpack,1,55.0
+64bff28f-2df2-411e-bfb3-7a2b64989c9c,2025-02-07T10:09:25Z,Richard Martinez,"400 Mill Ave, Tempe AZ 85281",SKU-A12-BLK,Transit Backpack,1,79.0
+7867f79d-8434-4a2c-9060-64047b1fe140,2025-02-07T04:55:43Z,Sandra Turner,"123 N Michigan Ave, Chicago IL 60601",SKU-D45-BRN,Leather Wallet,2,45.0
+96574b2e-e078-4ede-b765-53a1fa2346bf,2025-02-07T00:25:01Z,Laura Perez,"300 Park Ave, New York NY 10022",SKU-D45-BRN,Leather Wallet,4,45.0
+c6ff3edb-ee09-47b7-bda4-d4be438d878d,2025-02-06T15:25:50Z,Sarah Lee,"444 Travis St, Houston TX 77002",SKU-G78-BLU,Laptop Sleeve,3,35.0
+b36f384d-0493-4ced-8751-9485e81a554a,2025-02-06T08:06:50Z,Angela Baker,"400 Atlantic Ave, Boston MA 02110",SKU-D45-BRN,Leather Wallet,2,45.0
+c29fa3b1-08b2-407e-ae07-860e430feca6,2025-02-06T06:48:24Z,Sharon Flores,"567 Canyon Blvd, Boulder CO 80302",SKU-D45-BRN,Leather Wallet,1,45.0
+abfce3a5-b86e-4318-b34b-c0d4ee86d134,2025-02-06T06:01:31Z,James Mitchell,"123 Maple St, Denver CO 80218",SKU-E56-BLK,Travel Duffel,3,95.0
+b6d922b1-2b39-4e0b-8d9d-875ccf1de05f,2025-02-06T05:14:43Z,Sandra Turner,"100 E Washington St, Phoenix AZ 85004",SKU-D45-BRN,Leather Wallet,4,45.0
+b366ddcc-e4d2-4574-b69c-dd40d53183e9,2025-02-06T04:34:44Z,Sharon Scott,"300 Spring St, Atlanta GA 30308",SKU-A12-BLK,Transit Backpack,1,79.0
+232138cd-0c68-4d0f-943b-1782ee5b57ff,2025-02-06T04:13:48Z,Laura Perez,"456 Pearl St, Boulder CO 80302",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+735eda05-84ce-445e-a1a4-483688dc222f,2025-02-05T16:36:59Z,Lisa Lee,"200 State St, Boston MA 02109",SKU-A12-BLK,Transit Backpack,2,79.0
+e1a8fd94-8576-4895-9c0a-5e8c03316c1b,2025-02-05T15:04:17Z,Matthew Mitchell,"444 Travis St, Houston TX 77002",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+c5502511-781f-4aee-ae75-8095dace1f85,2025-02-05T10:08:26Z,Lisa Lewis,"100 Summer St, Boston MA 02110",SKU-E56-BLK,Travel Duffel,1,95.0
+16cfeb37-7b89-4b9b-a22d-84a8fd48fcf4,2025-02-05T06:03:25Z,Matthew Turner,"500 Lexington Ave, New York NY 10170",SKU-A12-BLK,Transit Backpack,1,79.0
+2fe2ca5e-2550-45cd-a19e-41c9adece2d9,2025-02-05T03:28:22Z,Robert Perez,"303 Biscayne Blvd, Miami FL 33132",SKU-H89-GRN,Camera Bag,2,85.0
+bac47f73-e1fe-455b-912c-59b7cdee3290,2025-02-05T03:06:03Z,Kevin Turner,"456 S Wacker Dr, Chicago IL 60606",SKU-E56-BLK,Travel Duffel,1,95.0
+f00d6e1d-6a0f-4c2c-b386-cbf4aee714c4,2025-02-04T13:00:03Z,David Clark,"200 N Central Ave, Phoenix AZ 85004",SKU-H89-GRN,Camera Bag,1,85.0
+65d39304-1d5a-4d23-bc9b-85caf5f04fda,2025-02-04T05:35:20Z,Kenneth Gonzalez,"400 Madison Ave, New York NY 10017",SKU-F67-RED,Sports Backpack,1,55.0
+f4fa3f55-d549-4873-aa34-720a64703031,2025-02-03T22:22:54Z,Timothy Jones,"123 N Michigan Ave, Chicago IL 60601",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+329bd1a2-2e00-441c-94a2-709bb4d7176f,2025-02-03T16:45:45Z,Amy Anderson,"123 Maple St, Denver CO 80218",SKU-G78-BLU,Laptop Sleeve,1,35.0
+27358957-807b-47a5-991d-44974a0b7954,2025-02-03T16:29:07Z,Daniel Phillips,"303 Biscayne Blvd, Miami FL 33132",SKU-F67-RED,Sports Backpack,2,55.0
+8005df7c-61e2-4058-b99e-8d04a58f900d,2025-02-03T15:29:16Z,Brian Scott,"444 Travis St, Houston TX 77002",SKU-E56-BLK,Travel Duffel,1,95.0
+7c91d777-63a5-4677-8275-df3f3066851c,2025-02-03T10:10:46Z,Richard Sanchez,"200 Marietta St, Atlanta GA 30303",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+e3b86417-5c3f-4a15-9a77-15d62fdb80d5,2025-02-03T05:51:03Z,Sandra Thompson,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-H89-GRN,Camera Bag,2,85.0
+0bc2e768-a0e1-4aad-a994-4ccde2c2cfcb,2025-02-02T13:55:28Z,William Gomez,"567 Canyon Blvd, Boulder CO 80302",SKU-A12-BLK,Transit Backpack,2,79.0
+48dd4270-9a45-4dd1-b22b-3071c1a6ed55,2025-02-02T04:26:04Z,Thomas Nelson,"234 W Madison St, Chicago IL 60606",SKU-H89-GRN,Camera Bag,1,85.0
+d4d441fd-cb44-4395-ba71-e21e0a939dd1,2025-02-02T03:25:47Z,Sharon Anderson,"200 State St, Boston MA 02109",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+eec4e7e5-5c1b-43d6-95cf-ef51e4b8097e,2025-02-01T18:03:36Z,William Jones,"234 W Madison St, Chicago IL 60606",SKU-C34-NVY,Executive Briefcase,2,125.0
+843ee33a-7190-4df7-87dc-dc5afcc83f08,2025-02-01T14:27:26Z,Paul Jackson,"333 Commerce St, Dallas TX 75201",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+f82c7a22-cce4-40be-8fbe-a367c7d5b611,2025-02-01T11:53:00Z,Kimberly Clark,"123 Maple St, Denver CO 80218",SKU-E56-BLK,Travel Duffel,1,95.0
+a51fa9bf-d507-414c-9b38-a1bf45d9c468,2025-02-01T05:05:48Z,Christopher Gonzalez,"100 Summer St, Boston MA 02110",SKU-E56-BLK,Travel Duffel,1,95.0
+54b2b3b4-e0b9-48da-baa6-23f43f5319f2,2025-02-01T01:01:28Z,Kevin Turner,"101 Ocean Dr, Miami Beach FL 33139",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+c8600e8f-87c5-490b-854a-0adcd2fd9f41,2025-01-31T19:34:43Z,Thomas Nelson,"222 Main St, Houston TX 77002",SKU-C34-NVY,Executive Briefcase,1,125.0
+62935ca4-5fa9-4873-bb08-4abd75a2d520,2025-01-31T18:02:36Z,Carol Martin,"400 Atlantic Ave, Boston MA 02110",SKU-A12-BLK,Transit Backpack,1,79.0
+ec19437b-c7dc-460a-b769-55a31316286e,2025-01-31T04:51:34Z,Jennifer Williams,"333 Commerce St, Dallas TX 75201",SKU-F67-RED,Sports Backpack,1,55.0
+1a0b643a-cb43-4aef-82c9-23a5a03e3066,2025-01-30T19:35:40Z,George Anderson,"234 W Madison St, Chicago IL 60606",SKU-C34-NVY,Executive Briefcase,2,125.0
+90693bc5-7562-450d-bec7-cb13a6e9fb8c,2025-01-30T08:50:31Z,Timothy Mitchell,"789 Ocean Ave, San Diego CA 92101",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+3bb35973-8cc6-4222-be0d-acf9d4ae9ba1,2025-01-30T08:29:09Z,Jason Hernandez,"111 Congress Ave, Austin TX 78701",SKU-A12-BLK,Transit Backpack,1,79.0
+6daae16e-414e-4877-b52f-c7a6b7a4ff67,2025-01-30T05:01:23Z,Michelle Lee,"555 Elm St, Dallas TX 75202",SKU-E56-BLK,Travel Duffel,1,95.0
+1e985f89-af6d-4f51-b488-0aae6a65c553,2025-01-30T00:54:33Z,Carol Martin,"321 Pine St, San Francisco CA 94108",SKU-H89-GRN,Camera Bag,1,85.0
+13e86cf4-8350-413a-8340-070291c24182,2025-01-30T00:24:04Z,Charles Walker,"200 State St, Boston MA 02109",SKU-C34-NVY,Executive Briefcase,1,125.0
+c44cabd0-0305-4bf4-a046-aef3770d74ff,2025-01-29T17:44:54Z,Robert Perez,"234 Broadway, Denver CO 80205",SKU-E56-BLK,Travel Duffel,1,95.0
+67888ede-ca2d-4f37-ad21-258994e803ee,2025-01-29T15:44:29Z,Paul Gomez,"100 E Washington St, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,1,95.0
+fc76ea66-fd5a-4fc9-9108-d0a6bdfd7ba5,2025-01-29T11:52:15Z,Sharon Hall,"500 Broadway, Seattle WA 98122",SKU-D45-BRN,Leather Wallet,2,45.0
+1e08c253-2a57-44e4-be62-53c0fbc38c9d,2025-01-29T06:58:38Z,Sharon Flores,"444 Travis St, Houston TX 77002",SKU-C34-NVY,Executive Briefcase,1,125.0
+5a7d6b1e-0fd1-4fe5-a430-d52b0f2369ec,2025-01-29T06:56:45Z,Brian Scott,"123 Market St, San Francisco CA 94103",SKU-D45-BRN,Leather Wallet,1,45.0
+817caf01-9573-47fa-9d6f-130f120e548c,2025-01-29T06:20:26Z,Joshua Perez,"300 Congress St, Boston MA 02210",SKU-G78-BLU,Laptop Sleeve,1,35.0
+60cd4fef-b494-4c3a-9a20-d55b817ccfad,2025-01-29T03:31:41Z,Jennifer Williams,"789 Ocean Ave, San Diego CA 92101",SKU-F67-RED,Sports Backpack,1,55.0
+c76facea-3ed7-46be-96c4-7e09c071f343,2025-01-29T01:24:44Z,Richard Nguyen,"200 Marietta St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,1,79.0
+3c9fafb8-bbdc-449e-84f8-df53010b67f8,2025-01-28T23:33:09Z,Charles Evans,"456 S Wacker Dr, Chicago IL 60606",SKU-F67-RED,Sports Backpack,3,55.0
+5105334e-b3b4-4df9-b0b8-d60e1c25ce6b,2025-01-28T16:46:23Z,Barbara Gomez,"300 Park Ave, New York NY 10022",SKU-G78-BLU,Laptop Sleeve,1,35.0
+91e2ce1a-fd0c-4900-9e97-29820fbe12a9,2025-01-28T16:26:11Z,William Brown,"500 Lexington Ave, New York NY 10170",SKU-G78-BLU,Laptop Sleeve,1,35.0
+82f097b5-743a-4e03-8f99-1c4fa0c0d49e,2025-01-28T12:35:38Z,Nancy Davis,"500 Broadway, Seattle WA 98122",SKU-E56-BLK,Travel Duffel,2,95.0
+4e0976b6-9eb1-496a-85ec-d477eeb03b80,2025-01-28T08:42:51Z,Jennifer Sanchez,"400 Pine St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,3,45.0
+423acba5-9c2a-45d9-9a4c-dbe0837af295,2025-01-28T07:43:00Z,Thomas Nelson,"500 Boylston St, Boston MA 02116",SKU-F67-RED,Sports Backpack,1,55.0
+600c55f5-0f48-477b-abbe-bf30db46e7f0,2025-01-28T04:17:52Z,Angela Baker,"100 Broadway, New York NY 10005",SKU-E56-BLK,Travel Duffel,1,95.0
+61e013b2-a005-40a1-a4bd-1f39ca6380c3,2025-01-28T02:10:34Z,Sharon Hall,"500 Lexington Ave, New York NY 10170",SKU-H89-GRN,Camera Bag,1,85.0
+e454839c-e248-4ef5-afe0-0964a23b2def,2025-01-27T18:20:07Z,Kevin Lopez,"500 University Dr, Tempe AZ 85281",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+7824be68-d4a4-4538-9e0d-dc143b8543be,2025-01-27T07:20:00Z,Ruth Green,"300 University St, Seattle WA 98101",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+a911d3d6-8ee8-40e6-8640-1393389438e7,2025-01-27T05:41:54Z,Mary Wright,"500 Boylston St, Boston MA 02116",SKU-A12-BLK,Transit Backpack,1,79.0
+2c6a8388-902e-4728-8fa5-8baa6b088ce3,2025-01-26T21:28:39Z,Barbara Gomez,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-E56-BLK,Travel Duffel,1,95.0
+71b81b5b-e945-4eb8-9080-8dd3f9f966eb,2025-01-26T17:32:30Z,Ruth Harris,"400 Atlantic Ave, Boston MA 02110",SKU-G78-BLU,Laptop Sleeve,1,35.0
+a314bcfd-a180-4b32-97ab-defb0b63c670,2025-01-26T10:27:04Z,Kimberly Thomas,"500 North Ave, Atlanta GA 30308",SKU-H89-GRN,Camera Bag,3,85.0
+f10204e5-40a8-4e7f-ae3f-6a27f1c2271a,2025-01-26T07:35:26Z,Barbara Martinez,"300 Spring St, Atlanta GA 30308",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+66096948-c565-4e8a-aa63-79ab9fb31425,2025-01-26T03:46:34Z,Matthew Davis,"505 Beach Blvd, Jacksonville FL 32250",SKU-G78-BLU,Laptop Sleeve,1,35.0
+dc8d42e9-abd2-4ef1-8b33-e6f3efe7044f,2025-01-25T22:39:21Z,Laura Perez,"789 Ocean Ave, San Diego CA 92101",SKU-D45-BRN,Leather Wallet,2,45.0
+86178f4f-4ca4-4489-a2cb-9746dc2879a5,2025-01-25T21:00:22Z,Kimberly Clark,"202 Collins Ave, Miami Beach FL 33140",SKU-F67-RED,Sports Backpack,1,55.0
+a2718715-d24b-4243-862b-11d60541f223,2025-01-25T16:47:05Z,Matthew Davis,"500 Broadway, Seattle WA 98122",SKU-G78-BLU,Laptop Sleeve,1,35.0
+df5ac6a7-0825-44ee-b604-49e22058d08c,2025-01-25T14:22:42Z,Matthew Mitchell,"100 E Washington St, Phoenix AZ 85004",SKU-G78-BLU,Laptop Sleeve,2,35.0
+8203ea2c-9d8f-4127-ab33-91020630fc65,2025-01-25T06:17:09Z,Mark Young,"300 Park Ave, New York NY 10022",SKU-E56-BLK,Travel Duffel,1,95.0
+487cf57c-550a-451f-95e8-df6b897946ed,2025-01-25T04:40:02Z,Sarah Lee,"333 Commerce St, Dallas TX 75201",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+3903ef50-9acf-419e-acc8-95bd8460cd14,2025-01-24T21:05:20Z,Sandra Thompson,"321 Pine St, San Francisco CA 94108",SKU-H89-GRN,Camera Bag,1,85.0
+f788ceb4-767f-497b-b884-b2291ae62591,2025-01-24T18:56:54Z,James White,"100 Pike St, Seattle WA 98101",SKU-F67-RED,Sports Backpack,2,55.0
+55e1701d-c734-4da3-b44c-1d6ad7409e5f,2025-01-24T16:17:50Z,Barbara Martinez,"200 Marietta St, Atlanta GA 30303",SKU-A12-BLK,Transit Backpack,2,79.0
+50df0509-1ed7-458e-8c87-44cd16dddb7b,2025-01-24T14:50:04Z,Matthew Turner,"300 E Van Buren St, Phoenix AZ 85004",SKU-D45-BRN,Leather Wallet,3,45.0
+de50429c-7e65-425d-932f-f95bbdcbb3ec,2025-01-24T12:35:17Z,Kenneth Gonzalez,"505 Beach Blvd, Jacksonville FL 32250",SKU-A12-BLK,Transit Backpack,1,79.0
+119dd395-864e-48da-865b-f281aa193397,2025-01-24T08:42:29Z,Kevin Thompson,"123 N Michigan Ave, Chicago IL 60601",SKU-C34-NVY,Executive Briefcase,1,125.0
+183a36b8-ee2e-4748-860c-cd5420923542,2025-01-24T02:53:48Z,Mark Rivera,"300 Congress St, Boston MA 02210",SKU-E56-BLK,Travel Duffel,1,95.0
+6b8a2fa3-59bf-47e3-a9f4-5049543a2997,2025-01-23T22:07:57Z,Mary Phillips,"400 Mill Ave, Tempe AZ 85281",SKU-E56-BLK,Travel Duffel,1,95.0
+1f3b84b9-86b2-46c9-b977-b7c41217ef93,2025-01-23T20:11:55Z,Matthew Allen,"100 E Washington St, Phoenix AZ 85004",SKU-F67-RED,Sports Backpack,1,55.0
+5faa8c59-66da-4951-b32d-3662a3f16cde,2025-01-23T17:26:02Z,David King,"202 Collins Ave, Miami Beach FL 33140",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+56be0f94-602c-4861-adf2-9da3025d7d9d,2025-01-23T09:03:25Z,David King,"200 State St, Boston MA 02109",SKU-G78-BLU,Laptop Sleeve,1,35.0
+d6ecf5f9-d5a2-4e30-86ca-6fe32387be82,2025-01-23T08:46:58Z,Jennifer Gonzalez,"456 Pearl St, Boulder CO 80302",SKU-F67-RED,Sports Backpack,1,55.0
+66cec7ae-877b-4af2-a4d3-1df1cf1dcaba,2025-01-23T05:15:31Z,Laura Thompson,"100 Broadway, New York NY 10005",SKU-H89-GRN,Camera Bag,1,85.0
+b2ec1191-c67b-4aed-abee-42b22a37b598,2025-01-23T01:19:09Z,Susan Johnson,"222 Main St, Houston TX 77002",SKU-E56-BLK,Travel Duffel,4,95.0
+83732f1a-ecc7-450a-8601-89d065dadba1,2025-01-22T22:41:12Z,Robert Adams,"505 Beach Blvd, Jacksonville FL 32250",SKU-F67-RED,Sports Backpack,2,55.0
+d6209ca3-a3a0-44b0-b44f-f327fc77dd57,2025-01-22T12:47:16Z,Jessica Johnson,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-D45-BRN,Leather Wallet,3,45.0
+b247d5b6-64e7-4fd6-914a-ee0832432102,2025-01-22T09:38:54Z,Donna Martinez,"123 N Michigan Ave, Chicago IL 60601",SKU-G78-BLU,Laptop Sleeve,2,35.0
+f0a177e9-ec07-4e74-bc0c-4d035559447d,2025-01-22T06:46:31Z,Donna Evans,"200 1st Ave, Seattle WA 98104",SKU-D45-BRN,Leather Wallet,1,45.0
+042eaca3-134b-4f90-bd20-c2729e30da29,2025-01-22T06:10:12Z,Paul Brown,"345 N State St, Chicago IL 60654",SKU-E56-BLK,Travel Duffel,1,95.0
+f80c8a2e-48b7-49aa-9a7d-8073ea9ea918,2025-01-22T03:31:08Z,Timothy Brown,"400 Atlantic Ave, Boston MA 02110",SKU-H89-GRN,Camera Bag,3,85.0
+11b0df1e-677f-449d-8580-ba914f445a56,2025-01-22T01:07:56Z,Laura Perez,"222 Main St, Houston TX 77002",SKU-B23-GRY,Urban Messenger Bag,4,65.0
+f08c29a3-ccbe-47e4-86c2-f608d36aa32b,2025-01-21T17:40:18Z,Kevin Williams,"200 Marietta St, Atlanta GA 30303",SKU-H89-GRN,Camera Bag,1,85.0
+fd864dc4-9bad-443d-87a7-c1ee3b59c451,2025-01-21T14:06:01Z,Joseph Scott,"505 Beach Blvd, Jacksonville FL 32250",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+a3805922-a181-47b9-ac95-725c8f7483fd,2025-01-21T13:56:34Z,Karen Clark,"200 1st Ave, Seattle WA 98104",SKU-D45-BRN,Leather Wallet,2,45.0
+42da3061-da6f-4b45-8494-285c6b17461c,2025-01-21T07:51:12Z,Jason Harris,"123 Market St, San Francisco CA 94103",SKU-G78-BLU,Laptop Sleeve,2,35.0
+cf5686b5-9b9e-4afd-bb7b-3a8b9b09be6c,2025-01-21T03:03:17Z,Sharon Hall,"200 5th Ave, New York NY 10010",SKU-E56-BLK,Travel Duffel,1,95.0
+812427b8-f17b-40ea-8737-2e1338d64e1b,2025-01-21T02:13:01Z,Kenneth Jackson,"111 Congress Ave, Austin TX 78701",SKU-E56-BLK,Travel Duffel,1,95.0
+8f294059-f4da-4cf1-a410-d6efa986e8f6,2025-01-21T01:39:21Z,Ronald Clark,"300 University St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,1,79.0
+7a1c0142-5c33-48a6-9787-8fb57777c5eb,2025-01-20T23:20:49Z,Matthew Allen,"200 5th Ave, New York NY 10010",SKU-C34-NVY,Executive Briefcase,1,125.0
+21892755-f8e3-41a2-9bda-34a87c2b0a0c,2025-01-20T22:04:56Z,Ruth Jackson,"400 Piedmont Ave, Atlanta GA 30308",SKU-H89-GRN,Camera Bag,2,85.0
+429dd63d-5637-4292-b863-461b6702336a,2025-01-20T21:02:40Z,Angela Baker,"123 N Michigan Ave, Chicago IL 60601",SKU-E56-BLK,Travel Duffel,1,95.0
+89ec39d9-7daf-44fd-82c5-15da1984526c,2025-01-20T01:59:18Z,Joshua Campbell,"500 Boylston St, Boston MA 02116",SKU-D45-BRN,Leather Wallet,2,45.0
+6b78437d-b591-4e73-a4b8-6897641afd92,2025-01-19T20:18:01Z,Sandra Turner,"456 S Wacker Dr, Chicago IL 60606",SKU-D45-BRN,Leather Wallet,1,45.0
+31f14f4c-8ac9-4f68-aee9-f875429bef85,2025-01-19T18:59:17Z,James Williams,"234 Broadway, Denver CO 80205",SKU-A12-BLK,Transit Backpack,1,79.0
+062cef69-0b02-4609-b592-5aaa33b6c99a,2025-01-19T16:56:46Z,Anthony Adams,"400 Pine St, Seattle WA 98101",SKU-F67-RED,Sports Backpack,2,55.0
+c68e6c76-af55-4269-bba7-e6e679a785b1,2025-01-19T15:01:20Z,Daniel Young,"123 N Michigan Ave, Chicago IL 60601",SKU-H89-GRN,Camera Bag,4,85.0
+1f9d766b-0f1f-49fb-88ee-71aa6b325b86,2025-01-19T08:09:32Z,Laura Jackson,"303 Biscayne Blvd, Miami FL 33132",SKU-D45-BRN,Leather Wallet,2,45.0
+ce03d289-7a14-42f3-a9ef-72fcf3b985a6,2025-01-19T07:05:34Z,Joshua Thomas,"321 Pine St, San Francisco CA 94108",SKU-C34-NVY,Executive Briefcase,1,125.0
+a1cfcef3-19a2-418f-9294-26b63ba0c1c6,2025-01-19T02:37:29Z,Sandra Diaz,"500 Broadway, Seattle WA 98122",SKU-G78-BLU,Laptop Sleeve,4,35.0
+1385c37c-346e-4cdd-8aa8-3322779590a4,2025-01-18T23:35:13Z,Betty Carter,"202 Collins Ave, Miami Beach FL 33140",SKU-H89-GRN,Camera Bag,1,85.0
+8fc420a4-0eeb-4afb-a584-59cc52594207,2025-01-18T15:31:02Z,Nancy Miller,"234 W Madison St, Chicago IL 60606",SKU-F67-RED,Sports Backpack,1,55.0
+5c238034-8aff-4b13-b0ab-f1523c37cf3e,2025-01-18T10:26:24Z,Sarah Nguyen,"400 Atlantic Ave, Boston MA 02110",SKU-H89-GRN,Camera Bag,1,85.0
+967f0a2b-c8af-4505-bc1b-1adabfbb5883,2025-01-18T07:05:49Z,Joseph Scott,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-E56-BLK,Travel Duffel,1,95.0
+25c161ec-8d04-4c8a-9cdd-3f8e3a6cf509,2025-01-18T05:51:18Z,David Clark,"123 Market St, San Francisco CA 94103",SKU-C34-NVY,Executive Briefcase,1,125.0
+fdabfd50-0c9c-44dc-bdda-493a838aafbe,2025-01-18T02:21:19Z,Kimberly Hall,"567 E Grand Ave, Chicago IL 60611",SKU-C34-NVY,Executive Briefcase,1,125.0
+78d54e9c-50e7-489b-8c53-bdf30d68f3e2,2025-01-18T01:05:02Z,Andrew Perez,"202 Collins Ave, Miami Beach FL 33140",SKU-G78-BLU,Laptop Sleeve,1,35.0
+717ed931-070b-4d85-b454-4bbc5532c551,2025-01-17T14:33:20Z,Sharon Hall,"567 E Grand Ave, Chicago IL 60611",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+e08408b9-75c7-4a62-bc42-444fef2811c5,2025-01-17T08:00:19Z,Jason Hernandez,"333 Commerce St, Dallas TX 75201",SKU-A12-BLK,Transit Backpack,1,79.0
+2b7d4183-7b95-44ec-90ac-cd55e6986c0d,2025-01-17T02:49:09Z,Edward Nguyen,"200 1st Ave, Seattle WA 98104",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+db7277ce-4719-4de0-9abb-f40a499d1756,2025-01-16T21:45:47Z,James Lewis,"300 University St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,2,45.0
+1aa6d54c-afc8-48de-bcf5-8a1b876f6d44,2025-01-16T19:53:21Z,Brian Scott,"300 Congress St, Boston MA 02210",SKU-C34-NVY,Executive Briefcase,1,125.0
+a39a733b-16c3-406f-a513-b9f5e85c41c7,2025-01-16T18:35:19Z,William Gomez,"111 Congress Ave, Austin TX 78701",SKU-H89-GRN,Camera Bag,2,85.0
+2ffca61b-ae1f-4b75-bd24-ed3170f7bce0,2025-01-16T15:28:03Z,Charles Anderson,"100 Pike St, Seattle WA 98101",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+a7393722-5eb8-4c3e-a449-6c0ca0ccfdbe,2025-01-16T14:57:26Z,Paul Jones,"300 Congress St, Boston MA 02210",SKU-C34-NVY,Executive Briefcase,1,125.0
+fcc033a4-c9e5-4233-8774-cadee1bc2649,2025-01-16T03:34:08Z,Michael Roberts,"123 Maple St, Denver CO 80218",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+9afa2209-d447-4c3f-8ea2-d3017db08ed6,2025-01-15T12:32:20Z,Angela Jones,"444 Travis St, Houston TX 77002",SKU-A12-BLK,Transit Backpack,4,79.0
+4e33afd6-45fc-4a84-9347-bf83cf2c12cc,2025-01-15T09:58:10Z,Emily Martinez,"200 1st Ave, Seattle WA 98104",SKU-D45-BRN,Leather Wallet,1,45.0
+9c3a262d-e9c4-49b2-b165-655211017bef,2025-01-15T04:09:17Z,Charles Taylor,"345 N State St, Chicago IL 60654",SKU-H89-GRN,Camera Bag,4,85.0
+11c479c4-5ab5-4ed8-9514-895d48fe9d9e,2025-01-15T02:21:08Z,Richard Sanchez,"400 Mill Ave, Tempe AZ 85281",SKU-G78-BLU,Laptop Sleeve,4,35.0
+63dcb6c3-ba1a-42f9-89a9-f0a2349f4114,2025-01-14T21:00:08Z,Jennifer Gonzalez,"400 Mill Ave, Tempe AZ 85281",SKU-G78-BLU,Laptop Sleeve,1,35.0
+00a6a439-cce6-4f83-80fd-58e724be7290,2025-01-14T16:47:39Z,Donna Torres,"400 Madison Ave, New York NY 10017",SKU-B23-GRY,Urban Messenger Bag,4,65.0
+e1ea16c6-96b8-4181-8fee-4989544ed48e,2025-01-14T13:55:19Z,Daniel Anderson,"500 Broadway, Seattle WA 98122",SKU-B23-GRY,Urban Messenger Bag,4,65.0
+bf56e61c-92c9-47b4-bfc4-0b0405a349e0,2025-01-14T12:32:43Z,Kevin Lopez,"234 Broadway, Denver CO 80205",SKU-C34-NVY,Executive Briefcase,1,125.0
+39d925d5-870e-4812-8aa0-d3624a36d08f,2025-01-14T05:38:23Z,Anthony White,"789 Ocean Ave, San Diego CA 92101",SKU-H89-GRN,Camera Bag,1,85.0
+b487c3f5-2be4-463c-8b61-4b307eb5ccd5,2025-01-14T04:30:19Z,William Rodriguez,"100 Pike St, Seattle WA 98101",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+4f81ff1f-02e5-4597-be0d-afcec6dc9cfc,2025-01-14T02:54:48Z,Joshua Perez,"500 Boylston St, Boston MA 02116",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+9e65a6de-ab54-4e85-a9af-52966d3b8bff,2025-01-14T02:00:12Z,Laura Young,"123 Maple St, Denver CO 80218",SKU-E56-BLK,Travel Duffel,1,95.0
+d7666200-5452-4168-8e97-8f76c6024d3d,2025-01-13T22:50:59Z,Sandra Turner,"789 Ocean Ave, San Diego CA 92101",SKU-F67-RED,Sports Backpack,1,55.0
+2e719a93-009f-40ea-a920-126712a8dc44,2025-01-13T17:27:30Z,Michelle Turner,"333 Commerce St, Dallas TX 75201",SKU-D45-BRN,Leather Wallet,2,45.0
+79544fc6-ea31-4624-943c-6e1e9f374578,2025-01-13T16:05:01Z,Michelle Walker,"400 Madison Ave, New York NY 10017",SKU-G78-BLU,Laptop Sleeve,1,35.0
+a9c13788-a57a-4a72-9273-a12f2da5e3f8,2025-01-13T09:59:27Z,Ruth Jackson,"100 Peachtree St, Atlanta GA 30303",SKU-C34-NVY,Executive Briefcase,1,125.0
+e199ea6d-b334-4a87-bbe4-5114e567a5c0,2025-01-13T07:48:14Z,Laura Jackson,"200 N Central Ave, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,1,95.0
+9639ec54-51a0-4a7f-a45a-d867e03fa7d4,2025-01-13T06:34:09Z,George Anderson,"500 North Ave, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,1,35.0
+5f94beb0-9eba-48c0-9263-5d225583f87e,2025-01-13T02:25:44Z,Amy Anderson,"123 N Michigan Ave, Chicago IL 60601",SKU-A12-BLK,Transit Backpack,1,79.0
+4bd5982e-e486-4bf8-b1d3-99514cc27f86,2025-01-13T02:13:29Z,Mary Phillips,"333 Commerce St, Dallas TX 75201",SKU-E56-BLK,Travel Duffel,1,95.0
+020cb947-6fd2-456b-8cc5-5d10943baec2,2025-01-13T01:57:59Z,Laura Sanchez,"200 N Central Ave, Phoenix AZ 85004",SKU-E56-BLK,Travel Duffel,1,95.0
+34b116c9-c650-421a-ada2-5a56b0de05f9,2025-01-12T23:33:27Z,Kenneth Jackson,"123 Maple St, Denver CO 80218",SKU-D45-BRN,Leather Wallet,3,45.0
+47855cae-cb39-4f6a-b757-c2866fc491c6,2025-01-12T19:53:29Z,James Williams,"300 Park Ave, New York NY 10022",SKU-E56-BLK,Travel Duffel,2,95.0
+acc5caf3-c21a-4ee0-8732-fd22ced36893,2025-01-12T08:05:57Z,Timothy Harris,"200 Marietta St, Atlanta GA 30303",SKU-C34-NVY,Executive Briefcase,1,125.0
+db4f17cc-34c8-4532-b514-bfcf077a7ad6,2025-01-12T07:09:04Z,Timothy Lewis,"234 Broadway, Denver CO 80205",SKU-D45-BRN,Leather Wallet,4,45.0
+8d08596c-d44c-4cd6-afec-157176705174,2025-01-12T00:23:00Z,Helen Perez,"200 State St, Boston MA 02109",SKU-A12-BLK,Transit Backpack,1,79.0
+878913bb-70b4-423e-b748-4cb567a36ad1,2025-01-11T22:57:34Z,Laura Thompson,"345 Lincoln St, Denver CO 80203",SKU-A12-BLK,Transit Backpack,1,79.0
+276e2d73-c90e-47b9-aa89-70af4e78478b,2025-01-10T20:59:07Z,William Gomez,"300 University St, Seattle WA 98101",SKU-D45-BRN,Leather Wallet,2,45.0
+e4bd1cca-cc75-441a-8ec7-f0f4eecd79ce,2025-01-10T19:09:04Z,Richard Ramirez,"567 E Grand Ave, Chicago IL 60611",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+ece45382-d168-418a-bf42-488c4da7b704,2025-01-10T08:06:44Z,Edward Nguyen,"300 University St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,2,85.0
+13c9fc6a-b298-4cde-8bd6-c3b3505162e9,2025-01-10T06:49:23Z,Sarah Brown,"100 Summer St, Boston MA 02110",SKU-E56-BLK,Travel Duffel,2,95.0
+ea863d51-b197-4f7a-88bd-9fb283e23475,2025-01-10T04:24:19Z,James Mitchell,"234 W Madison St, Chicago IL 60606",SKU-G78-BLU,Laptop Sleeve,1,35.0
+158bb192-fd99-4d77-8ed6-e23798b75f56,2025-01-09T22:40:01Z,Carol Garcia,"100 Pike St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,1,79.0
+88500a92-f0e0-49bb-af5a-36b6267a8a78,2025-01-09T17:30:40Z,Ashley Lopez,"300 University St, Seattle WA 98101",SKU-F67-RED,Sports Backpack,1,55.0
+1a2789d4-1080-4dcc-9cb9-081c92f5d92c,2025-01-09T14:06:53Z,William Rodriguez,"500 Lexington Ave, New York NY 10170",SKU-D45-BRN,Leather Wallet,2,45.0
+b0cb1aea-da73-4bbb-b1fb-a730f02303fc,2025-01-09T12:47:57Z,Lisa Lewis,"500 University Dr, Tempe AZ 85281",SKU-B23-GRY,Urban Messenger Bag,3,65.0
+da5bcf0e-402a-44c0-958a-96d84f3f9b0c,2025-01-09T09:21:49Z,Ronald Hill,"123 Market St, San Francisco CA 94103",SKU-H89-GRN,Camera Bag,1,85.0
+50391937-29fa-4ba2-901b-91bf927169d3,2025-01-09T00:12:31Z,Sharon Hall,"456 Pearl St, Boulder CO 80302",SKU-F67-RED,Sports Backpack,1,55.0
+33a622f7-3c5c-4701-8936-ca267464a809,2025-01-08T21:32:19Z,Mary Mitchell,"100 Peachtree St, Atlanta GA 30303",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+d38b5075-ecea-4524-ad8f-0c15870a07a7,2025-01-08T15:41:58Z,Paul Gomez,"500 Lexington Ave, New York NY 10170",SKU-A12-BLK,Transit Backpack,2,79.0
+657ed954-d4d2-4091-b4f7-6286fdf85c58,2025-01-08T15:16:17Z,Richard Nguyen,"333 Commerce St, Dallas TX 75201",SKU-F67-RED,Sports Backpack,3,55.0
+ff8e165d-9d11-4e60-ad84-3cceae0e0062,2025-01-08T12:46:10Z,Michelle Lee,"321 Pine St, San Francisco CA 94108",SKU-F67-RED,Sports Backpack,2,55.0
+83ead09e-529f-4775-b758-ef70f0f41c73,2025-01-08T12:24:15Z,Lisa Lee,"400 Atlantic Ave, Boston MA 02110",SKU-D45-BRN,Leather Wallet,1,45.0
+8d9c877e-2da8-415e-9d8f-2b1ccb2bc618,2025-01-08T08:37:41Z,Robert Adams,"202 Collins Ave, Miami Beach FL 33140",SKU-H89-GRN,Camera Bag,1,85.0
+af7f6928-633c-4826-87b5-e183d7fbcf8e,2025-01-08T07:18:42Z,Daniel Young,"100 E Washington St, Phoenix AZ 85004",SKU-D45-BRN,Leather Wallet,1,45.0
+692df8f0-a017-43a9-a3be-0f275d83f284,2025-01-08T07:01:43Z,James Harris,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-A12-BLK,Transit Backpack,1,79.0
+b3593f89-9709-499f-817a-f674ffc035cb,2025-01-08T04:06:46Z,Paul Gomez,"456 Pearl St, Boulder CO 80302",SKU-F67-RED,Sports Backpack,3,55.0
+b0231c94-05ce-4e5f-a344-3412db1c184c,2025-01-08T02:47:24Z,Nancy Miller,"300 E Van Buren St, Phoenix AZ 85004",SKU-C34-NVY,Executive Briefcase,1,125.0
+db288c89-d793-4fcd-a73f-16f829326dcd,2025-01-07T18:05:09Z,Anthony Adams,"321 Pine St, San Francisco CA 94108",SKU-E56-BLK,Travel Duffel,1,95.0
+3af372db-b549-4f8d-8630-2be96b3d5a39,2025-01-07T15:03:32Z,Ronald Clark,"500 Lexington Ave, New York NY 10170",SKU-C34-NVY,Executive Briefcase,1,125.0
+9076e1c5-14b2-40f1-ad91-b3c7e8ef79e6,2025-01-06T20:20:26Z,Ruth Green,"100 Peachtree St, Atlanta GA 30303",SKU-G78-BLU,Laptop Sleeve,2,35.0
+630b83f8-ae70-45e0-ab40-84dfd30bf811,2025-01-06T01:33:53Z,Ashley Miller,"456 Pearl St, Boulder CO 80302",SKU-H89-GRN,Camera Bag,1,85.0
+63d85cde-f71e-49aa-9387-79c4b12df96e,2025-01-05T23:50:33Z,Andrew Perez,"300 Congress St, Boston MA 02210",SKU-A12-BLK,Transit Backpack,2,79.0
+f3e2fa98-807d-4e63-891e-9b12c50f6d8e,2025-01-05T21:03:26Z,Ruth Jackson,"456 S Wacker Dr, Chicago IL 60606",SKU-F67-RED,Sports Backpack,2,55.0
+a10ca8c2-ae7e-46bc-9304-30dc5b705d27,2025-01-05T09:42:39Z,Matthew Allen,"123 Market St, San Francisco CA 94103",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+70ae43a4-8019-4797-8605-bb76c54b93c5,2025-01-04T22:24:54Z,Joseph Taylor,"123 N Michigan Ave, Chicago IL 60601",SKU-F67-RED,Sports Backpack,1,55.0
+3fadb393-64d5-42bd-9187-ad03c3b8486e,2025-01-04T19:12:08Z,Helen Gonzalez,"123 Maple St, Denver CO 80218",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+a9db193c-1895-48dd-b653-0c47e00adc38,2025-01-04T16:27:00Z,Dorothy Adams,"200 1st Ave, Seattle WA 98104",SKU-C34-NVY,Executive Briefcase,3,125.0
+01a046ef-ef01-4e42-8b6a-e8d0a1e350c1,2025-01-04T16:23:37Z,Sarah Roberts,"100 E Washington St, Phoenix AZ 85004",SKU-H89-GRN,Camera Bag,1,85.0
+2ac1fc63-92a9-42ef-8f8b-9bcd2a360909,2025-01-04T15:30:25Z,Mary Wright,"222 Main St, Houston TX 77002",SKU-G78-BLU,Laptop Sleeve,2,35.0
+2938d230-7ff8-4332-93d8-2a025061206a,2025-01-04T14:09:02Z,James White,"222 Main St, Houston TX 77002",SKU-F67-RED,Sports Backpack,3,55.0
+421df5d2-fc81-47b6-a18f-bc69f9ac0768,2025-01-04T07:51:33Z,Paul Jones,"500 North Ave, Atlanta GA 30308",SKU-C34-NVY,Executive Briefcase,3,125.0
+49afccdf-3159-42ab-b1e4-77a2202a498b,2025-01-03T20:50:10Z,Jessica Johnson,"789 Ocean Ave, San Diego CA 92101",SKU-F67-RED,Sports Backpack,4,55.0
+a2a82892-63ed-472f-83b2-bbfbe6dc5285,2025-01-03T15:33:15Z,Matthew Davis,"567 E Grand Ave, Chicago IL 60611",SKU-A12-BLK,Transit Backpack,2,79.0
+fd7f705c-e10a-4b83-96a5-0c97082c2e68,2025-01-03T09:37:00Z,Kenneth Phillips,"345 Lincoln St, Denver CO 80203",SKU-C34-NVY,Executive Briefcase,2,125.0
+38d5fea6-06c1-468a-a82d-8ce41161ae67,2025-01-03T03:40:02Z,Matthew Thomas,"300 E Van Buren St, Phoenix AZ 85004",SKU-G78-BLU,Laptop Sleeve,1,35.0
+22d4c44a-e86a-4d12-9ec3-9d541c87428f,2025-01-03T03:26:10Z,George Anderson,"345 Lincoln St, Denver CO 80203",SKU-F67-RED,Sports Backpack,1,55.0
+39bd11ec-4792-4c56-81d3-1168210423a2,2025-01-03T01:53:22Z,John Robinson,"100 Summer St, Boston MA 02110",SKU-H89-GRN,Camera Bag,1,85.0
+1c5086d5-d606-4de2-a508-f97a8ea55f18,2025-01-03T01:53:04Z,Donna Evans,"234 Broadway, Denver CO 80205",SKU-H89-GRN,Camera Bag,1,85.0
+421deb60-e18a-4d08-b916-8deb7fe8c1a9,2025-01-03T01:04:57Z,Michelle Jackson,"101 Ocean Dr, Miami Beach FL 33139",SKU-F67-RED,Sports Backpack,1,55.0
+fc78fd7f-2ff2-41a2-9d29-cd6f63e6b530,2025-01-02T12:40:15Z,Sharon Flores,"400 Madison Ave, New York NY 10017",SKU-H89-GRN,Camera Bag,4,85.0
+3e881a9b-60c4-4ef4-8d8d-03a818e1e100,2025-01-02T02:40:48Z,Joseph Scott,"200 5th Ave, New York NY 10010",SKU-A12-BLK,Transit Backpack,1,79.0
+700e191d-a5e5-40b3-858b-5e3145aa270e,2025-01-01T21:11:03Z,Daniel Harris,"200 1st Ave, Seattle WA 98104",SKU-E56-BLK,Travel Duffel,2,95.0
+bc5a6417-27e3-4550-bee8-7989e7823b27,2025-01-01T20:12:18Z,James Mitchell,"456 Pearl St, Boulder CO 80302",SKU-H89-GRN,Camera Bag,1,85.0
+a00239c2-e1db-46aa-9182-3b900ba62306,2025-01-01T19:49:30Z,Mark Rivera,"100 Summer St, Boston MA 02110",SKU-G78-BLU,Laptop Sleeve,1,35.0
+eba07e42-f1b6-4219-a8ed-fa7f7d65ced5,2025-01-01T16:18:40Z,Joshua Campbell,"400 Piedmont Ave, Atlanta GA 30308",SKU-C34-NVY,Executive Briefcase,1,125.0
+d46b3b12-7473-4dc0-a89f-3638e8e34b71,2025-01-01T12:11:02Z,Anthony Nguyen,"400 Mill Ave, Tempe AZ 85281",SKU-D45-BRN,Leather Wallet,1,45.0
+6d57ccb0-2966-43cf-a120-13f53f1a2aca,2025-01-01T05:47:22Z,Sharon Jackson,"505 Beach Blvd, Jacksonville FL 32250",SKU-G78-BLU,Laptop Sleeve,1,35.0
+f46213d6-af11-4fd5-a760-0de4dd25207f,2025-01-01T00:43:44Z,Christopher Gonzalez,"200 N Central Ave, Phoenix AZ 85004",SKU-G78-BLU,Laptop Sleeve,1,35.0
+dd5c49ef-1016-42e6-aee1-0f258caad49e,2024-12-31T20:32:08Z,Jessica Thomas,"400 Mill Ave, Tempe AZ 85281",SKU-C34-NVY,Executive Briefcase,2,125.0
+db30cbf2-86bd-4006-bb4d-d89bb593a3e3,2024-12-31T19:48:54Z,Charles Adams,"333 Commerce St, Dallas TX 75201",SKU-E56-BLK,Travel Duffel,1,95.0
+5bc0f8c2-c491-4a0b-9012-611911f5a145,2024-12-31T17:28:00Z,Matthew Wilson,"300 Park Ave, New York NY 10022",SKU-B23-GRY,Urban Messenger Bag,4,65.0
+e9a00370-85cf-4ffd-9307-bd6aa7e5e08b,2024-12-31T15:11:47Z,Kenneth Phillips,"456 Pearl St, Boulder CO 80302",SKU-A12-BLK,Transit Backpack,1,79.0
+2447e38e-386e-4561-ab87-8f786997f1c7,2024-12-31T08:51:56Z,Charles Flores,"202 Collins Ave, Miami Beach FL 33140",SKU-H89-GRN,Camera Bag,2,85.0
+5e51c47f-b505-4fcb-ba11-e73b6d16b08d,2024-12-30T22:32:22Z,Michelle Brown,"123 Maple St, Denver CO 80218",SKU-D45-BRN,Leather Wallet,2,45.0
+0a31a668-2d5d-4ba6-821a-7bb9f15554b2,2024-12-30T17:07:15Z,Betty Martinez,"200 Marietta St, Atlanta GA 30303",SKU-E56-BLK,Travel Duffel,2,95.0
+fd52ee55-284f-4b90-a700-583981799f5c,2024-12-30T16:52:30Z,Timothy Jones,"200 N Central Ave, Phoenix AZ 85004",SKU-F67-RED,Sports Backpack,1,55.0
+2b1e664a-cfb2-4fc3-9371-f3d5c4a34af2,2024-12-30T14:19:20Z,Daniel Anderson,"400 Atlantic Ave, Boston MA 02110",SKU-F67-RED,Sports Backpack,1,55.0
+9385cbe5-4584-4d77-9bd5-fb9f8438c058,2024-12-30T13:45:07Z,George Anderson,"200 State St, Boston MA 02109",SKU-D45-BRN,Leather Wallet,1,45.0
+022435a8-789a-499c-b566-04142b8f1fab,2024-12-30T10:23:23Z,Joseph Scott,"202 Collins Ave, Miami Beach FL 33140",SKU-D45-BRN,Leather Wallet,1,45.0
+19756496-0dd8-441a-9792-106659917eb4,2024-12-30T07:32:05Z,Jennifer Sanchez,"400 Piedmont Ave, Atlanta GA 30308",SKU-H89-GRN,Camera Bag,1,85.0
+04dde04c-47d5-4e10-aa47-17fff7751233,2024-12-30T06:15:00Z,Brian Flores,"456 S Wacker Dr, Chicago IL 60606",SKU-C34-NVY,Executive Briefcase,2,125.0
+05a12612-60c0-41cc-8c32-45848cbef423,2024-12-30T02:08:52Z,Joseph Scott,"345 N State St, Chicago IL 60654",SKU-G78-BLU,Laptop Sleeve,1,35.0
+9e373d1f-525f-41d3-bc97-e50daaea6bda,2024-12-29T20:45:16Z,Jennifer Robinson,"111 Congress Ave, Austin TX 78701",SKU-F67-RED,Sports Backpack,2,55.0
+008f966a-0954-4a25-abab-827a59cfc876,2024-12-29T17:18:59Z,Sandra Thompson,"300 Park Ave, New York NY 10022",SKU-C34-NVY,Executive Briefcase,2,125.0
+ce67f61c-0912-4b2d-b2b7-83366051a2ac,2024-12-29T04:21:48Z,Lisa Evans,"111 Congress Ave, Austin TX 78701",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+48102f79-52ee-4182-9672-7acce3207421,2024-12-29T03:48:18Z,Mary Turner,"654 Hollywood Blvd, Los Angeles CA 90038",SKU-H89-GRN,Camera Bag,1,85.0
+fb60d842-6161-4fe3-bc7c-20c9d4544120,2024-12-28T23:56:45Z,Jessica Jackson,"111 Congress Ave, Austin TX 78701",SKU-A12-BLK,Transit Backpack,3,79.0
+3f7a5247-a554-4e1f-bf5c-6ad012a0909a,2024-12-28T20:18:17Z,Charles Walker,"200 State St, Boston MA 02109",SKU-F67-RED,Sports Backpack,2,55.0
+c05ade94-96c1-4884-9014-fb40c40cf34e,2024-12-28T18:17:25Z,Charles Flores,"400 Madison Ave, New York NY 10017",SKU-H89-GRN,Camera Bag,2,85.0
+72d83deb-9c23-4a2b-acf7-99778e5df118,2024-12-28T17:07:14Z,Sharon Flores,"200 N Central Ave, Phoenix AZ 85004",SKU-F67-RED,Sports Backpack,1,55.0
+235b8c9c-028a-43c5-bb59-1ca3418f0f42,2024-12-28T15:11:53Z,Kenneth Jackson,"200 Marietta St, Atlanta GA 30303",SKU-E56-BLK,Travel Duffel,2,95.0
+7738dc3d-bb58-4b5d-9cdc-06df1f857733,2024-12-28T05:31:37Z,Anthony Lee,"234 Broadway, Denver CO 80205",SKU-F67-RED,Sports Backpack,1,55.0
+3bdcee52-6ad2-44af-a614-caf00ec9c653,2024-12-28T04:34:16Z,Lisa Lewis,"100 Pike St, Seattle WA 98101",SKU-H89-GRN,Camera Bag,1,85.0
+ef30a789-ebee-415a-923a-ba5cde47c5d7,2024-12-28T00:12:45Z,Charles Anderson,"200 5th Ave, New York NY 10010",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+18e9ef96-a7c6-4d52-a787-8db144c18738,2024-12-28T00:00:04Z,Mark Young,"100 Pike St, Seattle WA 98101",SKU-C34-NVY,Executive Briefcase,2,125.0
+1b015d79-4f22-4006-bf1e-b19c7e414e0f,2024-12-27T22:22:30Z,Timothy Jones,"500 Boylston St, Boston MA 02116",SKU-C34-NVY,Executive Briefcase,1,125.0
+8ecfece5-86a0-4c95-aaa8-a6e78b686106,2024-12-27T17:12:48Z,David Miller,"300 University St, Seattle WA 98101",SKU-A12-BLK,Transit Backpack,1,79.0
+c2ecafd6-cb86-4633-bdab-e8f1dc0b1a3e,2024-12-27T17:03:37Z,Sharon Scott,"100 Broadway, New York NY 10005",SKU-C34-NVY,Executive Briefcase,1,125.0
+3b1ea19f-bc66-4f8f-87c4-1bae9da48d3f,2024-12-27T12:06:42Z,Carol Green,"500 North Ave, Atlanta GA 30308",SKU-G78-BLU,Laptop Sleeve,2,35.0
+9b57d23b-a5e6-4f2a-8004-bf627b20a688,2024-12-27T07:29:48Z,Daniel Harris,"333 Commerce St, Dallas TX 75201",SKU-D45-BRN,Leather Wallet,2,45.0
+02ded8fd-710c-46b3-b7d9-264574deedf3,2024-12-27T06:39:38Z,Jennifer Williams,"234 W Madison St, Chicago IL 60606",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+8b94605d-855d-44bd-b3dd-c3a98dcb045a,2024-12-26T12:51:08Z,Jennifer White,"200 State St, Boston MA 02109",SKU-H89-GRN,Camera Bag,2,85.0
+bd03f510-f062-4c5a-af09-f840c9a99846,2024-12-25T20:51:12Z,Betty Carter,"567 E Grand Ave, Chicago IL 60611",SKU-D45-BRN,Leather Wallet,2,45.0
+0d7236a7-193d-482b-a820-63407f6b2c8f,2024-12-25T20:09:19Z,Karen Clark,"200 State St, Boston MA 02109",SKU-F67-RED,Sports Backpack,1,55.0
+a0b20452-91fb-404c-80de-cc4b861ebda9,2024-12-25T17:25:29Z,Christopher Gonzalez,"456 Pearl St, Boulder CO 80302",SKU-D45-BRN,Leather Wallet,1,45.0
+593c0aa1-1fdc-468c-83f4-bead56fe0cf6,2024-12-25T08:42:54Z,George Anderson,"400 Pine St, Seattle WA 98101",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+8a43b3c4-e026-46a7-b32a-c1570516edf0,2024-12-25T08:17:42Z,Jessica Thomas,"456 S Wacker Dr, Chicago IL 60606",SKU-A12-BLK,Transit Backpack,2,79.0
+dfa518be-c13e-4269-83d9-7c7dbf8a5930,2024-12-25T08:09:44Z,Michelle Turner,"234 Broadway, Denver CO 80205",SKU-B23-GRY,Urban Messenger Bag,1,65.0
+42a2e978-8d88-43ed-8526-48ca25d4db6d,2024-12-25T00:31:06Z,David Clark,"100 Broadway, New York NY 10005",SKU-G78-BLU,Laptop Sleeve,1,35.0
+b6ab53bc-f9b1-476b-96b7-b77854e4bd56,2024-12-24T18:00:01Z,Sandra Turner,"101 Ocean Dr, Miami Beach FL 33139",SKU-B23-GRY,Urban Messenger Bag,2,65.0
+68132f9c-23fa-4039-96db-71a744f759b8,2024-12-24T05:39:52Z,William Rodriguez,"222 Main St, Houston TX 77002",SKU-C34-NVY,Executive Briefcase,1,125.0
+3d23f955-5d07-45f6-866a-c3090c8e98fe,2024-12-23T21:48:30Z,Nancy Thompson,"303 Biscayne Blvd, Miami FL 33132",SKU-H89-GRN,Camera Bag,3,85.0
+cfbe7914-9ebb-4f2a-a584-e955c54cae75,2024-12-23T19:01:10Z,Kimberly Garcia,"345 Lincoln St, Denver CO 80203",SKU-F67-RED,Sports Backpack,1,55.0
+eba9d0f4-2625-47c3-833c-413d3d9375a0,2024-12-23T11:24:07Z,Daniel Anderson,"234 Broadway, Denver CO 80205",SKU-D45-BRN,Leather Wallet,1,45.0
+8e76427a-25fe-477f-abfa-5ba70fee9cf8,2024-12-23T08:01:07Z,Donna Torres,"300 Park Ave, New York NY 10022",SKU-G78-BLU,Laptop Sleeve,2,35.0
+8d4a54e0-1630-4a98-87cc-caabe0074911,2024-12-23T04:08:17Z,Barbara Gomez,"321 Pine St, San Francisco CA 94108",SKU-G78-BLU,Laptop Sleeve,1,35.0
